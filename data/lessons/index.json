@@ -4,116 +4,24 @@
     "number": 1,
     "title": "Apologética",
     "coverImage": "assets/images/lessons/jovens/2026_t1_capa.png",
-    "pdfAssetPath": "assets/pdfs/jov_2026_t1.pdf",
+    "pdfUrl": "https://drive.google.com/file/d/1yacPgp8JkGzHZXA5aqCGCEMr97f9MRNb/view?usp=sharing",
     "category": "jovens",
     "year": 2026,
-    "lessonCount": 13,
     "file": "jovens_2026_t1.json",
     "lessons": [
-      {
-        "id": "jov_2026_t1_l1",
-        "number": 1,
-        "title": "Vale a Pena Crer?",
-        "textKey": "1Rs 10:1-13",
-        "dateRange": "27 de Dezembro a 2 de Janeiro",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l1.png"
-      },
-      {
-        "id": "jov_2026_t1_l2",
-        "number": 2,
-        "title": "Missão: Areópago",
-        "textKey": "At 17:16-34",
-        "dateRange": "3 a 9 de Janeiro",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l2.png"
-      },
-      {
-        "id": "jov_2026_t1_l3",
-        "number": 3,
-        "title": "Assinatura do Designer",
-        "textKey": "Gn 1:1-31; 2:1-25",
-        "dateRange": "10 a 16 de Janeiro",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l3.png"
-      },
-      {
-        "id": "jov_2026_t1_l4",
-        "number": 4,
-        "title": "Por que Existe o Mal?",
-        "textKey": "Jó 1:1-22; 2:1-13",
-        "dateRange": "17 a 23 de Janeiro",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l4.png"
-      },
-      {
-        "id": "jov_2026_t1_l5",
-        "number": 5,
-        "title": "Jesus e o Hinduísmo",
-        "textKey": "Jo 3:1-19",
-        "dateRange": "24 a 30 de Janeiro",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l5.png"
-      },
-      {
-        "id": "jov_2026_t1_l6",
-        "number": 6,
-        "title": "Jesus e o Budismo",
-        "textKey": "Jo 9:1-41",
-        "dateRange": "31 de Janeiro a 6 de Fevereiro",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l6.png"
-      },
-      {
-        "id": "jov_2026_t1_l7",
-        "number": 7,
-        "title": "Jesus e o Islamismo",
-        "textKey": "Dt 6:1-25",
-        "dateRange": "7 a 13 de Fevereiro",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l7.png"
-      },
-      {
-        "id": "jov_2026_t1_l8",
-        "number": 8,
-        "title": "Por que Cristo é Diferente?",
-        "textKey": "Jo 14:5-11",
-        "dateRange": "14 a 20 de Fevereiro",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l8.png"
-      },
-      {
-        "id": "jov_2026_t1_l9",
-        "number": 9,
-        "title": "Evidências da Ressurreição",
-        "textKey": "Jo 20:1-18",
-        "dateRange": "21 a 27 de Fevereiro",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l9.png"
-      },
-      {
-        "id": "jov_2026_t1_l10",
-        "number": 10,
-        "title": "A Bíblia é Mesmo Confiável?",
-        "textKey": "Lc 24:13-35",
-        "dateRange": "28 de Fevereiro a 6 de Março",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l10.png"
-      },
-      {
-        "id": "jov_2026_t1_l11",
-        "number": 11,
-        "title": "Um Inferno que Deus Não Criou",
-        "textKey": "Ml 4:1-3",
-        "dateRange": "7 a 13 de Março",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l11.png"
-      },
-      {
-        "id": "jov_2026_t1_l12",
-        "number": 12,
-        "title": "Seitas Apocalípticas",
-        "textKey": "At 2:42-47",
-        "dateRange": "14 a 20 de Março",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l12.png"
-      },
-      {
-        "id": "jov_2026_t1_l13",
-        "number": 13,
-        "title": "Esperança para Não Cristãos",
-        "textKey": "Mt 15:21-28",
-        "dateRange": "21 a 27 de Março",
-        "tirinhaImagePath": "assets/images/tirinhas/jovens/2026_t1_l13.png"
-      }
+      { "id": "jov_2026_t1_l1",  "number": 1,  "title": "Vale a Pena Crer?",               "textKey": "1Rs 10:1-13",       "dateRange": "27 de Dezembro a 2 de Janeiro" },
+      { "id": "jov_2026_t1_l2",  "number": 2,  "title": "Missão: Areópago",                "textKey": "At 17:16-34",        "dateRange": "3 a 9 de Janeiro" },
+      { "id": "jov_2026_t1_l3",  "number": 3,  "title": "Assinatura do Designer",          "textKey": "Gn 1:1-31; 2:1-25", "dateRange": "10 a 16 de Janeiro" },
+      { "id": "jov_2026_t1_l4",  "number": 4,  "title": "Por que Existe o Mal?",           "textKey": "Jó 1:1-22; 2:1-13", "dateRange": "17 a 23 de Janeiro" },
+      { "id": "jov_2026_t1_l5",  "number": 5,  "title": "Jesus e o Hinduísmo",             "textKey": "Jo 3:1-19",          "dateRange": "24 a 30 de Janeiro" },
+      { "id": "jov_2026_t1_l6",  "number": 6,  "title": "Jesus e o Budismo",               "textKey": "Jo 9:1-41",          "dateRange": "31 de Janeiro a 6 de Fevereiro" },
+      { "id": "jov_2026_t1_l7",  "number": 7,  "title": "Jesus e o Islamismo",             "textKey": "Dt 6:1-25",          "dateRange": "7 a 13 de Fevereiro" },
+      { "id": "jov_2026_t1_l8",  "number": 8,  "title": "Por que Cristo é Diferente?",     "textKey": "Jo 14:5-11",         "dateRange": "14 a 20 de Fevereiro" },
+      { "id": "jov_2026_t1_l9",  "number": 9,  "title": "Evidências da Ressurreição",      "textKey": "Jo 20:1-18",         "dateRange": "21 a 27 de Fevereiro" },
+      { "id": "jov_2026_t1_l10", "number": 10, "title": "A Bíblia é Mesmo Confiável?",     "textKey": "Lc 24:13-35",        "dateRange": "28 de Fevereiro a 6 de Março" },
+      { "id": "jov_2026_t1_l11", "number": 11, "title": "Um Inferno que Deus Não Criou",   "textKey": "Ml 4:1-3",           "dateRange": "7 a 13 de Março" },
+      { "id": "jov_2026_t1_l12", "number": 12, "title": "Seitas Apocalípticas",            "textKey": "At 2:42-47",         "dateRange": "14 a 20 de Março" },
+      { "id": "jov_2026_t1_l13", "number": 13, "title": "Esperança para Não Cristãos",     "textKey": "Mt 15:21-28",        "dateRange": "21 a 27 de Março" }
     ]
   },
   {
@@ -121,134 +29,48 @@
     "number": 1,
     "title": "Espírito Confortador",
     "coverImage": "assets/images/lessons/adolescentes/2026_t1_capa.png",
-    "pdfAssetPath": "assets/pdfs/ado_2026_t1.pdf",
+    "pdfUrl": "https://drive.google.com/file/d/1aGEjippjANWgJ1n0hCQLJLVQzImRl2mu/view?usp=sharing",
     "category": "adolescentes",
     "year": 2026,
-    "lessonCount": 12,
     "file": "adolescentes_2026_t1.json",
     "lessons": [
-      {
-        "id": "adol_2026_t1_l2",
-        "number": 2,
-        "title": "Quem Receberá o Espírito Santo?",
-        "textKey": "At 2:2-4",
-        "dateRange": "3 a 9 de janeiro de 2026",
-        "tirinhaImagePath": "assets/images/tirinhas/adolescentes/2026_t1_l2.png"
-      },
-      {
-        "id": "adol_2026_t1_l3",
-        "number": 3,
-        "title": "Somente Jesus",
-        "textKey": "Mt 17:8",
-        "dateRange": "10 a 16 de janeiro de 2026",
-        "tirinhaImagePath": "assets/images/tirinhas/adolescentes/2026_t1_l3.png"
-      },
-      {
-        "id": "adol_2026_t1_l4",
-        "number": 4,
-        "title": "Roubando a Deus",
-        "textKey": "At 5:1, 2",
-        "dateRange": "17 a 23 de janeiro de 2026",
-        "tirinhaImagePath": "assets/images/tirinhas/adolescentes/2026_t1_l4.png"
-      },
-      {
-        "id": "adol_2026_t1_l5",
-        "number": 5,
-        "title": "Poder. Perseverança. Propósito.",
-        "textKey": "Mt 5:11",
-        "dateRange": "24 a 30 de janeiro de 2026",
-        "tirinhaImagePath": "assets/images/tirinhas/adolescentes/2026_t1_l5.png"
-      },
-      {
-        "id": "adol_2026_t1_l6",
-        "number": 6,
-        "title": "O Primeiro Mártir Cristão",
-        "textKey": "At 6:8-10",
-        "dateRange": "31 de janeiro a 6 de fevereiro de 2026",
-        "tirinhaImagePath": "assets/images/tirinhas/adolescentes/2026_t1_l6.png"
-      },
-      {
-        "id": "adol_2026_t1_l7",
-        "number": 7,
-        "title": "Chamado por Cristo",
-        "textKey": "Fp 3:13, 14",
-        "dateRange": "7 a 13 de fevereiro de 2026",
-        "tirinhaImagePath": "assets/images/tirinhas/adolescentes/2026_t1_l7.png"
-      },
-      {
-        "id": "adol_2026_t1_l8",
-        "number": 8,
-        "title": "Os Princípios de Pedro",
-        "textKey": "2Pe 1:3",
-        "dateRange": "14 a 20 de fevereiro de 2026",
-        "tirinhaImagePath": "assets/images/tirinhas/adolescentes/2026_t1_l8.png"
-      },
-      {
-        "id": "adol_2026_t1_l9",
-        "number": 9,
-        "title": "Missionários em Ação",
-        "textKey": "At 13:38, 39",
-        "dateRange": "21 a 27 de fevereiro de 2026",
-        "tirinhaImagePath": "assets/images/tirinhas/adolescentes/2026_t1_l9.png"
-      },
-      {
-        "id": "adol_2026_t1_l10",
-        "number": 10,
-        "title": "Nós e os Demais",
-        "textKey": "At 15:8-11",
-        "dateRange": "28 de fevereiro a 6 de março de 2026",
-        "tirinhaImagePath": "assets/images/tirinhas/adolescentes/2026_t1_l10.png"
-      },
-      {
-        "id": "adol_2026_t1_l11",
-        "number": 11,
-        "title": "Crença + Valores = Ação",
-        "textKey": "Ef 4:14, 15",
-        "dateRange": "7 a 13 de março de 2026",
-        "tirinhaImagePath": "assets/images/tirinhas/adolescentes/2026_t1_l11.png"
-      },
-      {
-        "id": "adol_2026_t1_l12",
-        "number": 12,
-        "title": "Não Perca a Esperança!",
-        "textKey": "1Ts 4:16, 17",
-        "dateRange": "14 a 20 de março de 2026",
-        "tirinhaImagePath": "assets/images/tirinhas/adolescentes/2026_t1_l12.png"
-      },
-      {
-        "id": "adol_2026_t1_l13",
-        "number": 13,
-        "title": "Uma Minoria Impopular",
-        "textKey": "At 19:11, 12",
-        "dateRange": "21 a 27 de março de 2026",
-        "tirinhaImagePath": "assets/images/tirinhas/adolescentes/2026_t1_l13.png"
-      }
+      { "id": "adol_2026_t1_l2",  "number": 2,  "title": "Quem Receberá o Espírito Santo?", "textKey": "At 2:2-4",    "dateRange": "3 a 9 de janeiro de 2026" },
+      { "id": "adol_2026_t1_l3",  "number": 3,  "title": "Somente Jesus",                   "textKey": "Mt 17:8",     "dateRange": "10 a 16 de janeiro de 2026" },
+      { "id": "adol_2026_t1_l4",  "number": 4,  "title": "Roubando a Deus",                 "textKey": "At 5:1, 2",   "dateRange": "17 a 23 de janeiro de 2026" },
+      { "id": "adol_2026_t1_l5",  "number": 5,  "title": "Poder. Perseverança. Propósito.", "textKey": "Mt 5:11",     "dateRange": "24 a 30 de janeiro de 2026" },
+      { "id": "adol_2026_t1_l6",  "number": 6,  "title": "O Primeiro Mártir Cristão",       "textKey": "At 6:8-10",   "dateRange": "31 de janeiro a 6 de fevereiro de 2026" },
+      { "id": "adol_2026_t1_l7",  "number": 7,  "title": "Chamado por Cristo",              "textKey": "Fp 3:13, 14", "dateRange": "7 a 13 de fevereiro de 2026" },
+      { "id": "adol_2026_t1_l8",  "number": 8,  "title": "Os Princípios de Pedro",          "textKey": "2Pe 1:3",     "dateRange": "14 a 20 de fevereiro de 2026" },
+      { "id": "adol_2026_t1_l9",  "number": 9,  "title": "Missionários em Ação",            "textKey": "At 13:38, 39","dateRange": "21 a 27 de fevereiro de 2026" },
+      { "id": "adol_2026_t1_l10", "number": 10, "title": "Nós e os Demais",                 "textKey": "At 15:8-11",  "dateRange": "28 de fevereiro a 6 de março de 2026" },
+      { "id": "adol_2026_t1_l11", "number": 11, "title": "Crença + Valores = Ação",         "textKey": "Ef 4:14, 15", "dateRange": "7 a 13 de março de 2026" },
+      { "id": "adol_2026_t1_l12", "number": 12, "title": "Não Perca a Esperança!",          "textKey": "1Ts 4:16, 17","dateRange": "14 a 20 de março de 2026" },
+      { "id": "adol_2026_t1_l13", "number": 13, "title": "Uma Minoria Impopular",           "textKey": "At 19:11, 12","dateRange": "21 a 27 de março de 2026" }
     ]
   },
-{
-  "id": "adu_2026_t1",
-  "number": 1,
-  "title": "Cristo em Filipenses e Colossenses",
-  "coverImage": "assets/images/lessons/adultos/2026_t1_capa.png",
-  "pdfAssetPath": "assets/pdfs/adu_2026_t1.pdf",
-  "category": "adultos",
-  "year": 2026,
-  "lessonCount": 13,
-  "file": "adultos_2026_t1.json",
-  "lessons": [
-  { "id": "adu_2026_t1_l1", "number": 1, "title": "Perseguidos, mas não abandonados", "textKey": "Fp 4:4", "dateRange": "27 Dez – 2 Jan", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l1.png" },
-  { "id": "adu_2026_t1_l2", "number": 2, "title": "Razões para ação de graças e oração", "textKey": "Fp 1:6", "dateRange": "3–9 Jan", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l2.png" },
-  { "id": "adu_2026_t1_l3", "number": 3, "title": "Vida e morte", "textKey": "Fp 1:21", "dateRange": "10–16 Jan", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l3.png" },
-  { "id": "adu_2026_t1_l4", "number": 4, "title": "Unidade por meio da humildade", "textKey": "Fp 2:2", "dateRange": "17–23 Jan", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l4.png" },
-  { "id": "adu_2026_t1_l5", "number": 5, "title": "Brilhando como estrelas na noite", "textKey": "Fp 2:14, 15", "dateRange": "24–30 Jan", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l5.png" },
-  { "id": "adu_2026_t1_l6", "number": 6, "title": "Confiança somente em Cristo", "textKey": "Fp 3:10, 11", "dateRange": "31 Jan – 6 Fev", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l6.png" },
-  { "id": "adu_2026_t1_l7", "number": 7, "title": "Cidadania celestial", "textKey": "Fp 4:6", "dateRange": "7–13 Fev", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l7.png" },
-  { "id": "adu_2026_t1_l8", "number": 8, "title": "A supremacia de Cristo", "textKey": "Cl 1:15-17", "dateRange": "14–20 Fev", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l8.png" },
-  { "id": "adu_2026_t1_l9", "number": 9, "title": "Reconciliação e esperança", "textKey": "2Co 5:21", "dateRange": "21–27 Fev", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l9.png" },
-  { "id": "adu_2026_t1_l10", "number": 10, "title": "Completos em Cristo", "textKey": "Cl 2:16, 17", "dateRange": "28 Fev – 6 Mar", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l10.png" },
-  { "id": "adu_2026_t1_l11", "number": 11, "title": "Viver com Cristo", "textKey": "Cl 3:14", "dateRange": "7–13 Mar", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l11.png" },
-  { "id": "adu_2026_t1_l12", "number": 12, "title": "Convivendo com os outros", "textKey": "Cl 4:6", "dateRange": "14–20 Mar", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l12.png" },
-  { "id": "adu_2026_t1_l13", "number": 13, "title": "Permanecendo na vontade de Deus", "textKey": "1Ts 5:18", "dateRange": "21–27 Mar", "tirinhaImagePath": "assets/images/tirinhas/adultos/2026_t1_l13.png" }
-]
-}
+  {
+    "id": "adu_2026_t1",
+    "number": 1,
+    "title": "Cristo em Filipenses e Colossenses",
+    "coverImage": "assets/images/lessons/adultos/2026_t1_capa.png",
+    "pdfUrl": "https://drive.google.com/file/d/1o5oOt3WBEVoUHbRticf39Aof_01JJBQe/view?usp=sharing",
+    "category": "adultos",
+    "year": 2026,
+    "file": "adultos_2026_t1.json",
+    "lessons": [
+      { "id": "adu_2026_t1_l1", "number": 1, "title": "Perseguidos, mas não abandonados",         "textKey": "Ef 3:1; 2Co 4:7-12; At 9:16; Fp 1:1-3; Cl 1:1, 2",           "dateRange": "27 de Dezembro a 2 de Janeiro" },
+      { "id": "adu_2026_t1_l2", "number": 2, "title": "Razões para ação de graças e oração",      "textKey": "Fp 1:1-18; 1Co 13:1-8; Jr 17:9; Cl 1:1-12; Sl 119:105",       "dateRange": "3 a 9 de Janeiro" },
+      { "id": "adu_2026_t1_l3", "number": 3, "title": "Vida e morte",                             "textKey": "Fp 1:19-30; 1Co 4:14-16; 2Co 10:3-6; Jo 17:17-19; Mq 6:8",   "dateRange": "10 a 16 de Janeiro" },
+      { "id": "adu_2026_t1_l4", "number": 4, "title": "Unidade por meio da humildade",            "textKey": "Fp 2:1-11; Jr 17:9; Fp 4:8; 1Co 8:2; Rm 8:3; Hb 2:14-18",    "dateRange": "17 a 23 de Janeiro" },
+      { "id": "adu_2026_t1_l5", "number": 5, "title": "Brilhando como estrelas na noite",         "textKey": "Fp 2:14, 15",                                                  "dateRange": "24 a 30 de Janeiro" },
+      { "id": "adu_2026_t1_l6", "number": 6, "title": "Confiança somente em Cristo",              "textKey": "Fp 3:10, 11",                                                  "dateRange": "31 de Janeiro a 6 de Fevereiro" },
+      { "id": "adu_2026_t1_l7", "number": 7, "title": "Cidadania celestial",                      "textKey": "Fp 4:6",                                                       "dateRange": "7 a 13 de Fevereiro" },
+      { "id": "adu_2026_t1_l8", "number": 8, "title": "A supremacia de Cristo",                   "textKey": "Cl 1:15-17",                                                   "dateRange": "14 a 20 de Fevereiro" },
+      { "id": "adu_2026_t1_l9", "number": 9, "title": "Cristo, nosso reconciliador",              "textKey": "Cl 1:19-23",                                                   "dateRange": "21 a 27 de Fevereiro" },
+      { "id": "adu_2026_t1_l10","number": 10,"title": "Pleno em Cristo",                          "textKey": "Cl 2:6-15",                                                    "dateRange": "28 de Fevereiro a 6 de Março" },
+      { "id": "adu_2026_t1_l11","number": 11,"title": "Vida nova em Cristo",                      "textKey": "Cl 3:1-17",                                                    "dateRange": "7 a 13 de Março" },
+      { "id": "adu_2026_t1_l12","number": 12,"title": "Relacionamentos redimidos",                "textKey": "Cl 3:18-4:1",                                                  "dateRange": "14 a 20 de Março" },
+      { "id": "adu_2026_t1_l13","number": 13,"title": "Fidelidade até o fim",                     "textKey": "Cl 4:2-18",                                                    "dateRange": "21 a 27 de Março" }
+    ]
+  }
 ]
