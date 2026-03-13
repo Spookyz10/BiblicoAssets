@@ -1,0 +1,2574 @@
+{
+  "id": "apocalipse",
+  "title": "Apocalipse: Revelações de Esperança",
+  "subtitle": "Estudo Profético",
+  "iconEmoji": "📜",
+  "coverImage": "assets/images/books/apocalipse_capa.png",
+  "headerImage": "assets/images/topcovers/apocalipse_cover.png",
+  "description": "O Apocalipse não significa tragédias e catástrofes, como muitos imaginam, mas a revelação de Jesus Cristo para o fim dos tempos. Neste estudo de 20 lições, você descobrirá os acontecimentos decisivos da história do planeta sob a perspectiva de Deus, com esperança e certeza da vitória final.",
+  "chapterCount": 21,
+  "primaryColor": "#1A3A5C",
+  "secondaryColor": "#E8F4FD",
+  "chapters": [
+    {
+      "id": "ap1",
+      "title": "A Revelação",
+      "subtitle": "O que é o Apocalipse",
+      "thumbnailImage": "assets/images/chapters/ap_revelacao.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "A palavra \"apocalipse\" vem do grego e significa \"revelação\". No Apocalipse, o véu é afastado e podemos enxergar o futuro sob a perspectiva de Deus. Na cultura popular, \"apocalipse\" está associado à destruição e ao fim do mundo. Mas esse não é o ponto central do livro bíblico.\n\nApesar de apontar para momentos difíceis da história, sua maior revelação é a de Jesus Cristo, a origem e o tema central do livro. Nessa revelação, a história de dor e sofrimento dá lugar a uma vida feliz e eterna.\n\nQuando conhecemos o conteúdo do Apocalipse e guardamos o que está escrito nele, podemos ter a certeza de que as promessas de Jesus se cumprirão em nossa vida.",
+      "questions": [
+        {
+          "question": "Que afirmação Jesus faz quanto àquele que estuda o Apocalipse?",
+          "options": [
+            {
+              "text": "Será bem-aventurado quem lê, ouve e guarda o que está escrito.",
+              "isCorrect": true,
+              "explanation": "Jesus promete bênção especial a quem se dedicar ao estudo do Apocalipse e guardar seus ensinamentos."
+            },
+            {
+              "text": "Será bem-aventurado apenas quem entender todos os símbolos.",
+              "isCorrect": false,
+              "explanation": "A bênção não depende de compreensão total dos símbolos, mas de estudar, ouvir e guardar as palavras."
+            },
+            {
+              "text": "Será temido pelos demônios e respeitado pelos homens.",
+              "isCorrect": false,
+              "explanation": "A promessa é de bênção de Deus, não de temor dos demônios ou respeito humano."
+            }
+          ],
+          "verse": "Apocalipse 1:3",
+          "verseText": "\"Bem-aventurado aquele que lê, e os que ouvem as palavras desta profecia, e guardam as coisas nela escritas; porque o tempo está próximo.\" — Apocalipse 1:3"
+        },
+        {
+          "question": "Quem é o tema central do livro do Apocalipse?",
+          "options": [
+            {
+              "text": "Jesus Cristo é o tema central.",
+              "isCorrect": true,
+              "explanation": "O próprio título declara: é uma revelação DE Jesus Cristo. Ele é tanto o autor quanto o tema principal do livro."
+            },
+            {
+              "text": "O anticristo e suas obras de destruição.",
+              "isCorrect": false,
+              "explanation": "Embora o Apocalipse mencione forças do mal, o tema central é Jesus Cristo e Sua vitória final."
+            },
+            {
+              "text": "As sete pragas e o fim do mundo.",
+              "isCorrect": false,
+              "explanation": "As pragas são apenas uma parte do livro. O centro de tudo é a revelação da grandiosidade de Jesus Cristo."
+            }
+          ],
+          "verse": "Apocalipse 1:1",
+          "verseText": "\"Revelação de Jesus Cristo, a qual Deus lhe deu para mostrar aos seus servos as coisas que brevemente devem acontecer.\" — Apocalipse 1:1"
+        },
+        {
+          "question": "Como devemos ler e interpretar o Apocalipse segundo Lucas 24:27?",
+          "options": [
+            {
+              "text": "Buscar informações em todos os livros bíblicos, deixando a Bíblia interpretar a si mesma.",
+              "isCorrect": true,
+              "explanation": "O método bíblico é usar a própria Bíblia para interpretar seus símbolos, comparando textos do Antigo e Novo Testamento."
+            },
+            {
+              "text": "Ler somente o Novo Testamento, pois o Antigo é obsoleto.",
+              "isCorrect": false,
+              "explanation": "Jesus mesmo usou toda a Escritura para explicar as profecias, incluindo Moisés e todos os profetas."
+            },
+            {
+              "text": "Consultar especialistas em misticismo e numerologia.",
+              "isCorrect": false,
+              "explanation": "A chave para entender o Apocalipse é a própria Bíblia, não tradições místicas ou especulações humanas."
+            }
+          ],
+          "verse": "Lucas 24:27",
+          "verseText": "\"E, começando por Moisés e por todos os profetas, explicava-lhes o que dele se tratava em todas as Escrituras.\" — Lucas 24:27"
+        },
+        {
+          "question": "O que significa o termo \"dragão\" no Apocalipse?",
+          "options": [
+            {
+              "text": "O próprio Satanás, a antiga serpente do Éden.",
+              "isCorrect": true,
+              "explanation": "O Apocalipse é explícito: o dragão é identificado como o diabo e Satanás, a antiga serpente que enganou Adão e Eva."
+            },
+            {
+              "text": "Um ser mitológico que representa o caos da natureza.",
+              "isCorrect": false,
+              "explanation": "O dragão não é personagem mitológico, mas símbolo bíblico claro de Satanás, identificado no próprio texto."
+            },
+            {
+              "text": "Uma nação poderosa e inimiga do povo de Deus.",
+              "isCorrect": false,
+              "explanation": "Embora Satanás use nações como instrumentos, o dragão é o próprio diabo, conforme o texto afirma."
+            }
+          ],
+          "verse": "Apocalipse 12:9",
+          "verseText": "\"E foi expulso o grande dragão, a antiga serpente, que se chama o Diabo e Satanás.\" — Apocalipse 12:9"
+        },
+        {
+          "question": "Que promessa encerra o livro do Apocalipse?",
+          "options": [
+            {
+              "text": "Jesus promete voltar em breve.",
+              "isCorrect": true,
+              "explanation": "Jesus repete três vezes ao final do Apocalipse a promessa de Sua volta, encerrando o livro com a maior esperança cristã."
+            },
+            {
+              "text": "Deus promete que não haverá mais guerras na Terra.",
+              "isCorrect": false,
+              "explanation": "A promessa de paz total se cumpre na Nova Terra, após a volta de Cristo, não antes."
+            },
+            {
+              "text": "Os cristãos receberão poder político sobre as nações.",
+              "isCorrect": false,
+              "explanation": "A promessa é de vida eterna com Cristo, não de poder político terreno."
+            }
+          ],
+          "verse": "Apocalipse 22:7",
+          "verseText": "\"E eis que venho sem demora. Bem-aventurado aquele que guarda as palavras da profecia deste livro.\" — Apocalipse 22:7"
+        }
+      ]
+    },
+    {
+      "id": "ap2",
+      "title": "O Verdadeiro Herói",
+      "subtitle": "Jesus Cristo no Apocalipse",
+      "thumbnailImage": "assets/images/chapters/ap_heroi.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "O Apocalipse apresenta o verdadeiro Herói da humanidade. Nos primeiros três capítulos, Jesus é mencionado 137 vezes, e em todo o livro existem cerca de 250 referências a Ele.\n\nEle é o único capaz de trazer paz ao coração perturbado, consolo para a alma angustiada, esperança para quem já cansou de chorar e salvação para quem está perdido. A figura de Cristo surge em todas as visões do livro. O Apocalipse descreve a grandiosidade de Jesus.",
+      "questions": [
+        {
+          "question": "Quais são as características de Jesus descritas em Apocalipse 1:13-18?",
+          "options": [
+            {
+              "text": "Roupa comprida, cabelos brancos, voz como de muitas águas, rosto brilhante como o sol.",
+              "isCorrect": true,
+              "explanation": "Jesus Se apresenta com atributos divinos: pureza (cabelos brancos), onisciência (olhos de fogo), glória (rosto como o sol). É a mesma descrição de Deus no Antigo Testamento."
+            },
+            {
+              "text": "Aparência humilde, sem nenhum sinal de glória ou poder.",
+              "isCorrect": false,
+              "explanation": "No Apocalipse, Jesus é apresentado em toda Sua glória divina, não em Sua aparência humilde de Belém."
+            },
+            {
+              "text": "Aparência de guerreiro, com armadura e espada flamejante.",
+              "isCorrect": false,
+              "explanation": "Embora Jesus segure uma espada saindo de Sua boca, a descrição enfatiza Sua divindade e glória, não uma aparência guerreira."
+            }
+          ],
+          "verse": "Apocalipse 1:13-18",
+          "verseText": "\"Cabelos brancos como a lã, olhos como chama de fogo, pés semelhantes ao latão... rosto como o sol quando resplandece em sua força.\" — Apocalipse 1:14-16"
+        },
+        {
+          "question": "Por que Jesus teve que encarnar como ser humano?",
+          "options": [
+            {
+              "text": "Para pagar o salário do pecado — a morte — em nosso lugar.",
+              "isCorrect": true,
+              "explanation": "O pecado exige a morte como penalidade. Jesus Se tornou humano para poder morrer em nosso lugar, pagando o que nós devíamos."
+            },
+            {
+              "text": "Para nos ensinar como ter uma vida de sucesso na Terra.",
+              "isCorrect": false,
+              "explanation": "O objetivo central da encarnação foi a redenção, não um ensino de sucesso terreno."
+            },
+            {
+              "text": "Para mostrar que um ser humano pode viver sem pecado por esforço próprio.",
+              "isCorrect": false,
+              "explanation": "Jesus viveu sem pecado, mas o propósito principal foi morrer por nós, não provar o potencial humano."
+            }
+          ],
+          "verse": "Romanos 6:23",
+          "verseText": "\"Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus, nosso Senhor.\" — Romanos 6:23"
+        },
+        {
+          "question": "Segundo Apocalipse 5, quem é o único apto para julgar quem será salvo?",
+          "options": [
+            {
+              "text": "Somente Jesus — o Cordeiro que foi morto e ressuscitou.",
+              "isCorrect": true,
+              "explanation": "Somente Jesus, por Sua vitória na cruz e ressurreição, possui qualificações humanas e divinas para abrir o livro do destino e julgar a humanidade."
+            },
+            {
+              "text": "Os 24 anciãos que estão diante do trono de Deus.",
+              "isCorrect": false,
+              "explanation": "Os 24 anciãos adoram e interceden, mas não possuem autoridade para julgar. Somente o Cordeiro é digno."
+            },
+            {
+              "text": "O arcanjo Miguel, o maior dos anjos.",
+              "isCorrect": false,
+              "explanation": "Nenhum ser criado era digno de abrir os selos. Somente Jesus, o Cordeiro divino e humano, é apto para isso."
+            }
+          ],
+          "verse": "Apocalipse 5:5,6",
+          "verseText": "\"Eis que o Leão da tribo de Judá, a Raiz de Davi, venceu para abrir o livro e os seus sete selos.\" — Apocalipse 5:5"
+        },
+        {
+          "question": "Qual é um dos títulos de Jesus no Apocalipse?",
+          "options": [
+            {
+              "text": "Rei dos reis e Senhor dos senhores.",
+              "isCorrect": true,
+              "explanation": "Jesus é o soberano absoluto. Com Sua vitória na cruz, Ele reconquistou o território usurpado pelo inimigo e é o soberano no Céu e na Terra."
+            },
+            {
+              "text": "Guardião das nações e protetor dos fracos.",
+              "isCorrect": false,
+              "explanation": "Embora Jesus proteja os Seus, o título profético revelado em Apocalipse é \"Rei dos reis e Senhor dos senhores\"."
+            },
+            {
+              "text": "Príncipe da paz e conselheiro eterno.",
+              "isCorrect": false,
+              "explanation": "Esses são títulos de Isaías 9:6. O título específico de Apocalipse 19:16 é \"Rei dos reis e Senhor dos senhores\"."
+            }
+          ],
+          "verse": "Apocalipse 19:16",
+          "verseText": "\"E tem no seu manto e na sua coxa escrito este nome: REI DOS REIS E SENHOR DOS SENHORES.\" — Apocalipse 19:16"
+        },
+        {
+          "question": "Desde Sua ressurreição, o que Jesus faz no Céu?",
+          "options": [
+            {
+              "text": "Intercede por nós perante o Pai, como nosso Sumo Sacerdote.",
+              "isCorrect": true,
+              "explanation": "Jesus não apenas morreu por nós, mas continua atuando no céu como intercessor, apresentando ao Pai os méritos de Seu sacrifício em nosso favor."
+            },
+            {
+              "text": "Aguarda passivamente a hora marcada para voltar.",
+              "isCorrect": false,
+              "explanation": "Jesus está ativamente intercedendo por nós no santuário celestial, não aguardando de forma passiva."
+            },
+            {
+              "text": "Prepara as mansões celestes e não se envolve com a Terra.",
+              "isCorrect": false,
+              "explanation": "Além de preparar lugar, Jesus exerce o ministério sacerdotal de intercessão por cada crente."
+            }
+          ],
+          "verse": "Hebreus 7:25",
+          "verseText": "\"Pelo que também pode salvar perfeitamente os que por ele se chegam a Deus, vivendo sempre para interceder por eles.\" — Hebreus 7:25"
+        }
+      ]
+    },
+    {
+      "id": "ap3",
+      "title": "As Sete Igrejas",
+      "subtitle": "Mensagens de Cristo para cada época",
+      "thumbnailImage": "assets/images/chapters/ap_igrejas.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "O Apocalipse apresenta quatro séries de sete: as sete igrejas (Ap 1–3), os sete selos (5:1–8:1), as sete trombetas (8–11) e as sete pragas (15–16). Cada uma dessas séries envolve a história do tempo de João até a segunda vinda de Jesus.\n\nAs sete igrejas mencionadas no Apocalipse existiam de fato. Os conselhos para cada uma ofereceram lições para o momento histórico de cada uma, mas também são proféticos, abrangendo cada período da história do cristianismo. Cada igreja representa um período específico.",
+      "questions": [
+        {
+          "question": "Nas profecias bíblicas, quanto representa um dia?",
+          "options": [
+            {
+              "text": "Um dia profético representa um ano literal.",
+              "isCorrect": true,
+              "explanation": "O princípio dia-ano é a chave para interpretar as profecias de tempo do Apocalipse e de Daniel."
+            },
+            {
+              "text": "Um dia profético representa exatamente 24 horas.",
+              "isCorrect": false,
+              "explanation": "Quando o texto é profético e simbólico, o princípio bíblico é dia = ano, conforme Ezequiel 4:6 e Números 14:34."
+            },
+            {
+              "text": "Um dia profético representa mil anos, conforme 2 Pedro 3:8.",
+              "isCorrect": false,
+              "explanation": "2 Pedro 3:8 descreve a perspectiva de Deus sobre o tempo, não um código profético para calcular períodos."
+            }
+          ],
+          "verse": "Números 14:34; Ezequiel 4:6",
+          "verseText": "\"Dia por ano, dia por ano te dei.\" — Ezequiel 4:6\n\n"
+        },
+        {
+          "question": "Que apelo comovente Cristo faz a quem está espiritualmente \"morno\"?",
+          "options": [
+            {
+              "text": "Está à porta e bate, esperando que abramos para Ele entrar.",
+              "isCorrect": true,
+              "explanation": "Jesus não força a entrada. Ele bate e espera. O morno precisa escolher abrir a porta do coração para restaurar o relacionamento com Cristo."
+            },
+            {
+              "text": "Ameaça derrubar a porta se o crente não se arrepender logo.",
+              "isCorrect": false,
+              "explanation": "Jesus não usa ameaças; usa amor. Ele bate gentilmente e aguarda nossa resposta voluntária."
+            },
+            {
+              "text": "Pede que o crente construa um altar em sua honra.",
+              "isCorrect": false,
+              "explanation": "O apelo de Cristo é pessoal e íntimo: Ele quer entrar na vida do crente e comungar com ele."
+            }
+          ],
+          "verse": "Apocalipse 3:20",
+          "verseText": "\"Eis que estou à porta e bato; se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele comigo.\" — Apocalipse 3:20"
+        },
+        {
+          "question": "O que a mensagem à igreja de Tiatira representa historicamente?",
+          "options": [
+            {
+              "text": "A apostasia da Idade Média, quando mandamentos foram alterados e dissidentes perseguidos.",
+              "isCorrect": true,
+              "explanation": "Tiatira representa o período medieval (538–1517 d.C.), em que a Igreja Romana perseguiu os fiéis, adulterou mandamentos e impôs tradições humanas no lugar da Palavra de Deus."
+            },
+            {
+              "text": "A era apostólica, cheia do Espírito Santo e sem pecado.",
+              "isCorrect": false,
+              "explanation": "A era apostólica corresponde à igreja de Éfeso, não Tiatira. Tiatira representa o período de apostasia medieval."
+            },
+            {
+              "text": "A era moderna, com todos os conflitos religiosos atuais.",
+              "isCorrect": false,
+              "explanation": "Os períodos modernos correspondem às igrejas de Sardes, Filadélfia e Laodiceia. Tiatira é especificamente a Idade Média."
+            }
+          ],
+          "verse": "Apocalipse 2:20",
+          "verseText": "\"Tenho contra ti que toleras a mulher Jezabel, que se diz profetisa, e ensina e seduz os meus servos.\" — Apocalipse 2:20"
+        },
+        {
+          "question": "O que Jesus prometeu ao vencedor da igreja de Laodiceia?",
+          "options": [
+            {
+              "text": "Sentar-se com Cristo em Seu trono, como Ele se assentou com o Pai.",
+              "isCorrect": true,
+              "explanation": "A promessa é de participação no reino e na vitória de Cristo para aqueles que vencerem o estado de morneo espiritual."
+            },
+            {
+              "text": "Riqueza e honra entre os homens nesta vida.",
+              "isCorrect": false,
+              "explanation": "Laodiceia já pensava ser rica. A promessa é espiritual: comunhão eterna com Cristo em Seu trono."
+            },
+            {
+              "text": "Proteção de toda enfermidade e tribulação terrena.",
+              "isCorrect": false,
+              "explanation": "A promessa não é de isenção do sofrimento, mas de vitória eterna em comunhão com Cristo."
+            }
+          ],
+          "verse": "Apocalipse 3:21",
+          "verseText": "\"Ao vencedor, dar-lhe-ei que se assente comigo no meu trono, como eu também venci e me assentei com meu Pai no seu trono.\" — Apocalipse 3:21"
+        },
+        {
+          "question": "Qual é a condição espiritual da Igreja de Laodiceia, que representa nosso tempo?",
+          "options": [
+            {
+              "text": "Morna: pensa que é rica e nada lhe falta, mas está miserável e nua diante de Deus.",
+              "isCorrect": true,
+              "explanation": "Laodiceia representa a igreja dos últimos dias: espiritualmente autoconfiante e complacente, sem perceber sua verdadeira condição diante de Deus."
+            },
+            {
+              "text": "Completamente fria e sem nenhum sinal de vida espiritual.",
+              "isCorrect": false,
+              "explanation": "Laodiceia não é completamente fria; é morna, o que é pior. Pensa que está bem quando na verdade está em necessidade."
+            },
+            {
+              "text": "Ardente e cheia do Espírito, aguardando apenas a volta de Cristo.",
+              "isCorrect": false,
+              "explanation": "A descrição é o oposto: Laodiceia é morna e precisa do conselho de Cristo para comprar o ouro refinado pelo fogo."
+            }
+          ],
+          "verse": "Apocalipse 3:15,16",
+          "verseText": "\"Conheço as tuas obras, que nem és frio nem quente. Quem dera fosses frio ou quente! Assim, porque és morno... vomitar-te-ei da minha boca.\" — Apocalipse 3:15-16"
+        }
+      ]
+    },
+    {
+      "id": "ap4",
+      "title": "A Maior de Todas as Guerras",
+      "subtitle": "A grande controvérsia entre o bem e o mal",
+      "thumbnailImage": "assets/images/chapters/ap_guerra.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "No Apocalipse, é descrita a maior de todas as guerras, também conhecida como \"o grande conflito\" — uma batalha entre o bem e o mal que abrange todos os conflitos da história.\n\nSatanás foi criado perfeito e sem maldade, era um anjo com uma importante função no Céu. Mas a vaidade, o orgulho e a ambição fizeram dele o pai de todo o mal. Essa guerra começou no Céu e desceu para a Terra, onde envolveu toda a humanidade.",
+      "questions": [
+        {
+          "question": "Quem originou o mal?",
+          "options": [
+            {
+              "text": "Um querubim perfeito que escolheu o pecado — Lúcifer.",
+              "isCorrect": true,
+              "explanation": "Satanás foi criado perfeito, mas por livre escolha se corrompeu através da vaidade e do orgulho, tornando-se o pai do mal."
+            },
+            {
+              "text": "Deus criou o mal como parte do equilíbrio do universo.",
+              "isCorrect": false,
+              "explanation": "Deus é santo e não criou o mal. O mal surgiu da livre escolha de Lúcifer contra a vontade do Criador."
+            },
+            {
+              "text": "Um querubim imperfeito que nunca teve boas intenções.",
+              "isCorrect": false,
+              "explanation": "Ezequiel afirma explicitamente que ele foi criado perfeito. O pecado foi resultado de sua escolha, não de sua natureza original."
+            }
+          ],
+          "verse": "Ezequiel 28:14,15",
+          "verseText": "\"Eras perfeito nos teus caminhos desde o dia em que foste criado, até que se achou iniquidade em ti.\" — Ezequiel 28:15"
+        },
+        {
+          "question": "Que pensamentos levaram o inimigo a iniciar a rebelião no Céu?",
+          "options": [
+            {
+              "text": "O orgulho e o desejo de ser igual ao Altíssimo.",
+              "isCorrect": true,
+              "explanation": "Lúcifer queria exaltar seu trono acima das estrelas de Deus e ser semelhante ao Altíssimo. O orgulho foi a raiz da primeira rebelião."
+            },
+            {
+              "text": "O desejo de proteger os anjos de uma lei injusta de Deus.",
+              "isCorrect": false,
+              "explanation": "A rebelião de Lúcifer foi motivada por ambição e orgulho pessoal, não por preocupação com outros seres."
+            },
+            {
+              "text": "A inveja que sentiu de um anjo mais poderoso do que ele.",
+              "isCorrect": false,
+              "explanation": "Lúcifer era o mais exaltado dos anjos. Sua queda veio do orgulho, não da inveja de outro ser celestial."
+            }
+          ],
+          "verse": "Isaías 14:12-14",
+          "verseText": "\"Subirei ao céu... exaltarei o meu trono... serei semelhante ao Altíssimo.\" — Isaías 14:13-14"
+        },
+        {
+          "question": "Como Satanás introduziu a rebelião na Terra?",
+          "options": [
+            {
+              "text": "Lançando dúvida sobre a Palavra de Deus, levando o casal à desobediência.",
+              "isCorrect": true,
+              "explanation": "A estratégia de Satanás foi questionar a veracidade de Deus, induzindo Eva à dúvida e depois à desobediência."
+            },
+            {
+              "text": "Incitando os animais do jardim contra Adão e Eva.",
+              "isCorrect": false,
+              "explanation": "Satanás agiu por meio da serpente com palavras sedutoras, não por violência física ou incitação dos animais."
+            },
+            {
+              "text": "Aparecendo visivelmente a Adão e propondo um acordo.",
+              "isCorrect": false,
+              "explanation": "Satanás agiu de forma sutil, disfarçado de serpente, convencendo por meio do engano e não de negociação aberta."
+            }
+          ],
+          "verse": "Gênesis 3:4",
+          "verseText": "\"Então a serpente disse à mulher: Certamente não morrereis.\" — Gênesis 3:4"
+        },
+        {
+          "question": "Que nomes são dados ao inimigo de Deus no Apocalipse?",
+          "options": [
+            {
+              "text": "Dragão, serpente antiga, Diabo e Satanás.",
+              "isCorrect": true,
+              "explanation": "O Apocalipse reúne vários nomes de Satanás: dragão (ataque), serpente (engano), Diabo (caluniador) e Satanás (adversário)."
+            },
+            {
+              "text": "Belzebu, príncipe das trevas e senhor dos mortos.",
+              "isCorrect": false,
+              "explanation": "Embora Belzebu seja um nome bíblico do inimigo, os nomes específicos usados em Apocalipse 12:9 são os listados no texto."
+            },
+            {
+              "text": "O lobo, o leão rugidor e a besta do abismo.",
+              "isCorrect": false,
+              "explanation": "Essas são figuras usadas em outros contextos bíblicos. Em Apocalipse 12:9, os nomes são dragão, serpente, Diabo e Satanás."
+            }
+          ],
+          "verse": "Apocalipse 12:7-10",
+          "verseText": "\"E foi expulso o grande dragão, a antiga serpente, que se chama o Diabo e Satanás, o sedutor de todo o mundo.\" — Apocalipse 12:9"
+        },
+        {
+          "question": "Contra quem Satanás está especialmente enfurecido nos últimos dias?",
+          "options": [
+            {
+              "text": "Contra os que guardam os mandamentos de Deus e têm o testemunho de Jesus.",
+              "isCorrect": true,
+              "explanation": "O alvo específico de Satanás é o remanescente fiel que obedece a Deus e mantém o testemunho de Jesus."
+            },
+            {
+              "text": "Apenas contra os líderes religiosos e políticos do mundo.",
+              "isCorrect": false,
+              "explanation": "Satanás ataca a todos, mas sua fúria especial nos últimos dias é direcionada ao remanescente fiel de Deus."
+            },
+            {
+              "text": "Contra os que abandonaram a fé e vivem no pecado aberto.",
+              "isCorrect": false,
+              "explanation": "Os que já estão no pecado não representam ameaça para Satanás. Ele persegue os que se opõem a ele pela fidelidade a Deus."
+            }
+          ],
+          "verse": "Apocalipse 12:17",
+          "verseText": "\"E o dragão irou-se contra a mulher, e foi fazer guerra contra os restantes da sua semente, os que guardam os mandamentos de Deus e têm o testemunho de Jesus Cristo.\" — Apocalipse 12:17"
+        },
+        {
+          "question": "Por meio de quem podemos vencer o inimigo?",
+          "options": [
+            {
+              "text": "Pelo sangue do Cordeiro e pela palavra do testemunho.",
+              "isCorrect": true,
+              "explanation": "A vitória sobre Satanás não vem de força humana, mas de nos agarrarmos a Cristo, que já venceu na cruz e na ressurreição."
+            },
+            {
+              "text": "Pela força de vontade e disciplina espiritual pessoal.",
+              "isCorrect": false,
+              "explanation": "A vitória bíblica é em Cristo, não no esforço humano. Tiago 4:7 diz: \"Resistam ao diabo e ele fugirá\"."
+            },
+            {
+              "text": "Por rituais de exorcismo e orações de autoridade espiritual.",
+              "isCorrect": false,
+              "explanation": "A vitória é pelo sangue do Cordeiro e pelo testemunho da fé, não por rituais ou fórmulas."
+            }
+          ],
+          "verse": "Apocalipse 12:11",
+          "verseText": "\"E eles o venceram pelo sangue do Cordeiro e pela palavra do seu testemunho.\" — Apocalipse 12:11"
+        }
+      ]
+    },
+    {
+      "id": "ap5",
+      "title": "O Maior Resgate",
+      "subtitle": "O Cordeiro que foi morto",
+      "thumbnailImage": "assets/images/chapters/ap_resgate.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Apesar de nem todos terem consciência disso, todos fomos sequestrados e estamos sob o poder do mal. Prova disso é nossa vulnerabilidade ao sofrimento e à morte. No entanto, a boa notícia é que o resgate foi pago.\n\nJesus Cristo, o Cordeiro de Deus, Se ofereceu a Si mesmo para pagar o preço da nossa liberdade. O Apocalipse revela o que o grande feito de Cristo significa para libertar você da culpa, da falta de esperança e da morte eterna.",
+      "questions": [
+        {
+          "question": "Por que João chorava muito diante do livro selado?",
+          "options": [
+            {
+              "text": "Porque ninguém era digno de abrir o livro e revelar o destino da humanidade.",
+              "isCorrect": true,
+              "explanation": "A crise diante do trono era real: o destino da humanidade dependia de alguém que pudesse abrir o livro, e nenhum ser criado tinha essa qualificação."
+            },
+            {
+              "text": "Porque o livro continha más notícias sobre o fim do mundo.",
+              "isCorrect": false,
+              "explanation": "João chorava pela impossibilidade de encontrar alguém digno, não pelo conteúdo do livro em si."
+            },
+            {
+              "text": "Porque ele havia pecado e temia o julgamento divino.",
+              "isCorrect": false,
+              "explanation": "João chorava pela falta de um ser digno para abrir os selos, não por culpa pessoal."
+            }
+          ],
+          "verse": "Apocalipse 5:1-4",
+          "verseText": "\"E ninguém podia, nem no céu, nem na terra, nem debaixo da terra, abrir o livro, nem olhar para ele. E eu chorava muito.\" — Apocalipse 5:3-4"
+        },
+        {
+          "question": "Qual foi a boa notícia para João diante da crise no trono celestial?",
+          "options": [
+            {
+              "text": "O Leão da tribo de Judá — Jesus — venceu e é digno de abrir o livro.",
+              "isCorrect": true,
+              "explanation": "A vitória de Cristo na cruz e na ressurreição O qualifica como único ser com natureza humana e divina capaz de abrir os selos do destino."
+            },
+            {
+              "text": "Um dos 24 anciãos desceu e abriu o livro no lugar de João.",
+              "isCorrect": false,
+              "explanation": "Nenhum ancião ou ser criado era digno. Somente o Cordeiro — Jesus Cristo — tinha essa qualificação única."
+            },
+            {
+              "text": "Deus Pai revelou pessoalmente o conteúdo do livro a João.",
+              "isCorrect": false,
+              "explanation": "A revelação foi dada por meio de Jesus, o Cordeiro que se tornou digno pela Sua vitória sacrifical."
+            }
+          ],
+          "verse": "Apocalipse 5:5",
+          "verseText": "\"Não chores; eis que o Leão da tribo de Judá, a Raiz de Davi, venceu para abrir o livro e os seus sete selos.\" — Apocalipse 5:5"
+        },
+        {
+          "question": "O que é pecado segundo 1 João 3:4?",
+          "options": [
+            {
+              "text": "Pecado é a transgressão da lei de Deus.",
+              "isCorrect": true,
+              "explanation": "A Bíblia define o pecado objetivamente como violação da lei de Deus, que é o padrão de Seu caráter."
+            },
+            {
+              "text": "Pecado é apenas fazer o que machuca os outros.",
+              "isCorrect": false,
+              "explanation": "A definição bíblica é mais abrangente: toda transgressão da lei divina é pecado, mesmo que não machuque diretamente outros."
+            },
+            {
+              "text": "Pecado é o que a consciência individual considera errado.",
+              "isCorrect": false,
+              "explanation": "A consciência pode ser endurecida pelo pecado. O padrão objetivo é a lei de Deus, não a percepção subjetiva."
+            }
+          ],
+          "verse": "1 João 3:4",
+          "verseText": "\"Todo aquele que pratica o pecado, também transgride a lei; porque o pecado é a transgressão da lei.\" — 1 João 3:4"
+        },
+        {
+          "question": "O que devemos fazer para receber o perdão e a purificação dos pecados?",
+          "options": [
+            {
+              "text": "Confessar nossos pecados a Deus com sinceridade.",
+              "isCorrect": true,
+              "explanation": "A confissão sincera dos pecados a Deus leva ao perdão completo e à purificação, com base no sacrifício de Cristo."
+            },
+            {
+              "text": "Realizar obras de penitência para compensar os erros.",
+              "isCorrect": false,
+              "explanation": "A Bíblia ensina confissão e fé, não penitências. A purificação vem do sangue de Cristo, não de esforços humanos."
+            },
+            {
+              "text": "Confessar os pecados a um sacerdote humano autorizado.",
+              "isCorrect": false,
+              "explanation": "Jesus é o único mediador entre Deus e os homens (1Tm 2:5). A confissão bíblica é diretamente a Deus."
+            }
+          ],
+          "verse": "1 João 1:9",
+          "verseText": "\"Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.\" — 1 João 1:9"
+        },
+        {
+          "question": "O que acontece quando alguém aceita Jesus como Salvador?",
+          "options": [
+            {
+              "text": "Torna-se uma nova criatura; as coisas velhas passam.",
+              "isCorrect": true,
+              "explanation": "Em Cristo, morremos para o pecado e nascemos para uma nova vida no Espírito. É uma nova criação operada por Deus."
+            },
+            {
+              "text": "Fica isento de toda tentação e dificuldade espiritual.",
+              "isCorrect": false,
+              "explanation": "O novo nascimento não elimina as tentações, mas capacita o crente a vencê-las com a força de Cristo."
+            },
+            {
+              "text": "Recebe automaticamente todos os dons espirituais.",
+              "isCorrect": false,
+              "explanation": "A nova criação envolve transformação de caráter. Os dons são distribuídos conforme a soberania do Espírito."
+            }
+          ],
+          "verse": "2 Coríntios 5:17",
+          "verseText": "\"E assim, se alguém está em Cristo, é nova criatura; as coisas velhas já passaram; eis que tudo se fez novo.\" — 2 Coríntios 5:17"
+        }
+      ]
+    },
+    {
+      "id": "ap6",
+      "title": "Quando Tudo Será Resolvido?",
+      "subtitle": "A segunda vinda de Cristo",
+      "thumbnailImage": "assets/images/chapters/ap_vinda.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "A intensidade com que todos os sinais têm acontecido aponta para a proximidade da segunda vinda de Cristo. Cristo vem para trazer a justa retribuição a cada pessoa que viveu nesta Terra.\n\nNão é possível conhecer exatamente o dia ou a hora em que Jesus Cristo virá, mas é certo que Ele virá, e os sinais apresentados na Bíblia indicam que está muito próximo. Devemos estar preparados para receber a salvação que Ele promete.",
+      "questions": [
+        {
+          "question": "Qual é o propósito da segunda vinda de Cristo?",
+          "options": [
+            {
+              "text": "Trazer a justa recompensa a cada pessoa segundo suas obras.",
+              "isCorrect": true,
+              "explanation": "Cristo vem para completar a redenção: recompensando os salvos com a vida eterna e aplicando a sentença final sobre os que O rejeitaram."
+            },
+            {
+              "text": "Estabelecer um reino político de mil anos na Terra.",
+              "isCorrect": false,
+              "explanation": "O milênio ocorre no Céu, após a vinda de Cristo. Seu propósito é a recompensa e o julgamento, não o estabelecimento de um reino político terreno."
+            },
+            {
+              "text": "Destruir apenas os inimigos de Israel e liberar Jerusalém.",
+              "isCorrect": false,
+              "explanation": "A segunda vinda é universal: afeta toda a humanidade, não apenas um grupo étnico ou uma cidade específica."
+            }
+          ],
+          "verse": "Apocalipse 22:12",
+          "verseText": "\"E eis que venho sem demora, e o meu galardão está comigo, para recompensar a cada um segundo as suas obras.\" — Apocalipse 22:12"
+        },
+        {
+          "question": "Que manifestações religiosas indicam a proximidade da vinda de Jesus?",
+          "options": [
+            {
+              "text": "Surgimento de falsos cristos e falsos profetas com sinais enganadores.",
+              "isCorrect": true,
+              "explanation": "Jesus advertiu que falsos profetas realizariam milagres para enganar. Isso é um sinal claro dos últimos dias."
+            },
+            {
+              "text": "Unidade total de todas as denominações cristãs do mundo.",
+              "isCorrect": false,
+              "explanation": "A unidade superficial pode ser um sinal de apostasia. Jesus advertiu sobre enganos, não sobre unidade como sinal positivo."
+            },
+            {
+              "text": "Diminuição dos conflitos religiosos e aumento da tolerância.",
+              "isCorrect": false,
+              "explanation": "Os sinais proféticos apontam para aumento do engano e apostasia, não para harmonia religiosa universal."
+            }
+          ],
+          "verse": "Mateus 24:24",
+          "verseText": "\"Porque surgirão falsos cristos e falsos profetas, e farão tão grandes sinais e prodígios que enganariam, se possível fosse, os próprios escolhidos.\" — Mateus 24:24"
+        },
+        {
+          "question": "O que deverá acontecer antes da volta de Jesus?",
+          "options": [
+            {
+              "text": "O evangelho do reino será pregado em todo o mundo.",
+              "isCorrect": true,
+              "explanation": "A evangelização mundial é o último sinal antes da volta de Cristo. O \"evangelho eterno\" de Apocalipse 14:6 será proclamado a toda nação."
+            },
+            {
+              "text": "Todas as nações do mundo precisam aceitar o evangelho.",
+              "isCorrect": false,
+              "explanation": "O requisito é que o evangelho seja pregado como testemunho a todas as nações, não que todas aceitem."
+            },
+            {
+              "text": "O templo de Jerusalém precisa ser reconstruído fisicamente.",
+              "isCorrect": false,
+              "explanation": "Não há instrução bíblica que exija a reconstrução do templo físico como condição para a volta de Cristo."
+            }
+          ],
+          "verse": "Mateus 24:14",
+          "verseText": "\"E será pregado este evangelho do reino por todo o mundo, para testemunho a todas as nações. Então, virá o fim.\" — Mateus 24:14"
+        },
+        {
+          "question": "Com que certeza Jesus encerra Sua revelação no Apocalipse?",
+          "options": [
+            {
+              "text": "Com a garantia absoluta: \"Certamente venho sem demora.\"",
+              "isCorrect": true,
+              "explanation": "Jesus encerra o Apocalipse com uma promessa tripla (v. 7, 12, 20): Ele virá. Essa certeza é o fundamento da esperança cristã."
+            },
+            {
+              "text": "Com incerteza, deixando em aberto se e quando virá.",
+              "isCorrect": false,
+              "explanation": "Jesus foi absolutamente afirmativo: \"Certamente venho\". Não há incerteza sobre o fato da vinda, apenas sobre a data exata."
+            },
+            {
+              "text": "Apenas condicionando a volta ao comportamento da humanidade.",
+              "isCorrect": false,
+              "explanation": "A vinda de Cristo é uma promessa incondicional de Deus. Sua demora atual é por misericórdia, não por incerteza."
+            }
+          ],
+          "verse": "Apocalipse 22:20",
+          "verseText": "\"Aquele que dá testemunho destas coisas diz: Certamente venho sem demora. Amém. Vem, Senhor Jesus.\" — Apocalipse 22:20"
+        },
+        {
+          "question": "Por que devemos estar preparados para a vinda de Cristo?",
+          "options": [
+            {
+              "text": "Porque Ele virá numa hora inesperada; devemos estar prontos sempre.",
+              "isCorrect": true,
+              "explanation": "Jesus comparou Sua vinda a um ladrão de noite: imprevisível quanto ao momento. A preparação deve ser contínua, não apenas nos últimos momentos."
+            },
+            {
+              "text": "Porque apenas os que orarem muito na última semana serão salvos.",
+              "isCorrect": false,
+              "explanation": "A preparação é uma vida de fé contínua, não uma corrida de última hora. O caráter cristão se forma ao longo do tempo."
+            },
+            {
+              "text": "Porque Deus pode mudar de ideia e não virá se não houver oração suficiente.",
+              "isCorrect": false,
+              "explanation": "A promessa de Cristo é irrevogável. A preparação não é para influenciar Sua vinda, mas para estarmos prontos quando Ele vier."
+            }
+          ],
+          "verse": "Mateus 24:44",
+          "verseText": "\"Por isso, ficai vós também apercebidos; porque, à hora em que não cuidais, o Filho do homem há de vir.\" — Mateus 24:44"
+        }
+      ]
+    },
+    {
+      "id": "ap7",
+      "title": "Mil Anos de Paz",
+      "subtitle": "O milênio e o juízo final",
+      "thumbnailImage": "assets/images/chapters/ap_milenio.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Deus também planeja recompensar todos de maneira justa. Ele dará o Céu e a vida eterna como prêmio àqueles que fizeram um compromisso com Seu Filho, Jesus Cristo. Os demais, que foram infiéis a Deus, serão julgados e condenados.\n\nExistem somente duas possibilidades de destino eterno: estar com os salvos ou com os ímpios. Devemos nos preparar para a vinda do Senhor Jesus vivendo conforme a vontade Dele.",
+      "questions": [
+        {
+          "question": "Qual será a atividade dos salvos durante os mil anos?",
+          "options": [
+            {
+              "text": "Receberão autoridade de julgar, participando do tribunal celestial.",
+              "isCorrect": true,
+              "explanation": "Durante o milênio, os salvos no Céu participarão do processo de juízo, confirmando a justiça das decisões divinas quanto aos ímpios."
+            },
+            {
+              "text": "Descansarão em repouso total sem nenhuma atividade.",
+              "isCorrect": false,
+              "explanation": "Os salvos terão uma função ativa durante o milênio: participar do julgamento junto com Cristo."
+            },
+            {
+              "text": "Evangelizarão os que ficaram na Terra durante os mil anos.",
+              "isCorrect": false,
+              "explanation": "Os salvos estarão no Céu, não na Terra. A Terra estará desolada durante o milênio, sem humanos vivos."
+            }
+          ],
+          "verse": "Apocalipse 20:4",
+          "verseText": "\"E vi tronos; e sentaram-se sobre eles, e foi-lhes dado o poder de julgar.\" — Apocalipse 20:4"
+        },
+        {
+          "question": "O que ocorrerá no fim dos mil anos?",
+          "options": [
+            {
+              "text": "Os ímpios ressuscitam, são derrotados e destruídos no lago de fogo.",
+              "isCorrect": true,
+              "explanation": "No fim do milênio: os ímpios ressuscitam, Satanás os incita contra a cidade santa, e o fogo de Deus os consome — o juízo final."
+            },
+            {
+              "text": "Todos os ímpios serão convertidos após verem a glória de Deus.",
+              "isCorrect": false,
+              "explanation": "Não há segunda chance após a morte. Os ímpios são destruídos, não convertidos, no julgamento final."
+            },
+            {
+              "text": "Satanás será libertado para reinar na Terra por mais mil anos.",
+              "isCorrect": false,
+              "explanation": "Satanás é solto brevemente para engajar os ímpios ressuscitados, mas logo é destruído definitivamente no lago de fogo."
+            }
+          ],
+          "verse": "Apocalipse 20:6-10",
+          "verseText": "\"E vi descer do céu a cidade santa, a nova Jerusalém... e o lago de fogo é a segunda morte.\" — Apocalipse 21:2; 20:14"
+        },
+        {
+          "question": "O que Jesus fará depois que a Terra for purificada pelo fogo?",
+          "options": [
+            {
+              "text": "Habitará com os salvos para sempre na Terra recriada.",
+              "isCorrect": true,
+              "explanation": "Após a purificação pelo fogo, Deus recriará a Terra e habitará eternamente com os salvos na Nova Jerusalém descida do Céu."
+            },
+            {
+              "text": "Levará os salvos para um novo planeta no universo.",
+              "isCorrect": false,
+              "explanation": "A promessa bíblica é de recriação desta Terra, não de migração para outro planeta."
+            },
+            {
+              "text": "Voltará ao Céu enquanto os salvos ficam sozinhos na nova Terra.",
+              "isCorrect": false,
+              "explanation": "Apocalipse 21 é explícito: Deus habitará com os salvos. Não haverá separação eterna entre Deus e Seu povo."
+            }
+          ],
+          "verse": "Apocalipse 21:1-4",
+          "verseText": "\"E vi novo céu e nova terra; porque já o primeiro céu e a primeira terra passaram... e habitará com eles.\" — Apocalipse 21:1,3"
+        },
+        {
+          "question": "O que é a segunda morte?",
+          "options": [
+            {
+              "text": "A destruição definitiva no lago de fogo — a morte eterna.",
+              "isCorrect": true,
+              "explanation": "A segunda morte é a condenação final dos ímpios no lago de fogo, resultando em destruição permanente, não em tormento eterno consciente."
+            },
+            {
+              "text": "A morte espiritual que ocorre quando o crente peca gravemente.",
+              "isCorrect": false,
+              "explanation": "A segunda morte é o juízo final dos ímpios, não uma experiência espiritual durante a vida."
+            },
+            {
+              "text": "Uma segunda oportunidade disfarçada de morte para os infiéis.",
+              "isCorrect": false,
+              "explanation": "Não há segunda chance. A segunda morte é julgamento definitivo e irreversível para os que rejeitaram Cristo."
+            }
+          ],
+          "verse": "Apocalipse 20:14",
+          "verseText": "\"E a morte e o inferno foram lançados no lago de fogo. Esta é a segunda morte, o lago de fogo.\" — Apocalipse 20:14"
+        },
+        {
+          "question": "Qual é o convite final de Deus a quem ainda não veio a Jesus?",
+          "options": [
+            {
+              "text": "Vem! A água da vida é oferecida gratuitamente a quem tem sede.",
+              "isCorrect": true,
+              "explanation": "O convite final do Apocalipse é de graça e amor: Deus chama todos a vir a Cristo e receber a vida eterna sem pagar nada."
+            },
+            {
+              "text": "Venha apenas se tiver cumprido todas as exigências religiosas.",
+              "isCorrect": false,
+              "explanation": "O convite é totalmente gratuito: \"de graça\". A única condição é ter sede — o desejo e a disposição de vir a Cristo."
+            },
+            {
+              "text": "Venha antes que o tempo de graça se encerre definitivamente.",
+              "isCorrect": false,
+              "explanation": "Embora o tempo de graça seja limitado, o convite final do Apocalipse é de abertura total, não de urgência ansiosa."
+            }
+          ],
+          "verse": "Apocalipse 22:17",
+          "verseText": "\"E o Espírito e a esposa dizem: Vem. E quem ouve, diga: Vem. E quem tem sede venha; e quem quiser receba de graça a água da vida.\" — Apocalipse 22:17"
+        }
+      ]
+    },
+    {
+      "id": "ap8",
+      "title": "O Fim da Morte",
+      "subtitle": "A verdade bíblica sobre os mortos",
+      "thumbnailImage": "assets/images/chapters/ap_morte.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Aceitar Cristo não nos livra do sofrimento deste mundo. Mais cedo ou mais tarde, praticamente todos ficaremos doentes e morreremos. Mas Ele prometeu que, a partir do dia de Sua segunda vinda, todas as nossas tristezas deixarão de existir.\n\nDor, doença, morte, luto e todo sofrimento serão eliminados para sempre da existência daqueles que forem salvos e que viverão eternamente com Cristo.",
+      "questions": [
+        {
+          "question": "O que é a morte segundo a Bíblia?",
+          "options": [
+            {
+              "text": "Um estado de inconsciência — como um sono sem sonhos.",
+              "isCorrect": true,
+              "explanation": "A Bíblia compara a morte ao sono: o morto não tem consciência, não sabe nada, aguardando a ressurreição."
+            },
+            {
+              "text": "Uma transição imediata para o céu ou inferno consciente.",
+              "isCorrect": false,
+              "explanation": "A Bíblia não ensina que os mortos vão imediatamente ao céu ou inferno. Eles dormem até a ressurreição."
+            },
+            {
+              "text": "A liberação do espírito imortal do corpo mortal.",
+              "isCorrect": false,
+              "explanation": "A ideia de alma imortal separando-se do corpo é filosófica, não bíblica. A Bíblia ensina que os mortos dormem."
+            }
+          ],
+          "verse": "João 11:11-14; Eclesiastes 9:5",
+          "verseText": "\"Lázaro, o nosso amigo, dorme; mas vou acordá-lo do sono... Jesus falava da morte dele.\" — João 11:11,13\n\n"
+        },
+        {
+          "question": "O que acontece com a pessoa no momento da morte?",
+          "options": [
+            {
+              "text": "O corpo volta ao pó e o fôlego de vida retorna a Deus; não há consciência.",
+              "isCorrect": true,
+              "explanation": "Na morte, os dois elementos que formam o ser humano se separam: o corpo volta ao pó e o fôlego (sopro de vida) retorna a Deus. Não há existência consciente separada."
+            },
+            {
+              "text": "O espírito consciente voa para o paraíso ou para o purgatório.",
+              "isCorrect": false,
+              "explanation": "O conceito de purgatório não tem base bíblica. O fôlego que retorna a Deus não é uma pessoa consciente, mas o sopro de vida."
+            },
+            {
+              "text": "A alma reencarna imediatamente em outro ser vivo.",
+              "isCorrect": false,
+              "explanation": "A reencarnação é totalmente contrária ao ensino bíblico: \"aos homens está ordenado morrerem uma vez, depois vem o juízo\" (Hb 9:27)."
+            }
+          ],
+          "verse": "Eclesiastes 12:7; Gênesis 3:19",
+          "verseText": "\"Então, o pó voltar à terra, como o era, e o espírito voltar a Deus, que o deu.\" — Eclesiastes 12:7\n\n"
+        },
+        {
+          "question": "Por que é impossível comunicar-se com os mortos?",
+          "options": [
+            {
+              "text": "Porque os mortos dormem sem consciência e não podem se comunicar.",
+              "isCorrect": true,
+              "explanation": "A Bíblia é clara: os mortos não voltam, não têm sentimentos, não louvam a Deus. Quem afirma falar com mortos está sendo enganado por espíritos malignos."
+            },
+            {
+              "text": "Porque apenas profetas autorizados podem estabelecer esse contato.",
+              "isCorrect": false,
+              "explanation": "A Bíblia proíbe terminantemente qualquer tentativa de comunicação com os mortos (Dt 18:10-12)."
+            },
+            {
+              "text": "Porque os mortos ficam ocupados servindo a Deus no Céu.",
+              "isCorrect": false,
+              "explanation": "Os mortos dormem e não têm nenhuma atividade consciente até a ressurreição."
+            }
+          ],
+          "verse": "Isaías 8:19,20; Jó 7:9,10",
+          "verseText": "\"Aquele que desce ao sheol não sobe mais; não tornará jamais para a sua casa, e o seu lugar não o reconhecerá mais.\" — Jó 7:9-10\n\n"
+        },
+        {
+          "question": "O que Jesus tem nas mãos e o que isso significa?",
+          "options": [
+            {
+              "text": "As chaves da morte e da sepultura — Ele tem soberania sobre elas.",
+              "isCorrect": true,
+              "explanation": "Jesus venceu a morte na ressurreição e agora possui as chaves: pode abrir as sepulturas e conceder a vida eterna aos Seus."
+            },
+            {
+              "text": "As chaves do Céu e do purgatório para liberar as almas.",
+              "isCorrect": false,
+              "explanation": "A Bíblia fala das chaves da morte e do inferno (sepultura), não de purgatório, que não tem base bíblica."
+            },
+            {
+              "text": "As chaves do reino de Deus, para decidir quem entra.",
+              "isCorrect": false,
+              "explanation": "O texto específico menciona as chaves da morte e do inferno (hades/sepultura), não do reino celestial em si."
+            }
+          ],
+          "verse": "Apocalipse 1:18",
+          "verseText": "\"E tenho as chaves da morte e do inferno.\" — Apocalipse 1:18"
+        },
+        {
+          "question": "O que acontecerá com a morte na Nova Terra?",
+          "options": [
+            {
+              "text": "A morte e toda dor serão eliminadas para sempre.",
+              "isCorrect": true,
+              "explanation": "Na Nova Terra, a morte não terá mais lugar. Deus mesmo enxugará cada lágrima, inaugurando uma existência eterna sem sofrimento."
+            },
+            {
+              "text": "A morte continuará existindo, mas de forma mais amena.",
+              "isCorrect": false,
+              "explanation": "Apocalipse 21:4 é explícito: \"não haverá mais morte\". O fim da morte é total e definitivo."
+            },
+            {
+              "text": "A morte passará a existir apenas para os animais.",
+              "isCorrect": false,
+              "explanation": "A promessa engloba toda a criação. Na Nova Terra recriada, a morte e o sofrimento não terão mais lugar."
+            }
+          ],
+          "verse": "Apocalipse 21:4",
+          "verseText": "\"E Deus limpará de seus olhos toda a lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor.\" — Apocalipse 21:4"
+        }
+      ]
+    },
+    {
+      "id": "ap9",
+      "title": "Os Sete Selos",
+      "subtitle": "Os segredos da história revelados",
+      "thumbnailImage": "assets/images/chapters/ap_selos.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Deus, sabendo da grande responsabilidade que é descobrir um segredo em primeira mão, deixou na Bíblia mensagens cifradas em códigos e símbolos. No entanto, há Alguém capaz de nos revelar esses segredos: Jesus Cristo, o único digno de abrir os selos.\n\nOs sete selos cobrem a história do cristianismo desde os dias dos apóstolos até a segunda vinda de Cristo, revelando o que acontece com a Igreja em cada período.",
+      "questions": [
+        {
+          "question": "O que representam os quatro cavaleiros dos primeiros selos?",
+          "options": [
+            {
+              "text": "Períodos da história da Igreja: pureza, perseguição, apostasia e morte espiritual.",
+              "isCorrect": true,
+              "explanation": "O cavalo branco representa a era apostólica pura; o vermelho, as perseguições; o preto, a apostasia; e o amarelo pálido, a decadência espiritual da Idade Média."
+            },
+            {
+              "text": "Quatro nações que destruirão o mundo no fim dos tempos.",
+              "isCorrect": false,
+              "explanation": "Os cavaleiros são símbolos de períodos históricos da Igreja, não de nações geográficas específicas."
+            },
+            {
+              "text": "Os quatro evangelistas que espalharão o evangelho pelo mundo.",
+              "isCorrect": false,
+              "explanation": "Os quatro seres viventes que chamam os cavaleiros não representam os evangelistas. Os cavaleiros simbolizam períodos históricos."
+            }
+          ],
+          "verse": "Apocalipse 6:1-8",
+          "verseText": "\"E vi, e eis um cavalo branco; e aquele que estava assentado sobre ele tinha um arco... e saiu vitorioso.\" — Apocalipse 6:2"
+        },
+        {
+          "question": "O que João viu ao se abrir o quinto selo?",
+          "options": [
+            {
+              "text": "As almas dos mártires que clamam por justiça.",
+              "isCorrect": true,
+              "explanation": "O quinto selo representa o período dos mártires da Reforma (1517–1755), que derramaram sangue pela verdade bíblica. Seu sangue clama a Deus como o de Abel."
+            },
+            {
+              "text": "Os 144 mil selados prontos para a batalha final.",
+              "isCorrect": false,
+              "explanation": "Os 144 mil aparecem no capítulo 7, não no quinto selo. O quinto selo trata do sangue dos mártires."
+            },
+            {
+              "text": "Uma visão do juízo final com todos os mortos ressuscitados.",
+              "isCorrect": false,
+              "explanation": "O quinto selo não é o juízo final, mas um período intermediário da história da Igreja, simbolizado pelo clamor dos mártires."
+            }
+          ],
+          "verse": "Apocalipse 6:9",
+          "verseText": "\"Vi, debaixo do altar, as almas daqueles que tinham sido mortos por causa da palavra de Deus e por causa do testemunho que sustentavam.\" — Apocalipse 6:9"
+        },
+        {
+          "question": "Que fenômenos naturais são descritos na abertura do sexto selo?",
+          "options": [
+            {
+              "text": "Terremoto, sol negro, lua de sangue e queda de estrelas.",
+              "isCorrect": true,
+              "explanation": "Esses sinais históricos foram cumpridos: o terremoto de Lisboa (1755), o dia escuro de 1780 e a chuva de meteoros de 1833, confirmando o cumprimento profético."
+            },
+            {
+              "text": "Tsunami, furacão e derretimento dos polos.",
+              "isCorrect": false,
+              "explanation": "Esses eventos não são mencionados no sexto selo. Os sinais específicos são terremoto, sol negro, lua de sangue e estrelas cadentes."
+            },
+            {
+              "text": "Apenas visões simbólicas sem cumprimento histórico real.",
+              "isCorrect": false,
+              "explanation": "A Bíblia e a história confirmam o cumprimento literal desses sinais entre os séculos XVIII e XIX."
+            }
+          ],
+          "verse": "Apocalipse 6:12,13",
+          "verseText": "\"E houve um grande terremoto; e o sol tornou-se negro como saco de cabelo, e a lua tornou-se como sangue; e as estrelas do céu caíram sobre a terra.\" — Apocalipse 6:12-13"
+        },
+        {
+          "question": "O que aconteceu ao se abrir o sétimo selo?",
+          "options": [
+            {
+              "text": "Fez-se silêncio no céu por meia hora, dando início às sete trombetas.",
+              "isCorrect": true,
+              "explanation": "O sétimo selo não traz pragas imediatas, mas um silêncio solene que introduz a próxima série: as sete trombetas."
+            },
+            {
+              "text": "Satanás foi lançado imediatamente no lago de fogo.",
+              "isCorrect": false,
+              "explanation": "O lançamento de Satanás no lago de fogo ocorre no fim do milênio (Ap 20:10), não no sétimo selo."
+            },
+            {
+              "text": "A igreja foi completamente destruída e o mundo acabou.",
+              "isCorrect": false,
+              "explanation": "O sétimo selo não representa o fim do mundo, mas a transição para a próxima série de visões: as sete trombetas."
+            }
+          ],
+          "verse": "Apocalipse 8:1",
+          "verseText": "\"E, quando abriu o sétimo selo, fez-se silêncio no céu quase por meia hora.\" — Apocalipse 8:1"
+        },
+        {
+          "question": "Por que os ímpios clamam desesperadamente às rochas e montanhas?",
+          "options": [
+            {
+              "text": "Porque a presença gloriosa de Cristo na Segunda Vinda os aterroriza.",
+              "isCorrect": true,
+              "explanation": "Diante da Segunda Vinda de Cristo, os que recusaram a salvação enfrentam as consequências de sua escolha, tentando desesperadamente se esconder."
+            },
+            {
+              "text": "Porque um terremoto catastrófico ameaça destruir as cidades.",
+              "isCorrect": false,
+              "explanation": "O clamor não é por medo de desastre natural, mas pelo terror diante da presença do Cordeiro e Seu juízo."
+            },
+            {
+              "text": "Porque percebem que precisam de uma última chance de se arrepender.",
+              "isCorrect": false,
+              "explanation": "O texto não indica arrependimento, mas terror e desespero diante do juízo que já chegou sem possibilidade de fuga."
+            }
+          ],
+          "verse": "Apocalipse 6:14-17",
+          "verseText": "\"Caí sobre nós e escondei-nos da face daquele que se assenta no trono e da ira do Cordeiro, porque chegou o grande Dia da ira deles; e quem é que pode subsistir?\" — Apocalipse 6:16-17"
+        }
+      ]
+    },
+    {
+      "id": "ap10",
+      "title": "O Santuário e o Juízo",
+      "subtitle": "A obra final de Cristo no Céu",
+      "thumbnailImage": "assets/images/chapters/ap_santuario.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Na linguagem bíblica, arrepender-se significa sentir tristeza pelos erros cometidos e decidir mudar de atitude. Essa é a condição bíblica para que nossos pecados sejam cancelados. Assim, a pessoa arrependida começa a ver as coisas como Deus as vê.\n\nO Apocalipse revela que Cristo está agora no santuário celestial exercendo o ministério final de intercessão e juízo investigativo, preparando o povo de Deus para Sua vinda.",
+      "questions": [
+        {
+          "question": "Por que ninguém era considerado digno de tomar o livro selado?",
+          "options": [
+            {
+              "text": "Porque a qualificação exigia natureza humana e divina ao mesmo tempo — só Jesus a possuía.",
+              "isCorrect": true,
+              "explanation": "Para representar a humanidade e ter autoridade divina, apenas um ser com ambas as naturezas poderia assumir o ofício. Somente Jesus cumpria esse requisito único."
+            },
+            {
+              "text": "Porque o livro estava protegido por um feitiço que ninguém podia quebrar.",
+              "isCorrect": false,
+              "explanation": "Não era questão de feitiço, mas de qualificação moral e ontológica: era necessário ser simultaneamente humano e divino."
+            },
+            {
+              "text": "Porque Deus havia decidido guardar o livro para Si mesmo.",
+              "isCorrect": false,
+              "explanation": "Deus queria que o livro fosse aberto — tanto que João chorava pela falta de alguém digno. A solução foi o Cordeiro."
+            }
+          ],
+          "verse": "Apocalipse 5:3,4",
+          "verseText": "\"E ninguém podia, nem no céu, nem na terra, nem debaixo da terra, abrir o livro, nem olhar para ele.\" — Apocalipse 5:3"
+        },
+        {
+          "question": "Como os crentes do Antigo Testamento foram salvos?",
+          "options": [
+            {
+              "text": "Pela fé no sangue que Cristo haveria de derramar, simbolizado nos sacrifícios.",
+              "isCorrect": true,
+              "explanation": "Os sacrifícios do Antigo Testamento eram símbolos que apontavam para o sacrifício futuro de Cristo. A salvação sempre foi pela fé no Cordeiro de Deus."
+            },
+            {
+              "text": "Pela perfeita obediência à lei de Moisés em todos os detalhes.",
+              "isCorrect": false,
+              "explanation": "Ninguém foi salvo pela obediência perfeita à lei. Os sacrifícios e a fé no Redentor prometido eram o caminho."
+            },
+            {
+              "text": "Por pertencer à nação de Israel e guardar os rituais.",
+              "isCorrect": false,
+              "explanation": "A salvação não era étnica ou ritual, mas pela fé no sangue do Cordeiro prometido. Abraão creu em Deus e isso lhe foi imputado como justiça."
+            }
+          ],
+          "verse": "1 Pedro 1:18-20",
+          "verseText": "\"Sabendo que não foi com coisas corruptíveis... mas com o precioso sangue de Cristo, como de cordeiro sem defeito.\" — 1 Pedro 1:18-19"
+        },
+        {
+          "question": "O que devemos fazer para ter nossos pecados cancelados no juízo?",
+          "options": [
+            {
+              "text": "Arrepender-nos e confessar nossos pecados, para que sejam apagados.",
+              "isCorrect": true,
+              "explanation": "O arrependimento genuíno leva à confissão, e a confissão resulta no cancelamento dos pecados dos livros celestiais pelo sangue de Cristo."
+            },
+            {
+              "text": "Acumular boas obras que superem numericamente os pecados.",
+              "isCorrect": false,
+              "explanation": "Não é o número de boas obras que cancela o pecado, mas o sangue de Cristo recebido pela fé e o arrependimento genuíno."
+            },
+            {
+              "text": "Fazer uma promessa pública solene de não pecar mais.",
+              "isCorrect": false,
+              "explanation": "Promessas humanas não têm poder para apagar pecados. Somente o sangue de Cristo, recebido pela fé e arrependimento, efetua esse perdão."
+            }
+          ],
+          "verse": "1 João 1:9; Atos 3:19",
+          "verseText": "\"Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.\" — 1 João 1:9\n\n"
+        },
+        {
+          "question": "O que o ministério de Cristo no santuário celestial garante para nós hoje?",
+          "options": [
+            {
+              "text": "Salvação completa e intercessão contínua diante do Pai.",
+              "isCorrect": true,
+              "explanation": "Jesus vive para sempre intercedendo por nós. Isso garante que nenhum pecado confessado ficará sem cobertura e nenhuma oração sem resposta."
+            },
+            {
+              "text": "Proteção automática de todo sofrimento e doença.",
+              "isCorrect": false,
+              "explanation": "A intercessão de Cristo é espiritual e judicial, não uma garantia de saúde ou ausência de sofrimento nesta vida."
+            },
+            {
+              "text": "Que nossa salvação não pode ser perdida em nenhuma circunstância.",
+              "isCorrect": false,
+              "explanation": "A intercessão é real, mas a salvação exige nossa permanência em Cristo pela fé. A apostasia deliberada pode resultar na perda da salvação."
+            }
+          ],
+          "verse": "Hebreus 7:25; 1 João 2:1",
+          "verseText": "\"Pelo que também pode salvar perfeitamente os que por ele se chegam a Deus, vivendo sempre para interceder por eles.\" — Hebreus 7:25\n\n"
+        },
+        {
+          "question": "Qual a condição bíblica para que nossos pecados sejam apagados?",
+          "options": [
+            {
+              "text": "Arrependimento e conversão genuínos.",
+              "isCorrect": true,
+              "explanation": "O apagamento dos pecados nos registros celestiais exige arrependimento real — tristeza pelo pecado e decisão de mudar — seguido de conversão."
+            },
+            {
+              "text": "Apenas crença intelectual nas doutrinas corretas.",
+              "isCorrect": false,
+              "explanation": "A crença intelectual sem arrependimento e transformação não é suficiente para o apagamento dos pecados."
+            },
+            {
+              "text": "Batismo por imersão realizado na denominação correta.",
+              "isCorrect": false,
+              "explanation": "O batismo é importante, mas o apagamento dos pecados está condicionado ao arrependimento e conversão, não à forma do batismo ou denominação."
+            }
+          ],
+          "verse": "Atos 3:19",
+          "verseText": "\"Arrependei-vos e convertei-vos, para que os vossos pecados sejam apagados, a fim de que venham da presença do Senhor os tempos do refrigério.\" — Atos 3:19"
+        }
+      ]
+    },
+    {
+      "id": "ap11",
+      "title": "O Selo de Deus",
+      "subtitle": "O sinal de fidelidade nos últimos dias",
+      "thumbnailImage": "assets/images/chapters/ap_selo.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Os \"quatro ventos\" na linguagem profética representam o mal, a destruição e a calamidade resultantes da ira de Deus contra a maldade humana. Anjos simbolizam os instrumentos divinos que detêm essas forças do mal no mundo, até que esteja terminada a obra divina no coração humano e o povo de Deus seja selado na fronte.\n\nO quarto mandamento é o único dentre os dez que apresenta todos os elementos de um selo: nome do governante (\"SENHOR, teu Deus\"), cargo (Criador) e território de domínio (\"os céus e a terra, o mar e tudo o que neles há\"). O sábado é, portanto, o selo de Deus — sinal de criação, santificação e libertação.",
+      "questions": [
+        {
+          "question": "O que precisa ocorrer antes de os anjos liberarem os quatro ventos destrutivos?",
+          "options": [
+            {
+              "text": "O selamento dos servos de Deus precisa ser completado primeiro.",
+              "isCorrect": true,
+              "explanation": "Deus retém as forças do mal até que Seu povo esteja completamente selado — preparado e comprometido com Ele. Só então os quatro ventos serão soltos."
+            },
+            {
+              "text": "A morte e ressurreição de Jesus precisam ser anunciadas novamente.",
+              "isCorrect": false,
+              "explanation": "A morte e ressurreição de Jesus já ocorreram. A condição para a liberação dos ventos é o selamento final do povo de Deus."
+            },
+            {
+              "text": "Satanás precisa ser julgado e condenado primeiro.",
+              "isCorrect": false,
+              "explanation": "O julgamento final de Satanás ocorre no fim do milênio. O que impede os ventos agora é o processo de selamento do povo de Deus."
+            }
+          ],
+          "verse": "Apocalipse 7:2,3",
+          "verseText": "\"Não firéis a terra, nem o mar, nem as árvores, até que tenhamos selado os servos do nosso Deus nas suas frontes.\" — Apocalipse 7:3"
+        },
+        {
+          "question": "O que é o selo de Deus e onde ele é encontrado na lei?",
+          "options": [
+            {
+              "text": "O sábado — o único mandamento com nome, cargo e território do governante divino.",
+              "isCorrect": true,
+              "explanation": "O quarto mandamento contém os três elementos de um selo oficial: nome (SENHOR), cargo (Criador) e território (céus e terra). É por isso que o sábado é identificado como o selo de Deus."
+            },
+            {
+              "text": "O batismo por imersão, que é o sinal externo da fé cristã.",
+              "isCorrect": false,
+              "explanation": "O batismo é um símbolo importante, mas o Apocalipse identifica o selo de Deus com a lei — especificamente o quarto mandamento, o sábado."
+            },
+            {
+              "text": "A cruz, que representa o sacrifício de Cristo por todos os pecadores.",
+              "isCorrect": false,
+              "explanation": "A cruz é o símbolo da redenção, mas o selo profético da aliança entre Deus e Seu povo é o sábado, conforme Êxodo 31:13 e Ezequiel 20:12."
+            }
+          ],
+          "verse": "Isaías 8:16; Êxodo 20:8-11",
+          "verseText": "\"Resguarda o testemunho, sela a lei no coração dos meus discípulos.\" — Isaías 8:16\n\n"
+        },
+        {
+          "question": "Como o sábado é identificado nas Escrituras Sagradas?",
+          "options": [
+            {
+              "text": "Sinal de criação, santificação e libertação — entre Deus e Seu povo.",
+              "isCorrect": true,
+              "explanation": "O sábado é triplo em significado: memorial da criação (Êx 20:11), sinal de santificação (Ez 20:12) e símbolo da liberdade obtida no Êxodo (Dt 5:15). É o sinal da aliança entre Deus e Seu povo."
+            },
+            {
+              "text": "Apenas uma cerimônia cultural israelita, abolida na cruz.",
+              "isCorrect": false,
+              "explanation": "O sábado foi estabelecido na criação (Gn 2:2,3), antes de Israel existir. Jesus declarou que Ele é Senhor do sábado (Mc 2:28), não que o aboliu."
+            },
+            {
+              "text": "Um símbolo do repouso eterno que os salvos terão no Céu.",
+              "isCorrect": false,
+              "explanation": "Embora o sábado aponte para o repouso eterno, a Bíblia o identifica primariamente como sinal da aliança, santificação e memória da criação."
+            }
+          ],
+          "verse": "Êxodo 31:17; Ezequiel 20:12",
+          "verseText": "\"É sinal entre mim e os filhos de Israel para sempre; porque em seis dias fez o Senhor os céus e a terra.\" — Êxodo 31:17\n\n"
+        },
+        {
+          "question": "Qual era o costume de Jesus em relação ao sábado?",
+          "options": [
+            {
+              "text": "Era seu costume adorar a Deus publicamente no sábado.",
+              "isCorrect": true,
+              "explanation": "Jesus guardou o sábado por toda a Sua vida terrena, indo à sinagoga para adoração. Ele é nosso modelo — e Ele não veio abolir a lei, mas cumpri-la (Mt 5:17)."
+            },
+            {
+              "text": "Jesus trabalhava e viajava normalmente no sábado, sem distinção.",
+              "isCorrect": false,
+              "explanation": "A Bíblia deixa claro que Jesus tinha o costume de adorar no sábado. Ele discordava das tradições humanas adicionadas ao sábado, não do sábado em si."
+            },
+            {
+              "text": "Jesus ignorava o sábado para mostrar que a lei estava superada.",
+              "isCorrect": false,
+              "explanation": "Jesus afirmou explicitamente: \"Não vim revogar a lei\" (Mt 5:17). Guardar o sábado era Seu costume, não uma exceção."
+            }
+          ],
+          "verse": "Lucas 4:16",
+          "verseText": "\"E foi a Nazaré, onde fora criado; e, conforme o seu costume, no dia do sábado, entrou na sinagoga e levantou-se para ler.\" — Lucas 4:16"
+        },
+        {
+          "question": "O que caracteriza o povo de Deus nos dias finais da história?",
+          "options": [
+            {
+              "text": "Guardar todos os mandamentos de Deus e ter a fé de Jesus.",
+              "isCorrect": true,
+              "explanation": "O remanescente fiel do fim dos tempos é identificado por dois traços: obediência completa aos mandamentos de Deus (incluindo o sábado) e fé viva em Jesus Cristo."
+            },
+            {
+              "text": "Realizar milagres e falar em línguas estranhas como sinal.",
+              "isCorrect": false,
+              "explanation": "O Apocalipse não identifica milagres ou línguas como marca do remanescente. O sinal é a guarda dos mandamentos e a fé em Jesus."
+            },
+            {
+              "text": "Pertencer a uma denominação específica com o nome correto.",
+              "isCorrect": false,
+              "explanation": "A marca não é denominacional, mas de caráter: obediência aos mandamentos de Deus e fé em Jesus Cristo — independente da denominação."
+            }
+          ],
+          "verse": "Apocalipse 14:12",
+          "verseText": "\"Aqui está a perseverança dos santos, os que guardam os mandamentos de Deus e a fé de Jesus.\" — Apocalipse 14:12"
+        },
+        {
+          "question": "Quem são os 144 mil descritos no Apocalipse 7?",
+          "options": [
+            {
+              "text": "O grupo especial dos fiéis vivos na segunda vinda, de caráter puro e fé única.",
+              "isCorrect": true,
+              "explanation": "Os 144 mil são um grupo simbólico do povo de Deus selado no fim dos tempos, vivendo quando Cristo vier. Têm caráter puro, seguem o Cordeiro e entoam um cântico que só eles podem cantar."
+            },
+            {
+              "text": "Exatamente 144.000 judeus literais da tribo de Judá.",
+              "isCorrect": false,
+              "explanation": "O número é simbólico (12 x 12 x 1000). As tribos listadas diferem das tribos históricas de Israel, indicando uma interpretação espiritual representando o povo de Deus de toda origem."
+            },
+            {
+              "text": "Os santos que já morreram e estão esperando no Céu.",
+              "isCorrect": false,
+              "explanation": "Os 144 mil são os que estarão vivos na segunda vinda de Cristo, transformados sem passar pela morte, conforme 1 Tessalonicenses 4:17."
+            }
+          ],
+          "verse": "Apocalipse 7:4; 14:4,5",
+          "verseText": "\"E ouvi o número dos selados: cento e quarenta e quatro mil selados de todas as tribos dos filhos de Israel.\" — Apocalipse 7:4\n\n"
+        }
+      ]
+    },
+    {
+      "id": "ap12",
+      "title": "As Sete Trombetas",
+      "subtitle": "Sinais sonoros de alerta na história",
+      "thumbnailImage": "assets/images/chapters/ap_trombetas.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "As trombetas retratam eventos que impactaram o povo de Deus desde os primeiros séculos da era cristã até a segunda vinda de Cristo. As quatro primeiras trombetas se concentram na desintegração do grande Império Romano Ocidental pelas tribos dos povos bárbaros, que prepararam o caminho para a consolidação da Roma papal.\n\nA quinta e a sexta trombetas apontam para eventos desencadeados pelo poder muçulmano, como a conquista de Constantinopla no século 15 e a decadência do Império Otomano no século 19. Cada uma dessas profecias já se cumpriu precisamente na história.",
+      "questions": [
+        {
+          "question": "O que as quatro primeiras trombetas representam historicamente?",
+          "options": [
+            {
+              "text": "A desintegração do Império Romano Ocidental pelas tribos bárbaras.",
+              "isCorrect": true,
+              "explanation": "As quatro primeiras trombetas representam as invasões dos visigodos, vândalos, hunos e hérulos que destruíram o Império Romano, preparando o terreno para a ascensão do papado."
+            },
+            {
+              "text": "Quatro catástrofes naturais que ocorrerão antes do fim do mundo.",
+              "isCorrect": false,
+              "explanation": "As trombetas são profecias históricas já cumpridas, não eventos futuros. Elas cobrem a história da Igreja desde o século 1 até a volta de Cristo."
+            },
+            {
+              "text": "Quatro guerras mundiais que a humanidade travará nos últimos dias.",
+              "isCorrect": false,
+              "explanation": "As quatro primeiras trombetas se cumpriram na queda de Roma (séculos 4 e 5 d.C.), não em guerras mundiais futuras."
+            }
+          ],
+          "verse": "Apocalipse 8:7-12",
+          "verseText": "\"O primeiro tocou a trombeta, e houve granizo e fogo misturados com sangue, e foram lançados sobre a terra.\" — Apocalipse 8:7"
+        },
+        {
+          "question": "Para que eventos a quinta e a sexta trombetas apontam?",
+          "options": [
+            {
+              "text": "Eventos desencadeados pelo poder muçulmano: conquista de Constantinopla e queda do Império Otomano.",
+              "isCorrect": true,
+              "explanation": "A quinta trombeta aponta para o surgimento do Islã e suas conquistas (632–1453). A sexta trombeta aponta para a queda do Império Otomano no século 19, cumprindo os 391 anos proféticos."
+            },
+            {
+              "text": "A perseguição dos cristãos pela Roma Imperial nos primeiros séculos.",
+              "isCorrect": false,
+              "explanation": "A perseguição romana é coberta pelos selos. As trombetas 5 e 6 apontam especificamente para o poder islâmico e suas consequências históricas."
+            },
+            {
+              "text": "A Segunda Guerra Mundial e a criação do Estado de Israel.",
+              "isCorrect": false,
+              "explanation": "Essas profecias se cumpriram séculos antes da Segunda Guerra Mundial, abrangendo o período do Islã medieval e do Império Otomano."
+            }
+          ],
+          "verse": "Apocalipse 9:1-21",
+          "verseText": "\"E o quinto anjo tocou a sua trombeta, e vi uma estrela, que caíra do céu à terra... e abriu o poço do abismo.\" — Apocalipse 9:1"
+        },
+        {
+          "question": "O que acontece quando o anjo toca a sétima trombeta?",
+          "options": [
+            {
+              "text": "É anunciado que Deus passou a reinar — início do julgamento final e da recompensa.",
+              "isCorrect": true,
+              "explanation": "A sétima trombeta anuncia a proclamação do reino eterno de Deus e de Cristo. É o momento em que o juízo pré-advento se encerra e Cristo vem para recompensar os salvos."
+            },
+            {
+              "text": "Sete pragas são derramadas imediatamente sobre toda a Terra.",
+              "isCorrect": false,
+              "explanation": "As sete pragas são derramadas depois que o tempo de graça se fecha. A sétima trombeta anuncia o reino de Deus, sendo introdução para as pragas, não as pragas em si."
+            },
+            {
+              "text": "Todos os mortos ressuscitam ao mesmo tempo para o julgamento.",
+              "isCorrect": false,
+              "explanation": "A ressurreição dos salvos ocorre na segunda vinda. A sétima trombeta anuncia o reino de Deus e o momento do julgamento, não a ressurreição imediata."
+            }
+          ],
+          "verse": "Apocalipse 11:15-19",
+          "verseText": "\"E o sétimo anjo tocou a trombeta, e houve grandes vozes no céu, dizendo: Os reinos do mundo vieram a ser de nosso Senhor e do seu Cristo.\" — Apocalipse 11:15"
+        },
+        {
+          "question": "O que João vê no santuário de Deus ao soar a sétima trombeta?",
+          "options": [
+            {
+              "text": "A arca da aliança — apontando para o ministério de Cristo no lugar santíssimo desde 1844.",
+              "isCorrect": true,
+              "explanation": "Em 1844, Jesus entrou no lugar santíssimo do santuário celestial, inaugurando o juízo investigativo de Daniel 8:14. A visão da arca confirma que a lei de Deus — incluindo o sábado — está no centro do julgamento."
+            },
+            {
+              "text": "O altar de ouro onde são oferecidas as orações dos santos.",
+              "isCorrect": false,
+              "explanation": "O altar de ouro é visto em outras visões. Na sétima trombeta, o destaque é a arca da aliança no lugar santíssimo, significando o início do juízo final."
+            },
+            {
+              "text": "O trono de Deus rodeado de vinte e quatro anciãos adorando.",
+              "isCorrect": false,
+              "explanation": "O trono com os anciãos aparece nos capítulos 4 e 5. Na sétima trombeta, o foco é a arca da aliança no segundo compartimento do santuário."
+            }
+          ],
+          "verse": "Apocalipse 11:19",
+          "verseText": "\"E o templo de Deus, que está no céu, foi aberto, e a arca da sua aliança foi vista no seu templo; e houve relâmpagos, e vozes, e trovões, e terremotos, e grande chuva de pedras.\" — Apocalipse 11:19"
+        },
+        {
+          "question": "Quem são os bem-aventurados ao soar a última trombeta?",
+          "options": [
+            {
+              "text": "Os que aceitaram o convite para as bodas do Cordeiro — os salvos.",
+              "isCorrect": true,
+              "explanation": "A imagem das bodas descreve a união eterna entre Cristo e Sua igreja. Os bem-aventurados são os que responderam ao convite divino com fé e obediência."
+            },
+            {
+              "text": "Os que sobreviveram às sete pragas sem sofrimento físico.",
+              "isCorrect": false,
+              "explanation": "A bem-aventurança não é de sobrevivência física, mas de estar unido a Cristo pela fé. O povo de Deus pode sofrer nas pragas, mas é protegido espiritualmente."
+            },
+            {
+              "text": "Apenas os 144 mil que estarão vivos na segunda vinda.",
+              "isCorrect": false,
+              "explanation": "A ceia das bodas inclui todos os salvos — tanto os ressuscitados quanto os transformados na segunda vinda. Não se limita aos 144 mil."
+            }
+          ],
+          "verse": "Apocalipse 19:9",
+          "verseText": "\"Bem-aventurados os que são chamados à ceia das bodas do Cordeiro.\" — Apocalipse 19:9"
+        }
+      ]
+    },
+    {
+      "id": "ap13",
+      "title": "O Livro Sobrevivente",
+      "subtitle": "As duas testemunhas e a Bíblia Sagrada",
+      "thumbnailImage": "assets/images/chapters/ap_testemunhas.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "A Bíblia sempre desmascara Satanás, e ele, por sua vez, procura silenciar o testemunho bíblico. Às vezes, ele oculta ou desvia a verdade; em outras, tenta destruí-la. Ao longo dos séculos conflituosos da história, a Bíblia foi um livro proibido e perseguido — pessoas foram mortas, exemplares foram lançados às chamas.\n\nNo entanto, Deus preservou miraculosamente Seu Livro Sagrado para que suas páginas nos trouxessem a mensagem de salvação em Cristo. As \"duas testemunhas\" do Apocalipse representam o Antigo e o Novo Testamento — revelados pelo Espírito Santo.",
+      "questions": [
+        {
+          "question": "O que representam as duas testemunhas que profetizaram por 1.260 dias?",
+          "options": [
+            {
+              "text": "O Antigo e o Novo Testamento — revelados pelo Espírito Santo.",
+              "isCorrect": true,
+              "explanation": "As duas testemunhas, comparadas a oliveiras e candeeiros, representam a Palavra de Deus em seus dois testamentos. Durante os 1.260 anos de perseguição (538–1798), foram proibidas pela Igreja de Roma, mas continuaram dando testemunho."
+            },
+            {
+              "text": "Dois profetas literais que ressuscitarão nos últimos dias.",
+              "isCorrect": false,
+              "explanation": "O contexto simbólico do Apocalipse e a descrição de oliveiras e candeeiros indicam que as duas testemunhas representam a Palavra de Deus, não dois indivíduos literais."
+            },
+            {
+              "text": "Moisés e Elias, que reaparecerão antes da volta de Cristo.",
+              "isCorrect": false,
+              "explanation": "Embora Moisés e Elias representem a Lei e os Profetas, as duas testemunhas do Apocalipse 11 representam a Bíblia completa, conforme o contexto profético."
+            }
+          ],
+          "verse": "Apocalipse 11:3,4",
+          "verseText": "\"E darei poder às minhas duas testemunhas, e elas profetizarão... Estas são as duas oliveiras e os dois candeeiros que estão diante do Senhor da terra.\" — Apocalipse 11:3-4"
+        },
+        {
+          "question": "Qual foi o resultado do confronto entre a besta do abismo e as duas testemunhas?",
+          "options": [
+            {
+              "text": "As duas testemunhas foram vencidas e mortas — a Bíblia foi temporariamente silenciada.",
+              "isCorrect": true,
+              "explanation": "Isso se cumpriu na Revolução Francesa (1793–1797): a França declarou a não existência de Deus, queimou Bíblias e fechou igrejas por exatamente três anos e meio."
+            },
+            {
+              "text": "A besta do abismo foi finalmente derrotada e destruída.",
+              "isCorrect": false,
+              "explanation": "Nessa fase específica, as testemunhas são vencidas — representando a supressão da Bíblia. Mas elas ressuscitam depois, simbolizando a restauração da Palavra de Deus."
+            },
+            {
+              "text": "As duas testemunhas fugiram para o deserto em segurança.",
+              "isCorrect": false,
+              "explanation": "A fuga para o deserto ocorre em Apocalipse 12:6, referindo-se à Igreja durante os 1.260 anos. No capítulo 11, as testemunhas são mortas pelo poder ateísta."
+            }
+          ],
+          "verse": "Apocalipse 11:7",
+          "verseText": "\"E, quando tiverem concluído o seu testemunho, a besta que sobe do abismo fará guerra contra elas, e as vencerá, e as matará.\" — Apocalipse 11:7"
+        },
+        {
+          "question": "Como se cumpriu a profecia dos \"três dias e meio\" das testemunhas mortas?",
+          "options": [
+            {
+              "text": "O Reinado do Terror na Revolução Francesa durou exatamente três anos e meio (1793–1797).",
+              "isCorrect": true,
+              "explanation": "Aplicando o princípio dia-ano, os três dias e meio representam três anos e meio. A França baniu a religião em 26 de novembro de 1793 e o decreto foi anulado em 17 de junho de 1797 — exatamente três anos e meio depois."
+            },
+            {
+              "text": "As duas testemunhas ficaram mortas por três dias e meio literais antes de ressuscitar.",
+              "isCorrect": false,
+              "explanation": "A profecia é simbólica. Três dias e meio proféticos = três anos e meio literais, conforme o princípio dia-ano de Ezequiel 4:6 e Números 14:34."
+            },
+            {
+              "text": "A perseguição papal durou três séculos e meio, de 500 a 850 d.C.",
+              "isCorrect": false,
+              "explanation": "A perseguição papal de 1.260 anos vai de 538 a 1798. Os três anos e meio das testemunhas mortas referem-se especificamente à Revolução Francesa."
+            }
+          ],
+          "verse": "Apocalipse 11:9,11; Ezequiel 4:6",
+          "verseText": "\"E os da terra rejubilarão sobre elas... E depois dos três dias e meio, o espírito de vida, da parte de Deus, entrou nelas.\" — Apocalipse 11:10-11\n\n"
+        },
+        {
+          "question": "Qual será o alcance da pregação do evangelho eterno antes da volta de Jesus?",
+          "options": [
+            {
+              "text": "O evangelho será proclamado a toda nação, tribo, língua e povo.",
+              "isCorrect": true,
+              "explanation": "O alcance é universal e sem exceção. Antes do fim, o evangelho eterno será levado a cada canto da Terra — cumpindo a ordem de Mateus 24:14."
+            },
+            {
+              "text": "Apenas às nações que nunca ouviram o evangelho anteriormente.",
+              "isCorrect": false,
+              "explanation": "O evangelho eterno é proclamado a todos — inclusive a quem já ouviu — como chamado final e urgente antes do fechamento do tempo de graça."
+            },
+            {
+              "text": "Somente aos povos que sobreviverem às sete pragas.",
+              "isCorrect": false,
+              "explanation": "A proclamação do evangelho eterno precede as pragas, não ocorre durante elas. As pragas são derramadas após o fechamento do tempo de graça."
+            }
+          ],
+          "verse": "Apocalipse 14:6",
+          "verseText": "\"Vi outro anjo voar pelo meio do céu, tendo um evangelho eterno para o pregar aos que habitam sobre a terra, e a cada nação, e tribo, e língua, e povo.\" — Apocalipse 14:6"
+        },
+        {
+          "question": "Quais advertências Deus nos faz ao interpretarmos as profecias?",
+          "options": [
+            {
+              "text": "Devemos interpretar as profecias iluminados pelo Espírito Santo, sem acrescentar ou retirar nada.",
+              "isCorrect": true,
+              "explanation": "As profecias não são de interpretação privada. O mesmo Espírito que as inspirou deve guiar nossa compreensão, usando a própria Bíblia para interpretar seus símbolos."
+            },
+            {
+              "text": "Podemos dar o significado que quisermos, desde que seja edificante.",
+              "isCorrect": false,
+              "explanation": "A Bíblia proíbe interpretações arbitrárias. Somos livres para estudar, mas obrigados a deixar a Bíblia interpretar a si mesma, guiados pelo Espírito Santo."
+            },
+            {
+              "text": "Somos livres para eliminar os textos proféticos com os quais discordamos.",
+              "isCorrect": false,
+              "explanation": "Apocalipse 22:18-19 adverte severamente contra acrescentar ou retirar palavras da profecia. A Palavra de Deus deve ser preservada integralmente."
+            }
+          ],
+          "verse": "2 Pedro 1:20,21",
+          "verseText": "\"Sabendo primeiramente isto: que nenhuma profecia da Escritura é de particular interpretação; porque a profecia nunca foi produzida por vontade de homem algum, mas os homens santos de Deus falaram inspirados pelo Espírito Santo.\" — 2 Pedro 1:20-21"
+        }
+      ]
+    },
+    {
+      "id": "ap14",
+      "title": "Os Três Anjos",
+      "subtitle": "A mensagem final de Deus ao mundo",
+      "thumbnailImage": "assets/images/chapters/ap_anjos.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "A pregação das três mensagens angélicas serve para advertir o mundo pouco antes da segunda vinda de Cristo. Essa mensagem desperta respostas: ou as pessoas aceitam o evangelho eterno e recebem o selo de Deus, ou o rejeitam e recebem a marca da besta.\n\nDepois que o mundo der sua resposta ao último convite divino, todas as oportunidades estarão encerradas, e a intercessão no santuário celestial será concluída. Com o fim da intercessão, tem início o derramamento das sete pragas, e Cristo vem para buscar Seus filhos.",
+      "questions": [
+        {
+          "question": "Qual é a mensagem do primeiro anjo?",
+          "options": [
+            {
+              "text": "Temer a Deus, glorificá-Lo e adorá-Lo como Criador — pois chegou a hora do Seu juízo.",
+              "isCorrect": true,
+              "explanation": "A primeira mensagem é um chamado urgente à adoração ao Criador. É resposta direta à teoria da evolução e ao esquecimento do sábado — o memorial da criação."
+            },
+            {
+              "text": "Anunciar o fim do mundo e fugir das cidades para o campo.",
+              "isCorrect": false,
+              "explanation": "A mensagem é de adoração e temor a Deus, não de fuga geográfica. O chamado é espiritual: voltar a adorar o Criador verdadeiro."
+            },
+            {
+              "text": "Condenar os pecadores e anunciar o juízo imediato sobre a Terra.",
+              "isCorrect": false,
+              "explanation": "A mensagem é um convite misericordioso, não uma condenação. O objetivo é levar as pessoas a se prepararem para o juízo voltando-se ao Criador."
+            }
+          ],
+          "verse": "Apocalipse 14:6,7",
+          "verseText": "\"Temei a Deus e dai-lhe glória, porque é chegada a hora do seu juízo; e adorai aquele que fez o céu, e a terra, e o mar, e as fontes das águas.\" — Apocalipse 14:7"
+        },
+        {
+          "question": "Qual é a mensagem do segundo anjo?",
+          "options": [
+            {
+              "text": "A queda da Babilônia — denúncia da apostasia religiosa no meio cristão.",
+              "isCorrect": true,
+              "explanation": "A Babilônia representa a apostasia cristã que se afastou da Bíblia. O chamado é para o povo de Deus sair de sistemas religiosos doutrinariamente equivocados (Ap 18:4)."
+            },
+            {
+              "text": "O colapso econômico mundial que precederá a volta de Cristo.",
+              "isCorrect": false,
+              "explanation": "Babilônia é um símbolo religioso, não econômico. Representa a confusão doutrinária e a apostasia no meio cristão, não crises financeiras."
+            },
+            {
+              "text": "A destruição literal da cidade de Babilônia no Iraque.",
+              "isCorrect": false,
+              "explanation": "Babilônia no Apocalipse é simbólica: representa o sistema religioso apóstata que confunde e afasta as pessoas da verdade bíblica."
+            }
+          ],
+          "verse": "Apocalipse 14:8",
+          "verseText": "\"E outro anjo se seguiu, dizendo: Caiu, caiu a grande Babilônia, que tem dado a beber a todas as nações do vinho do furor da sua prostituição.\" — Apocalipse 14:8"
+        },
+        {
+          "question": "Qual é a advertência do terceiro anjo?",
+          "options": [
+            {
+              "text": "Advertência severa contra receber a marca da besta e adorar sua imagem.",
+              "isCorrect": true,
+              "explanation": "A terceira mensagem é a mais solene do Apocalipse: quem escolher a besta em vez de Deus sofrerá as consequências plenas da ira divina. A escolha entre o selo de Deus e a marca da besta é a decisão central dos últimos dias."
+            },
+            {
+              "text": "Aviso de que uma guerra nuclear destruirá grande parte da humanidade.",
+              "isCorrect": false,
+              "explanation": "A mensagem é espiritual: trata da adoração e lealdade, não de conflitos militares. A \"ira de Deus\" é a consequência de rejeitar a salvação, não uma destruição bélica."
+            },
+            {
+              "text": "Ordem para os cristãos se armarem e resistirem à perseguição.",
+              "isCorrect": false,
+              "explanation": "A resistência do povo de Deus é espiritual, não militar. A mensagem chama à perseverança na fé e na guarda dos mandamentos, não ao conflito armado."
+            }
+          ],
+          "verse": "Apocalipse 14:9-11",
+          "verseText": "\"Se alguém adora a besta e a sua imagem, e recebe o sinal na sua fronte ou na sua mão, também esse beberá do vinho da ira de Deus.\" — Apocalipse 14:9-10"
+        },
+        {
+          "question": "O que acontecerá após a pregação das três mensagens angélicas?",
+          "options": [
+            {
+              "text": "A Terra será ceifada: salvação dos filhos de Deus e condenação dos que O rejeitaram.",
+              "isCorrect": true,
+              "explanation": "Após o mundo responder ao último convite divino, Cristo virá para a colheita final: os salvos serão recolhidos e os ímpios receberão a retribuição por suas escolhas."
+            },
+            {
+              "text": "A besta subirá do abismo e reinará por sete anos.",
+              "isCorrect": false,
+              "explanation": "Não há reino da besta por sete anos no Apocalipse. Após as três mensagens, vem a colheita — a segunda vinda de Cristo."
+            },
+            {
+              "text": "A nova Jerusalém descerá imediatamente do Céu para a Terra.",
+              "isCorrect": false,
+              "explanation": "A nova Jerusalém desce no fim do milênio (Ap 21). Após as três mensagens, o próximo evento é a segunda vinda para a colheita dos salvos."
+            }
+          ],
+          "verse": "Apocalipse 14:14-16",
+          "verseText": "\"E olhei, e eis uma nuvem branca, e sobre a nuvem estava assentado alguém semelhante ao Filho do homem... e passou a sua foice sobre a terra, e a terra foi ceifada.\" — Apocalipse 14:14,16"
+        },
+        {
+          "question": "Por que o chamado à adoração ao Criador é urgente hoje?",
+          "options": [
+            {
+              "text": "Porque o mandamento esquecido — o sábado — é o memorial da criação e o tema da mensagem final.",
+              "isCorrect": true,
+              "explanation": "A primeira mensagem angélica usa as mesmas palavras do quarto mandamento para chamar à adoração ao Criador. O sábado é o sinal distintivo que separa os adoradores do Criador dos adoradores da besta."
+            },
+            {
+              "text": "Porque apenas quem frequentar a igreja todo domingo será salvo.",
+              "isCorrect": false,
+              "explanation": "A mensagem chama à adoração ao Criador conforme Sua lei — não à observância de um dia diferente do que Deus santificou."
+            },
+            {
+              "text": "Porque a teoria da evolução já foi refutada cientificamente.",
+              "isCorrect": false,
+              "explanation": "A urgência é profética e espiritual. A mensagem responde à evolução com o chamado ao Criador, mas o imperativo é a lealdade a Deus no contexto do juízo iminente."
+            }
+          ],
+          "verse": "Êxodo 20:8-11; Apocalipse 14:7",
+          "verseText": "\"Lembra-te do dia do sábado, para o santificar... porque em seis dias fez o Senhor os céus e a terra.\" — Êxodo 20:8,11\n\n"
+        }
+      ]
+    },
+    {
+      "id": "ap15",
+      "title": "O Santuário Celestial",
+      "subtitle": "A maquete divina do plano da salvação",
+      "thumbnailImage": "assets/images/chapters/ap_santuario2.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Deus usou uma maquete para ilustrar de forma didática a história da redenção: o santuário terrestre. Ele orientou Moisés para construí-lo conforme um modelo apresentado no monte Sinai. Os vários móveis do santuário tinham propósitos específicos, e uma família de sacerdotes foi selecionada para oficiar rituais que representavam a morte de Cristo e outros aspectos do plano da salvação.\n\nO Apocalipse é repleto de referências ao santuário celestial. Na introdução de cada visão, é apresentada uma cena desse santuário — porque é ali que Cristo exerce hoje Seu ministério sacerdotal em nosso favor.",
+      "questions": [
+        {
+          "question": "Por que Deus mandou construir o santuário terrestre?",
+          "options": [
+            {
+              "text": "Para ser um centro visível de adoração e demonstrar o plano da salvação em miniatura.",
+              "isCorrect": true,
+              "explanation": "O santuário servia como manifestação visível da presença divina e como demonstração simbólica de cada aspecto do plano da redenção — do sacrifício à intercessão sacerdotal."
+            },
+            {
+              "text": "Para separar fisicamente os sacerdotes santos do povo pecador de Israel.",
+              "isCorrect": false,
+              "explanation": "O propósito principal não era separação social, mas revelar o plano de salvação. Os rituais ensinavam ao povo como Deus perdoa e restaura o pecador."
+            },
+            {
+              "text": "Para substituir os sacrifícios humanos praticados pelas nações vizinhas.",
+              "isCorrect": false,
+              "explanation": "O santuário foi uma revelação positiva do plano de Deus, não uma resposta às práticas pagãs. Era uma cópia adaptada do santuário celestial real."
+            }
+          ],
+          "verse": "Êxodo 25:8,9",
+          "verseText": "\"E Me farão um santuário, para que Eu possa habitar no meio deles. Conforme tudo o que te mostrar, o modelo do tabernáculo e o modelo de todos os seus móveis, assim mesmo o fareis.\" — Êxodo 25:8-9"
+        },
+        {
+          "question": "Quais eram os móveis do lugar santo e o que representavam?",
+          "options": [
+            {
+              "text": "Mesa dos pães (Jesus, pão da vida), candelabro (Jesus, luz do mundo) e altar de incenso (orações dos santos).",
+              "isCorrect": true,
+              "explanation": "Cada móvel era uma lição sobre Cristo: os pães = Jesus sustento espiritual; as sete lâmpadas = Jesus luz do mundo; o incenso = nossas orações subindo ao Pai pelo mérito de Cristo."
+            },
+            {
+              "text": "Altar de sacrifícios, bacia de purificação e arca da aliança.",
+              "isCorrect": false,
+              "explanation": "O altar de sacrifícios e a bacia ficavam no pátio. A arca estava no lugar santíssimo. Os itens do lugar santo eram a mesa dos pães, o candelabro e o altar de incenso."
+            },
+            {
+              "text": "Trono do sumo sacerdote, livro da lei e vasos de ouro.",
+              "isCorrect": false,
+              "explanation": "Não havia trono no lugar santo. Os três móveis eram a mesa dos pães, o candelabro de ouro e o altar de incenso diante do véu."
+            }
+          ],
+          "verse": "Êxodo 25:30; João 6:48; João 8:12",
+          "verseText": "\"Eu sou o pão da vida; o que vem a mim não terá fome, e o que crê em mim nunca terá sede.\" — João 6:48\n\n"
+        },
+        {
+          "question": "O que o Dia da Expiação representava no serviço do santuário?",
+          "options": [
+            {
+              "text": "O juízo investigativo pré-advento — quando os pecados perdoados são apagados definitivamente.",
+              "isCorrect": true,
+              "explanation": "O Dia da Expiação era o único momento em que o sumo sacerdote entrava no lugar santíssimo. Representa o juízo investigativo iniciado em 1844, quando Cristo entrou no lugar santíssimo do santuário celestial."
+            },
+            {
+              "text": "A celebração anual do perdão dos pecados cometidos naquele ano.",
+              "isCorrect": false,
+              "explanation": "O perdão diário ocorria durante o ano no lugar santo. O Dia da Expiação representava o apagamento final dos pecados já perdoados — uma limpeza completa dos registros."
+            },
+            {
+              "text": "Um ritual sem correspondência no plano de salvação neotestamentário.",
+              "isCorrect": false,
+              "explanation": "Hebreus 8–10 mostra que o Dia da Expiação tem plena correspondência no ministério de Cristo no santuário celestial, especialmente em Sua obra intercessora final."
+            }
+          ],
+          "verse": "Levítico 23:27,28; Hebreus 9:7",
+          "verseText": "\"No décimo dia deste sétimo mês haverá Dia da Expiação; tereis santa convocação, e afligireis as vossas almas.\" — Levítico 23:27\n\n"
+        },
+        {
+          "question": "O que todo o cerimonial do santuário terrestre representava?",
+          "options": [
+            {
+              "text": "Uma sombra das realidades celestiais — apontava para Cristo como único que pode expiar os pecados.",
+              "isCorrect": true,
+              "explanation": "O sistema de sacrifícios era uma ilustração simbólica do plano da salvação. Os sacrifícios em si não tinham poder de perdoar; apontavam para o único sacrifício eficaz: o de Cristo na cruz."
+            },
+            {
+              "text": "Um sistema de mérito pelo qual Israel acumulava graça perante Deus.",
+              "isCorrect": false,
+              "explanation": "Os sacrifícios não eram meritórios. Eram expressões de fé no Redentor prometido, não obras que geravam mérito."
+            },
+            {
+              "text": "Uma tradição cultural judaica sem significado profético ou tipológico.",
+              "isCorrect": false,
+              "explanation": "Hebreus é explícito: o santuário terrestre era sombra das realidades celestiais. Cada detalhe apontava para Cristo e Seu ministério."
+            }
+          ],
+          "verse": "Hebreus 8:4,5; Hebreus 10:4",
+          "verseText": "\"Os quais servem de exemplo e sombra das coisas celestiais.\" — Hebreus 8:5\n\n"
+        },
+        {
+          "question": "Quem é o único que pode exercer o ofício de Sumo Sacerdote no santuário celestial?",
+          "options": [
+            {
+              "text": "Somente Jesus Cristo — o único mediador suficiente entre Deus e os homens.",
+              "isCorrect": true,
+              "explanation": "Jesus é o Sumo Sacerdote perfeito: humano para representar a humanidade, divino para ter acesso ao Pai. Nenhum sacerdote humano pode exercer esse ofício celestial."
+            },
+            {
+              "text": "Arão e seus descendentes, que têm autoridade sacerdotal eterna.",
+              "isCorrect": false,
+              "explanation": "O sacerdócio aaronico era temporal e tipológico. Jesus, da ordem de Melquisedeque, o substituiu com um sacerdócio eterno (Hb 7:11-17)."
+            },
+            {
+              "text": "Os 24 anciãos que servem diante do trono de Deus no Céu.",
+              "isCorrect": false,
+              "explanation": "Os anciãos adoram e interceden na presença de Deus, mas o único Sumo Sacerdote do santuário celestial é Jesus Cristo."
+            }
+          ],
+          "verse": "Hebreus 8:1,2",
+          "verseText": "\"Ora, a suma do que temos dito é esta: temos tal sumo sacerdote que se assentou à direita do trono da Majestade nos céus, ministro do santuário e do verdadeiro tabernáculo.\" — Hebreus 8:1-2"
+        }
+      ]
+    },
+    {
+      "id": "ap16",
+      "title": "A Igreja de Deus",
+      "subtitle": "Como identificar a Igreja verdadeira",
+      "thumbnailImage": "assets/images/chapters/ap_igreja.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Segundo pesquisa do Seminário Teológico Gordon-Conwell, há no mundo nada menos que 47 mil denominações cristãs. Todas dizem seguir a Cristo. Uma vez, porém, que há grandes contradições doutrinárias entre elas, fica evidente que muitas não interpretam corretamente a Bíblia.\n\nO Apocalipse fornece critérios bíblicos precisos para identificar a igreja verdadeira. Ela não é identificada por nome, tamanho ou tradição humana, mas por características espirituais específicas que a distinguem de todos os outros grupos.",
+      "questions": [
+        {
+          "question": "O que a mulher vestida de sol em Apocalipse 12 representa?",
+          "options": [
+            {
+              "text": "A Igreja verdadeira de Deus ao longo da história.",
+              "isCorrect": true,
+              "explanation": "Na profecia bíblica, uma mulher pura representa a Igreja verdadeira. O sol (glória de Deus), a lua (sistema do AT que refletia Cristo) e as 12 estrelas (tribos/apóstolos) descrevem a Igreja fundamentada em Cristo."
+            },
+            {
+              "text": "Maria, mãe de Jesus, que intercede pelos cristãos no Céu.",
+              "isCorrect": false,
+              "explanation": "A mulher representa a Igreja, não um indivíduo específico. Isso é confirmado pelo contexto: ela representa um grupo perseguido ao longo de 1.260 anos, não uma pessoa."
+            },
+            {
+              "text": "Israel como nação étnica no Oriente Médio.",
+              "isCorrect": false,
+              "explanation": "O Israel profético no Novo Testamento representa o povo espiritual de Deus — todos os que pertencem a Cristo (Gl 3:29), não uma etnia específica."
+            }
+          ],
+          "verse": "Apocalipse 12:1; Isaías 54:5,6",
+          "verseText": "\"E um grande sinal foi visto no céu: uma mulher vestida do sol, com a lua debaixo dos seus pés, e uma coroa de doze estrelas sobre a sua cabeça.\" — Apocalipse 12:1\n\n"
+        },
+        {
+          "question": "O que levou o dragão a perseguir a mulher?",
+          "options": [
+            {
+              "text": "Ódio a Jesus Cristo — tentou destruí-Lo no nascimento e depois perseguiu Sua Igreja.",
+              "isCorrect": true,
+              "explanation": "Satanás tentou destruir Jesus desde o berço (via Herodes). Ao falhar, voltou sua fúria contra a Igreja. Por 1.260 anos, a Roma papal perseguiu os fiéis à Palavra de Deus."
+            },
+            {
+              "text": "Ciúme da beleza da mulher e de suas vestes gloriosas.",
+              "isCorrect": false,
+              "explanation": "O motivo é espiritual: Satanás odeia Cristo e Sua Igreja porque representam o oposto de sua rebelião e a garantia de sua derrota."
+            },
+            {
+              "text": "Desejo de controlar o santuário e seus rituais sagrados.",
+              "isCorrect": false,
+              "explanation": "O conflito não é sobre controle do santuário, mas sobre lealdade: Satanás quer que a humanidade o adore em vez de adorar a Deus."
+            }
+          ],
+          "verse": "Apocalipse 12:4,5,13",
+          "verseText": "\"E o dragão se deteve em frente da mulher que estava para dar à luz, a fim de lhe devorar o filho quando nascesse... e o dragão perseguiu a mulher.\" — Apocalipse 12:4,13"
+        },
+        {
+          "question": "Quais são as características determinantes da Igreja verdadeira?",
+          "options": [
+            {
+              "text": "Guardar os mandamentos de Deus e ter o testemunho de Jesus Cristo.",
+              "isCorrect": true,
+              "explanation": "A Igreja verdadeira é identificada por duas marcas inconfundíveis: obediência completa aos dez mandamentos (incluindo o sábado) e o dom profético — o testemunho de Jesus (Ap 19:10)."
+            },
+            {
+              "text": "Realizar milagres e curas, e falar em línguas como no Pentecostes.",
+              "isCorrect": false,
+              "explanation": "O Apocalipse não usa milagres ou línguas como marcas da Igreja verdadeira. As marcas são a guarda dos mandamentos e a fé em Jesus."
+            },
+            {
+              "text": "Ter o maior número de membros e a maior influência política.",
+              "isCorrect": false,
+              "explanation": "O tamanho e a influência mundana não são critérios bíblicos. O remanescente fiel pode ser pequeno e perseguido, mas se distingue pela fidelidade à Palavra de Deus."
+            }
+          ],
+          "verse": "Apocalipse 12:17; 14:12",
+          "verseText": "\"E o dragão se irou contra a mulher, e foi fazer guerra contra os restantes da sua semente, os que guardam os mandamentos de Deus e têm o testemunho de Jesus Cristo.\" — Apocalipse 12:17\n\n"
+        },
+        {
+          "question": "Por que a Igreja verdadeira fugiu para o deserto por 1.260 anos?",
+          "options": [
+            {
+              "text": "Fugiu da perseguição da Roma papal que durou 1.260 anos (538–1798 d.C.).",
+              "isCorrect": true,
+              "explanation": "Os 1.260 dias proféticos = 1.260 anos literais. Esse período começou com o Edito de Justiniano (538 d.C.), que concedeu ao papa poder político, e terminou em 1798, quando Napoleão prendeu o papa Pio VI."
+            },
+            {
+              "text": "Fugiu para o deserto do Sinai para receber uma nova lei de Deus.",
+              "isCorrect": false,
+              "explanation": "O deserto representa lugares despovoados — simbolizando o estado de refúgio e relativa obscuridade da Igreja durante a perseguição medieval."
+            },
+            {
+              "text": "Fugiu da perseguição romana pagã nos primeiros séculos do cristianismo.",
+              "isCorrect": false,
+              "explanation": "A perseguição romana pagã precede os 1.260 anos. O período profético de 538–1798 refere-se à perseguição promovida pela Roma cristã, não pagã."
+            }
+          ],
+          "verse": "Apocalipse 12:6; Ezequiel 4:6",
+          "verseText": "\"E a mulher fugiu para o deserto, onde tinha um lugar preparado por Deus, para que ali a alimentassem durante mil duzentos e sessenta dias.\" — Apocalipse 12:6\n\n"
+        },
+        {
+          "question": "Qual é a vontade de Cristo com relação aos que ainda não fazem parte da Igreja verdadeira?",
+          "options": [
+            {
+              "text": "Que se unam à Sua Igreja, saindo de sistemas religiosos equivocados.",
+              "isCorrect": true,
+              "explanation": "Cristo tem Seus filhos em todas as igrejas. Seu desejo é que todos ouçam Sua voz e se unam ao remanescente fiel. O chamado de Apocalipse 18:4 é de amor: sair antes que os flagelos cheguem."
+            },
+            {
+              "text": "Que permaneçam onde estão, pois todas as igrejas são iguais para Ele.",
+              "isCorrect": false,
+              "explanation": "Deus tem filhos em todas as igrejas, mas isso não significa que todas ensinam a verdade da mesma forma. O chamado profético é claro: sair de Babilônia e unir-se ao povo que guarda os mandamentos."
+            },
+            {
+              "text": "Que esperem receber uma revelação pessoal antes de mudar de denominação.",
+              "isCorrect": false,
+              "explanation": "A revelação já foi dada: a Bíblia. O chamado é para estudar a Palavra, reconhecer a verdade e responder obedientemente — sem esperar revelações extraordinárias adicionais."
+            }
+          ],
+          "verse": "João 10:16; Apocalipse 18:4",
+          "verseText": "\"Ainda tenho outras ovelhas, não deste aprisco; a Mim me convém trazê-las; elas ouvirão a Minha voz; então, haverá um rebanho e um pastor.\" — João 10:16\n\n"
+        }
+      ]
+    },
+    {
+      "id": "ap17",
+      "title": "O Dom Profético",
+      "subtitle": "Como reconhecer um profeta verdadeiro",
+      "thumbnailImage": "assets/images/chapters/ap_profecia.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "A Bíblia nos informa sobre pessoas que receberam revelações diretamente de Deus. Os profetas de Deus não só revelam o futuro, mas também reinterpretam o passado e o presente de modo a evidenciar a atuação de Deus na história.\n\nO Apocalipse revela que a Igreja verdadeira do tempo do fim seria especialmente caracterizada por dois elementos: a guarda de todos os mandamentos e a manifestação do dom de profecia — o \"testemunho de Jesus\" (Ap 19:10).",
+      "questions": [
+        {
+          "question": "O que significa o \"testemunho de Jesus\" em Apocalipse 19:10?",
+          "options": [
+            {
+              "text": "O Espírito da profecia — o dom profético presente na Igreja verdadeira.",
+              "isCorrect": true,
+              "explanation": "O Apocalipse define o \"testemunho de Jesus\" como o \"espírito da profecia\". Isso significa que a Igreja verdadeira no fim dos tempos teria o dom profético ativo em seu meio."
+            },
+            {
+              "text": "Os relatos dos apóstolos sobre os milagres que Jesus realizou.",
+              "isCorrect": false,
+              "explanation": "O testemunho de Jesus no contexto de Apocalipse 19:10 refere-se ao dom profético ativo na Igreja, não aos relatos históricos sobre Jesus."
+            },
+            {
+              "text": "A pregação do evangelho por qualquer cristão ao testemunhar da fé.",
+              "isCorrect": false,
+              "explanation": "Embora todo cristão seja chamado a testemunhar, o \"espírito da profecia\" em Apocalipse é especificamente o dom profético — uma manifestação especial do Espírito Santo."
+            }
+          ],
+          "verse": "Apocalipse 19:10; 1 Coríntios 14:1",
+          "verseText": "\"O testemunho de Jesus é o espírito da profecia.\" — Apocalipse 19:10\n\n"
+        },
+        {
+          "question": "O dom de profecia estava limitado apenas aos tempos bíblicos?",
+          "options": [
+            {
+              "text": "Não — o Espírito seria derramado sobre toda a carne, incluindo os últimos dias.",
+              "isCorrect": true,
+              "explanation": "Pedro citou Joel 2 no Pentecostes como cumprimento inicial (At 2:17-18). O derramamento pleno do Espírito ocorrerá nos últimos dias, incluindo manifestações proféticas."
+            },
+            {
+              "text": "Sim — os dons cessaram com a morte do último apóstolo.",
+              "isCorrect": false,
+              "explanation": "A Bíblia não ensina cessação dos dons. Joel 2 profetiza claramente uma manifestação do Espírito nos últimos dias, incluindo o dom de profecia."
+            },
+            {
+              "text": "Apenas profetas do sexo masculino recebem esse dom hoje.",
+              "isCorrect": false,
+              "explanation": "Joel 2 especificamente inclui filhos E filhas, servos E servas. O dom profético não é limitado por gênero."
+            }
+          ],
+          "verse": "Joel 2:28,29",
+          "verseText": "\"E acontecerá, depois disto, que derramarei o Meu Espírito sobre toda a carne; vossos filhos e vossas filhas profetizarão... também sobre os servos e sobre as servas derramarei o Meu Espírito.\" — Joel 2:28-29"
+        },
+        {
+          "question": "Quais são as características bíblicas de um profeta verdadeiro?",
+          "options": [
+            {
+              "text": "Vida conforme a Palavra, crença na encarnação, profecias que se cumprem e confirmação pelo Espírito.",
+              "isCorrect": true,
+              "explanation": "O profeta verdadeiro: (1) ensina conforme a lei de Deus; (2) crê na encarnação de Cristo (1Jo 4:2); (3) tem profecias que se cumprem; (4) produz frutos espirituais (Mt 7:16)."
+            },
+            {
+              "text": "Capacidade de realizar milagres visíveis e curar enfermos publicamente.",
+              "isCorrect": false,
+              "explanation": "Jesus advertiu que falsos profetas também fariam milagres (Mt 24:24). O critério central é a conformidade com a Palavra de Deus, não os milagres."
+            },
+            {
+              "text": "Ter sido oficialmente reconhecido por líderes de uma denominação cristã.",
+              "isCorrect": false,
+              "explanation": "O reconhecimento humano não valida um profeta. Os critérios são bíblicos: fidelidade à Palavra, cumprimento das profecias e frutos espirituais."
+            }
+          ],
+          "verse": "Isaías 8:20; Deuteronômio 18:21,22",
+          "verseText": "\"À lei e ao testemunho! Se não falarem segundo esta palavra, nunca verão a alva.\" — Isaías 8:20\n\n"
+        },
+        {
+          "question": "Qual foi a advertência de Jesus sobre os falsos profetas nos últimos dias?",
+          "options": [
+            {
+              "text": "Surgiriam falsos profetas com milagres reais capaz de enganar até os escolhidos.",
+              "isCorrect": true,
+              "explanation": "Jesus nos adverte que os falsos profetas dos últimos dias serão tão convincentes que apenas os fiéis que testam tudo pela Bíblia não serão enganados. A discernimento é essencial."
+            },
+            {
+              "text": "Não surgiriam mais profetas depois da morte dos apóstolos.",
+              "isCorrect": false,
+              "explanation": "Jesus não disse que não haveria mais profetas — disse que surgiriam falsos. Isso implica que também haveria verdadeiros, para os quais precisamos de discernimento."
+            },
+            {
+              "text": "Os falsos profetas seriam facilmente identificados por sua aparência.",
+              "isCorrect": false,
+              "explanation": "Jesus disse que viriam \"em vestes de ovelhas\" (Mt 7:15) — aparência enganosamente boa. Por isso precisamos testar pelos critérios bíblicos, não pela aparência."
+            }
+          ],
+          "verse": "Mateus 24:24; 1 João 4:1",
+          "verseText": "\"Porque surgirão falsos cristos e falsos profetas, e farão tão grandes sinais e prodígios que enganariam, se possível fosse, os próprios escolhidos.\" — Mateus 24:24\n\n"
+        },
+        {
+          "question": "O que a Bíblia diz sobre a confiabilidade das mensagens proféticas?",
+          "options": [
+            {
+              "text": "As mensagens de profetas verdadeiros são de origem divina e devem ser recebidas com fé.",
+              "isCorrect": true,
+              "explanation": "Deus concede os dons proféticos para o crescimento espiritual da Igreja. As mensagens que passam no teste bíblico devem ser recebidas como orientação de Deus para Seu povo."
+            },
+            {
+              "text": "Toda profecia é subjetiva e depende da interpretação de cada crente.",
+              "isCorrect": false,
+              "explanation": "Pedro é claro: profecia não é de interpretação particular. É de origem divina e deve ser interpretada conforme o conjunto da Escritura."
+            },
+            {
+              "text": "Após o cânon bíblico estar completo, todas as revelações proféticas são falsas.",
+              "isCorrect": false,
+              "explanation": "A Bíblia é o padrão pelo qual testamos todas as profecias, mas não afirma que o dom cessou. Joel 2 e Apocalipse 12:17 indicam manifestações proféticas no tempo do fim."
+            }
+          ],
+          "verse": "2 Crônicas 20:20; 2 Pedro 1:21",
+          "verseText": "\"Crede no Senhor vosso Deus, e estar-vos-eis seguros; crede nos seus profetas e prosperareis.\" — 2 Crônicas 20:20\n\n"
+        }
+      ]
+    },
+    {
+      "id": "ap18",
+      "title": "A Besta que Sobe do Mar",
+      "subtitle": "A identidade do anticristo",
+      "thumbnailImage": "assets/images/chapters/ap_besta_mar.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "O poder que levou ao afastamento dos princípios de Cristo e dos apóstolos surgiria dentro do próprio cristianismo. Porém, ele não seria percebido negativamente pelos cristãos — pelo contrário, a cristandade o teria em grande reverência e seria um centro da religião cristã.\n\nA profecia de Apocalipse 13 revela a identidade desse poder: a Igreja de Roma, herdeira do antigo Império Romano, que por 1.260 anos exerceu autoridade religiosa e política sobre as nações.",
+      "questions": [
+        {
+          "question": "O que as bestas representam nas profecias bíblicas?",
+          "options": [
+            {
+              "text": "Poderes político-religiosos perseguidores usados por Satanás contra o povo de Deus.",
+              "isCorrect": true,
+              "explanation": "Na linguagem profética bíblica, bestas representam reinos ou poderes político-religiosos. Apocalipse 13 identifica sua besta com o poder profetizado por Daniel — um poder que surge do meio do cristianismo."
+            },
+            {
+              "text": "Animais literais que aparecerão no fim dos tempos como sinais.",
+              "isCorrect": false,
+              "explanation": "O Apocalipse é escrito em linguagem simbólica. As bestas são símbolos de poderes históricos e proféticos, não animais literais."
+            },
+            {
+              "text": "Demônios individuais que possuirão líderes políticos mundiais.",
+              "isCorrect": false,
+              "explanation": "Embora Satanás influencie poderes humanos, as bestas proféticas representam sistemas político-religiosos inteiros, não apenas demônios individuais."
+            }
+          ],
+          "verse": "Apocalipse 13:1; Daniel 7:17",
+          "verseText": "\"E vi uma besta subir do mar, que tinha sete cabeças e dez chifres.\" — Apocalipse 13:1\n\n"
+        },
+        {
+          "question": "Por quanto tempo a besta do mar teria poder para perseguir o povo fiel?",
+          "options": [
+            {
+              "text": "42 meses proféticos = 1.260 anos (538–1798 d.C.).",
+              "isCorrect": true,
+              "explanation": "Aplicando o princípio dia-ano, 42 meses = 1.260 dias = 1.260 anos. Esse período começou em 538 d.C. com o Edito de Justiniano e terminou em 1798, quando Napoleão aprisionou o papa Pio VI."
+            },
+            {
+              "text": "Exatamente 40 dias, como o jejum de Jesus no deserto.",
+              "isCorrect": false,
+              "explanation": "Os 40 dias de Jesus no deserto não têm relação com a profecia da besta. O período é de 42 meses proféticos = 1.260 anos literais."
+            },
+            {
+              "text": "2.300 dias proféticos, conforme a profecia de Daniel 8:14.",
+              "isCorrect": false,
+              "explanation": "Os 2.300 dias de Daniel 8:14 referem-se ao santuário e ao juízo investigativo. A perseguição da besta durou 42 meses = 1.260 anos."
+            }
+          ],
+          "verse": "Apocalipse 13:5,7",
+          "verseText": "\"E foi-lhe dada uma boca que proferiu palavras arrogantes e blasfêmias; e foi-lhe dado poder para agir durante quarenta e dois meses... para fazer guerra contra os santos e vencê-los.\" — Apocalipse 13:5,7"
+        },
+        {
+          "question": "O que a besta faria além de perseguir — e por que isso é blasfêmia?",
+          "options": [
+            {
+              "text": "Pretendia perdoar pecados e ser chamado de \"santo pai\" — atribuições exclusivas de Deus.",
+              "isCorrect": true,
+              "explanation": "O poder papal reivindicou prerrogativas divinas: perdoar pecados (exclusivo de Deus), o título \"santo pai\" (exclusivo de Deus) e ser cabeça da Igreja (exclusivo de Cristo). Para Deus, isso é blasfêmia."
+            },
+            {
+              "text": "Negou publicamente a existência de Deus e destruiu todas as Bíblias.",
+              "isCorrect": false,
+              "explanation": "Diferente do ateísmo da Revolução Francesa, a besta do mar agiu em nome de Cristo, mas usurpando Suas prerrogativas divinas — isso é uma blasfêmia mais sutil e perigosa."
+            },
+            {
+              "text": "Proibiu toda forma de adoração e destruiu todos os templos.",
+              "isCorrect": false,
+              "explanation": "A besta não proibiu a adoração, mas a direcionou para si mesma, colocando-se no lugar de Deus e de Cristo."
+            }
+          ],
+          "verse": "Apocalipse 13:6; Mateus 23:9",
+          "verseText": "\"E abriu a boca em blasfêmias contra Deus, para lhe blasfemar o nome.\" — Apocalipse 13:6\n\n"
+        },
+        {
+          "question": "O que o número 666 representa?",
+          "options": [
+            {
+              "text": "A soberba humana de se colocar no lugar de Deus — o número da imperfeição elevada ao máximo.",
+              "isCorrect": true,
+              "explanation": "Em Babilônia, o seis era o número religioso básico (6, 60, 600). O 666 representa a totalidade das falsas divindades — a tentativa humana de atingir o divino sem Deus. É o número do homem que se coloca no lugar de Deus."
+            },
+            {
+              "text": "Um código secreto que só pode ser decifrado por especialistas em numerologia.",
+              "isCorrect": false,
+              "explanation": "João diz explicitamente que é \"número de homem\" — não um mistério impenetrável, mas a representação do esforço humano apóstata de usurpar o lugar de Deus."
+            },
+            {
+              "text": "O número de identificação de um líder político específico no futuro.",
+              "isCorrect": false,
+              "explanation": "O 666 representa um sistema religioso apóstata, não um indivíduo futuro. Ao longo da história, muitos tentaram identificá-lo com líderes específicos, mas o contexto aponta para o sistema, não uma pessoa."
+            }
+          ],
+          "verse": "Apocalipse 13:17,18",
+          "verseText": "\"E que ninguém pudesse comprar ou vender, senão aquele que tivesse o sinal... o número do seu nome, pois é número de homem; e o seu número é seiscentos e sessenta e seis.\" — Apocalipse 13:17-18"
+        },
+        {
+          "question": "Quem são os que adorariam a besta?",
+          "options": [
+            {
+              "text": "Os que não têm o nome no Livro da Vida — os que rejeitaram a salvação em Cristo.",
+              "isCorrect": true,
+              "explanation": "A adoração à besta e a rejeição de Cristo estão diretamente ligadas. Os que pertencem verdadeiramente a Cristo não se curvarão ao sistema apóstata, mesmo sob pressão."
+            },
+            {
+              "text": "Apenas os líderes políticos que fizeram alianças com a Igreja de Roma.",
+              "isCorrect": false,
+              "explanation": "A adoração à besta é universal — envolve pessoas comuns que seguem o sistema apóstata, não apenas líderes políticos."
+            },
+            {
+              "text": "As pessoas que nasceram antes da revelação do Apocalipse.",
+              "isCorrect": false,
+              "explanation": "A profecia se aplica aos últimos dias, quando a escolha entre o selo de Deus e a marca da besta será clara e universal para toda a humanidade."
+            }
+          ],
+          "verse": "Apocalipse 13:8",
+          "verseText": "\"E adoraram-na todos os que habitam sobre a terra, aqueles cujos nomes não estão escritos no Livro da Vida do Cordeiro.\" — Apocalipse 13:8"
+        }
+      ]
+    },
+    {
+      "id": "ap19",
+      "title": "A Besta que Sobe da Terra",
+      "subtitle": "O papel dos Estados Unidos na profecia",
+      "thumbnailImage": "assets/images/chapters/ap_besta_terra.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Os Estados Unidos da América são, desde o fim da Segunda Guerra Mundial, a nação mais poderosa do planeta. Mas pouca gente sabe que essa hegemonia no panorama mundial foi prevista muitos séculos antes, na Bíblia.\n\nNo Apocalipse, uma segunda besta — que sobe da terra — representa um poder que surge como jovem nação em região pouco habitada, inicialmente brando como cordeiro, mas que aos poucos se afastará dos ideais cristãos e demonstrará intolerância crescente.",
+      "questions": [
+        {
+          "question": "Que potência mundial é representada pela besta que surge da terra?",
+          "options": [
+            {
+              "text": "Os Estados Unidos da América — nação que surgiu em região nova, com princípios religiosos e civis.",
+              "isCorrect": true,
+              "explanation": "O \"mar\" representa povos (Ap 17:15) e a \"terra\" representa região pouco habitada. A nação que surge como potência mundial quando a besta do mar recebe sua ferida mortal (1798) são os EUA, fundados em 1776."
+            },
+            {
+              "text": "A China, que surgiu como potência econômica no século 21.",
+              "isCorrect": false,
+              "explanation": "A China é uma civilização milenar, não uma nação que surgiu no período profético indicado. Os EUA são a única nação que se torna potência mundial exatamente no período da profecia."
+            },
+            {
+              "text": "Uma federação europeia formada após a Segunda Guerra Mundial.",
+              "isCorrect": false,
+              "explanation": "A besta da terra surge antes da cura da ferida mortal da primeira besta. A União Europeia surgiu depois desse período. Os EUA se encaixam perfeitamente no contexto profético."
+            }
+          ],
+          "verse": "Apocalipse 13:11",
+          "verseText": "\"E vi outra besta subir da terra; e tinha dois chifres semelhantes aos de um cordeiro, e falava como um dragão.\" — Apocalipse 13:11"
+        },
+        {
+          "question": "O que os dois chifres semelhantes a cordeiro representam?",
+          "options": [
+            {
+              "text": "Os princípios do protestantismo e da liberdade civil — republicanismo e liberdade religiosa.",
+              "isCorrect": true,
+              "explanation": "Os dois chifres como cordeiro representam os dois grandes princípios fundadores dos EUA: liberdade civil (republicanismo) e liberdade religiosa (protestantismo). Sem coroas — sem monarquia nem papado."
+            },
+            {
+              "text": "Dois líderes políticos que governarão os EUA nos últimos dias.",
+              "isCorrect": false,
+              "explanation": "Os chifres representam princípios de governo, não líderes individuais. A nação como um todo é identificada pelos seus valores fundadores."
+            },
+            {
+              "text": "A separação entre os poderes Executivo e Legislativo do país.",
+              "isCorrect": false,
+              "explanation": "Os chifres representam os princípios de liberdade religiosa e civil, não os poderes do Estado. A separação dos poderes é consequência desses princípios, não o símbolo em si."
+            }
+          ],
+          "verse": "Apocalipse 13:11",
+          "verseText": "\"E tinha dois chifres semelhantes aos de um cordeiro, e falava como um dragão.\" — Apocalipse 13:11"
+        },
+        {
+          "question": "Qual será o papel desse poder mundial conforme a profecia?",
+          "options": [
+            {
+              "text": "Imitar o Espírito Santo com falsos milagres e impor a adoração à primeira besta.",
+              "isCorrect": true,
+              "explanation": "A segunda besta imita o Pentecostes (fogo do céu) com falsos milagres religiosos e usa sua influência política para forçar o mundo a obedecer à primeira besta — a Roma papal."
+            },
+            {
+              "text": "Evangelizar o mundo com o verdadeiro evangelho e preparar a volta de Cristo.",
+              "isCorrect": false,
+              "explanation": "A profecia é sombria: a segunda besta, apesar de começar como cordeiro, fala como dragão. Seu papel final é de imposição religiosa, não de evangelismo genuíno."
+            },
+            {
+              "text": "Destruir a primeira besta e estabelecer um governo mundial justo.",
+              "isCorrect": false,
+              "explanation": "A segunda besta não destrói a primeira; apoiará e forçará a adoração a ela. As duas bestam colaboram no sistema apóstata dos últimos dias."
+            }
+          ],
+          "verse": "Apocalipse 13:12,13",
+          "verseText": "\"E exercia toda a autoridade da primeira besta... e fazia que a terra e os que nela habitam adorassem a primeira besta... e fazia descer fogo do céu sobre a terra à vista dos homens.\" — Apocalipse 13:12-13"
+        },
+        {
+          "question": "Como a besta atuaria com relação à lei de Deus?",
+          "options": [
+            {
+              "text": "Tentaria mudar os tempos e a lei — o que se cumpriu na mudança do sábado para o domingo.",
+              "isCorrect": true,
+              "explanation": "A Roma papal mudou o dia de adoração do sábado (7º dia) para o domingo (1º dia), além de remover o segundo mandamento sobre imagens e dividir o décimo. Essa mudança na lei de Deus é a marca de sua autoridade."
+            },
+            {
+              "text": "Forçaria todos a obedecerem rigorosamente aos dez mandamentos.",
+              "isCorrect": false,
+              "explanation": "O poder apóstata não exige obediência à lei de Deus — ele a modifica. A guarda do domingo substituindo o sábado é precisamente a tentativa de mudar a lei de Deus."
+            },
+            {
+              "text": "Aboliria completamente toda lei religiosa e promoveria o ateísmo.",
+              "isCorrect": false,
+              "explanation": "O poder não aboliu a religião, mas a corrompeu. Substituiu a lei de Deus por tradições humanas, colocando a autoridade da Igreja acima da autoridade da Bíblia."
+            }
+          ],
+          "verse": "Daniel 7:25",
+          "verseText": "\"E cuidará em mudar os tempos e a lei.\" — Daniel 7:25"
+        },
+        {
+          "question": "Qual é o selo de Deus que será aplicado na testa dos fiéis nos últimos dias?",
+          "options": [
+            {
+              "text": "O santo sábado — o sinal perpétuo da aliança que Deus não mudou.",
+              "isCorrect": true,
+              "explanation": "Jesus não mudou a lei (Mt 5:17,18) e o remanescente guarda os mandamentos (Ap 14:12). Portanto, o selo de Deus continua sendo o sábado — o sinal da criação e da santificação que distingue os adoradores do Criador."
+            },
+            {
+              "text": "O batismo por imersão realizado no nome da Trindade.",
+              "isCorrect": false,
+              "explanation": "O batismo é o símbolo da conversão, não o selo profético dos últimos dias. O contexto de Apocalipse 7 e 14 aponta para o sábado como o sinal distintivo final."
+            },
+            {
+              "text": "Uma marca física visível que aparecerá na testa dos salvos.",
+              "isCorrect": false,
+              "explanation": "O selo na testa é simbólico — representa a aceitação voluntária da autoridade de Deus na mente e no caráter, não uma marca física literal."
+            }
+          ],
+          "verse": "Apocalipse 7:2,3; Ezequiel 20:12",
+          "verseText": "\"Não danifiqueis a terra nem o mar nem as árvores até que tenhamos selado os servos do nosso Deus nas suas frontes.\" — Apocalipse 7:3\n\n"
+        }
+      ]
+    },
+    {
+      "id": "ap20",
+      "title": "A Marca da Besta",
+      "subtitle": "A decisão final da humanidade",
+      "thumbnailImage": "assets/images/chapters/ap_marca.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Aqueles que receberem a marca da besta na fronte ou na mão sofrerão a ira de Deus. Os adoradores da besta por convicção ou por conveniência receberão as consequências do apego a um falso sistema de adoração.\n\nA obediência a Deus deve estar acima de todos os outros interesses humanos. O Senhor protegerá os que tiverem Seu selo na fronte, e cumprirá a promessa: \"Grande paz têm os que amam a Tua lei; para eles não há tropeço\" (Sl 119:165).",
+      "questions": [
+        {
+          "question": "O que acontecerá com os que receberem a marca da besta?",
+          "options": [
+            {
+              "text": "Sofrerão as sete pragas e a ira de Deus — consequência do apego ao sistema apóstata.",
+              "isCorrect": true,
+              "explanation": "A marca da besta resulta nas sete pragas (Ap 16). Não é uma punição arbitrária, mas consequência de ter rejeitado a salvação em Cristo e escolhido obedecer a um sistema contrário à lei de Deus."
+            },
+            {
+              "text": "Serão perdoados se se arrependerem durante as sete pragas.",
+              "isCorrect": false,
+              "explanation": "As sete pragas são derramadas depois que o tempo de graça se fecha. Nesse momento, a decisão de cada pessoa já está fixada e irreversível."
+            },
+            {
+              "text": "Receberão uma segunda chance após a segunda vinda de Cristo.",
+              "isCorrect": false,
+              "explanation": "Não há segunda chance após a segunda vinda. A morte espiritual de cada pessoa é determinada por suas escolhas durante o tempo de graça."
+            }
+          ],
+          "verse": "Apocalipse 14:9-11",
+          "verseText": "\"Se alguém adora a besta e a sua imagem, e recebe o sinal na sua fronte ou sobre a mão, também esse beberá do vinho da ira de Deus... e serão atormentados com fogo e enxofre.\" — Apocalipse 14:9-10"
+        },
+        {
+          "question": "Quem se levantará em defesa do povo de Deus quando forem duramente perseguidos?",
+          "options": [
+            {
+              "text": "Miguel — o próprio Jesus Cristo — Se levantará para libertar Seu povo.",
+              "isCorrect": true,
+              "explanation": "Miguel significa \"quem é como Deus?\" e é um título de Cristo no contexto do grande conflito. Quando Sua intercessão terminar no santuário, Jesus Se levantará para a segunda vinda e libertação final de Seu povo."
+            },
+            {
+              "text": "Um exército de anjos armados lutará fisicamente pelos cristãos perseguidos.",
+              "isCorrect": false,
+              "explanation": "Embora anjos protejam o povo de Deus, o \"levantamento de Miguel\" representa a segunda vinda de Cristo para o julgamento e libertação definitiva, não apenas proteção física."
+            },
+            {
+              "text": "Os 144 mil formarão um exército espiritual para resistir à perseguição.",
+              "isCorrect": false,
+              "explanation": "Os 144 mil são selados para proteção, não formam um exército. É Cristo mesmo — Miguel — quem se levanta em favor de Seu povo."
+            }
+          ],
+          "verse": "Daniel 12:1",
+          "verseText": "\"Nesse tempo, se levantará Miguel, o grande príncipe, o defensor dos filhos do teu povo... e naquele tempo será salvo o teu povo, todo aquele que for achado inscrito no livro.\" — Daniel 12:1"
+        },
+        {
+          "question": "Qual é a diferença entre receber a marca na fronte e receber na mão?",
+          "options": [
+            {
+              "text": "Fronte = convicção pessoal; mão = conveniência ou pressão externa.",
+              "isCorrect": true,
+              "explanation": "A fronte representa a mente — quem recebe na fronte concorda por convicção. A mão representa as ações — quem recebe na mão obedece por conveniência, pressão econômica ou medo, mesmo sem crer. Ambos são condenados."
+            },
+            {
+              "text": "São dois métodos alternativos de receber a mesma coisa, sem diferença.",
+              "isCorrect": false,
+              "explanation": "A distinção é significativa: representa duas formas de adesão ao sistema apóstata — uma por crença pessoal e outra por pressão circunstancial."
+            },
+            {
+              "text": "A mão representa os líderes e a fronte representa os seguidores comuns.",
+              "isCorrect": false,
+              "explanation": "A interpretação bíblica mais consistente é que fronte = mente/convicção e mão = ação/conveniência, independente de ser líder ou seguidor."
+            }
+          ],
+          "verse": "Apocalipse 13:16",
+          "verseText": "\"E compelia a todos, pequenos e grandes, ricos e pobres, livres e servos, a que recebessem um sinal na sua mão direita ou nas suas frontes.\" — Apocalipse 13:16"
+        },
+        {
+          "question": "O que Deus chamará Seu povo a fazer nos últimos dias?",
+          "options": [
+            {
+              "text": "Sair de Babilônia e unir-se ao remanescente que guarda os mandamentos e tem a fé de Jesus.",
+              "isCorrect": true,
+              "explanation": "O chamado final de Deus é de amor: sair dos sistemas religiosos equivocados antes que os flagelos venham, e unir-se ao povo que guarda os mandamentos e vive pela fé em Jesus Cristo."
+            },
+            {
+              "text": "Permanecer nas igrejas atuais e reformá-las de dentro para fora.",
+              "isCorrect": false,
+              "explanation": "Embora Deus tenha filhos em todas as igrejas, o chamado profético final é de saída — \"saí dela, povo meu\". O momento de reformar de dentro foi substituído pelo chamado urgente de separação."
+            },
+            {
+              "text": "Isolar-se completamente da sociedade para não ser contaminado.",
+              "isCorrect": false,
+              "explanation": "O chamado é espiritual, não de isolamento social. O povo de Deus deve ser luz no mundo, vivendo a verdade bíblica, mas sem participar dos erros doutrinários de Babilônia."
+            }
+          ],
+          "verse": "Apocalipse 18:4; 14:12",
+          "verseText": "\"E ouvi outra voz do céu, dizendo: Saí dela, povo meu, para que não sejais participantes dos seus pecados.\" — Apocalipse 18:4\n\n"
+        },
+        {
+          "question": "Qual é a promessa de Jesus para Seus seguidores fiéis que perseverarem até o fim?",
+          "options": [
+            {
+              "text": "Jesus voltará e os levará para estar com Ele para sempre — na Casa do Pai.",
+              "isCorrect": true,
+              "explanation": "A promessa final de Jesus é pessoal e irrevogável: Ele voltará para buscar os Seus. Cada fiel que perseverar receberá um lugar preparado por Cristo Mesmo na Casa do Pai."
+            },
+            {
+              "text": "Serão famosos e respeitados por todos como exemplos de virtude.",
+              "isCorrect": false,
+              "explanation": "Jesus advertiu que Seus seguidores seriam perseguidos (Jo 15:20). A promessa não é de reconhecimento humano, mas de comunhão eterna com Cristo."
+            }
+          ],
+          "verse": "João 14:1-3",
+          "verseText": "\"Não se turbe o vosso coração... Na casa de meu Pai há muitas moradas... vou preparar-vos lugar. E quando eu for e vos preparar lugar, virei outra vez e vos tomarei para mim mesmo.\" — João 14:1-3"
+        }
+      ]
+    },
+    {
+      "id": "ap21",
+      "title": "Felizes para Sempre",
+      "subtitle": "O destino eterno dos salvos",
+      "thumbnailImage": "assets/images/chapters/ap_felizes_sempre.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "\"Era uma vez…\" – assim começam várias histórias infantis. Após conflitos e aventuras, um casal finalmente se une e a fábula termina com \"[…] e eles foram felizes para sempre.\"\n\nO Apocalipse é a única história que verdadeiramente termina com esse desfecho. Aqueles que permanecerem em Cristo terão um final feliz — não um conto de fadas, mas uma promessa selada com o sangue de Jesus Cristo. Nesta última lição, descubra o destino glorioso preparado para os redimidos: a nova Jerusalém, onde Deus habitará com o Seu povo para sempre.",
+      "questions": [
+        {
+          "question": "Qual é o lugar que Cristo está preparando para os salvos morarem eternamente?",
+          "options": [
+            {
+              "text": "A nova Jerusalém — a cidade santa onde os salvos desfrutarão da presença de Deus para sempre.",
+              "isCorrect": true,
+              "explanation": "Cristo prometeu preparar um lugar para Seus seguidores (Jo 14:1-3). Esse lugar é a nova Jerusalém, a cidade santa (Ap 3:12), onde os salvos viverão eternamente na presença de Deus. O sonho humano de \"felizes para sempre\" encontra sua realização plena nessa promessa divina."
+            },
+            {
+              "text": "O céu espiritual, um estado imaterial de consciência flutuante na luz divina.",
+              "isCorrect": false,
+              "explanation": "A Bíblia descreve um lugar concreto e real — uma cidade com fundamentos, portais e ruas. A nova Jerusalém é literal, descendo do céu para a nova terra, onde Deus habitará pessoalmente com os Seus."
+            },
+            {
+              "text": "A Terra atual após ser purificada e restaurada ao estado do Éden.",
+              "isCorrect": false,
+              "explanation": "Embora a nova terra faça parte da promessa (Ap 21:1), o lar eterno dos salvos é a nova Jerusalém — a cidade santa que Deus prepara e que descerá do céu para a nova terra transformada."
+            }
+          ],
+          "verse": "Apocalipse 21:1-3",
+          "verseText": "\"Vi também a cidade santa, a nova Jerusalém, que descia do céu, da parte de Deus... e ouvi uma grande voz do trono, dizendo: O tabernáculo de Deus está com os homens, pois com eles habitará.\" — Apocalipse 21:1-3"
+        },
+        {
+          "question": "Quem ficará fora da cidade santa?",
+          "options": [
+            {
+              "text": "Aqueles que amam e praticam a mentira, os impuros, os idólatras e todos que rejeitaram Cristo.",
+              "isCorrect": true,
+              "explanation": "A vontade de Deus é que todos sejam salvos (2Pe 3:9), mas só habitará na cidade santa aquele que crer em Jesus (Jo 3:18). Quem rejeitar Cristo não terá seu nome escrito no Livro da Vida (Ap 20:15). A desobediência voluntária à lei de Deus caracteriza os que não entrarão no Céu (Ap 21:8)."
+            },
+            {
+              "text": "Os que foram perseguidos por sua fé e morreram como mártires antes da segunda vinda.",
+              "isCorrect": false,
+              "explanation": "Os mártires que morreram por Cristo são precisamente os que estarão dentro — são os vencedores da tribulação (Ap 7:14). Ficar fora é consequência da rejeição voluntária a Cristo, não do sofrimento por Ele."
+            },
+            {
+              "text": "Os que não alcançaram um nível suficiente de santidade pessoal durante a vida.",
+              "isCorrect": false,
+              "explanation": "A entrada na cidade santa não é por mérito próprio, mas pelo sangue de Cristo (Ap 15:2). Os que entram são purificados por Ele — não os que atingiram perfeição por esforço próprio."
+            }
+          ],
+          "verse": "Apocalipse 22:15",
+          "verseText": "\"Mas, por fora, ficarão os cães, os feiticeiros, os impuros, os homicidas, os idólatras e todo aquele que ama e pratica a mentira.\" — Apocalipse 22:15"
+        },
+        {
+          "question": "Quem entrará na cidade santa?",
+          "options": [
+            {
+              "text": "Os que são purificados com o sangue de Cristo e guardam Sua Palavra — os que lavaram suas vestes.",
+              "isCorrect": true,
+              "explanation": "O pecado não existirá na cidade perfeita de Deus. Por isso precisamos ter os pecados removidos para entrar. A coroa da vida será entregue aos fiéis (Ap 2:10) que forem purificados com o sangue de Cristo (Ap 15:2) e guardarem Sua Palavra (Ap 22:7). Esses entrarão pelos portais e terão acesso à árvore da vida."
+            },
+            {
+              "text": "Os membros de determinada denominação religiosa que cumpriram todos os seus ritos.",
+              "isCorrect": false,
+              "explanation": "A entrada na cidade não é determinada por filiação religiosa, mas pela relação pessoal com Cristo. \"Lavar as vestes\" é a imagem bíblica para aceitar o perdão e a purificação oferecidos pelo sangue de Jesus."
+            },
+            {
+              "text": "Apenas os que nunca cometeram pecados graves ao longo da vida.",
+              "isCorrect": false,
+              "explanation": "Todos pecaram (Rm 3:23). A entrada na cidade é para os que se arrependeram e receberam o perdão de Cristo — não para os que nunca pecaram, pois ninguém nessa categoria existe."
+            }
+          ],
+          "verse": "Apocalipse 22:14",
+          "verseText": "\"Bem-aventurados os que lavam as suas vestes, para que lhes assista o direito de comer da árvore da vida, e entrem na cidade pelas portas.\" — Apocalipse 22:14"
+        },
+        {
+          "question": "Qual é a condição essencial para que alguém possa entrar na cidade santa?",
+          "options": [
+            {
+              "text": "Nascer da água e do Espírito — conversão pelo Espírito Santo e batismo por imersão.",
+              "isCorrect": true,
+              "explanation": "Nascer do Espírito se refere à conversão realizada por Cristo por intermédio do Espírito Santo — uma mudança de vida real (Cl 3; Ef 4:22-32). Nascer da água se refere ao batismo por imersão, como Cristo foi batizado por João no Jordão. Esse novo nascimento estabelece uma união diária e viva com Jesus (Mt 24:13; Rm 8:1)."
+            },
+            {
+              "text": "Praticar boas obras durante toda a vida e acumular mérito espiritual suficiente.",
+              "isCorrect": false,
+              "explanation": "A salvação não é por obras para que ninguém se glorie (Ef 2:8-9). A condição é o novo nascimento — uma transformação interior operada pelo Espírito Santo, não a acumulação de méritos pessoais."
+            },
+            {
+              "text": "Ser batizado na infância e criado dentro de uma família cristã praticante.",
+              "isCorrect": false,
+              "explanation": "O batismo implica uma decisão consciente de arrependimento e fé (Mc 16:16), portanto o batismo infantil não encontra respaldo bíblico. O novo nascimento é uma experiência pessoal e deliberada, não uma herança familiar."
+            }
+          ],
+          "verse": "João 3:3, 5",
+          "verseText": "\"Jesus respondeu: Em verdade, em verdade te digo que aquele que não nascer da água e do Espírito não pode entrar no reino de Deus.\" — João 3:5"
+        },
+        {
+          "question": "Que promessa o Apocalipse assegura àqueles que experimentam verdadeira conversão em Cristo?",
+          "options": [
+            {
+              "text": "Vida eterna com Deus, acesso à árvore da vida, participação no governo do Universo — e o fim eterno de toda dor.",
+              "isCorrect": true,
+              "explanation": "Além de estarem com Deus para sempre, os salvos terão direito de comer da árvore da vida (Ap 2:7; 22:2), símbolo da vida eterna. Também se sentarão no trono e farão parte do governo do Universo (Ap 3:21; 20:4) — privilégio que Lúcifer quis tomar pela rebelião. Toda lágrima será enxugada, e morte, pranto e dor não existirão mais."
+            },
+            {
+              "text": "Prosperidade material e saúde perfeita durante a vida terrena como recompensa antecipada.",
+              "isCorrect": false,
+              "explanation": "As promessas de Apocalipse 21 são para a eternidade, não para a vida atual. Jesus advertiu que Seus seguidores teriam tribulação neste mundo (Jo 16:33). A recompensa plena é reservada para depois da segunda vinda."
+            },
+            {
+              "text": "Uma existência contemplativa em paz, sem responsabilidades, apenas em adoração perpétua.",
+              "isCorrect": false,
+              "explanation": "A vida eterna inclui participação ativa no governo do Universo (Ap 3:21; 20:4) — muito além de contemplação passiva. Os salvos serão co-governantes com Cristo, realizando o propósito original de Deus para o ser humano (Gn 1:28)."
+            }
+          ],
+          "verse": "Apocalipse 21:3, 4",
+          "verseText": "\"E Deus limpará dos seus olhos toda a lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor, porque as primeiras coisas são passadas.\" — Apocalipse 21:4"
+        }
+      ]
+    }
+  ],
+  "file": "apocalipse.json"
+}
