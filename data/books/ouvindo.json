@@ -1,0 +1,2837 @@
+{
+  "id": "ouvindo",
+  "title": "Ouvindo a Voz de Deus",
+  "subtitle": "Estudo Bíblico",
+  "iconEmoji": "📖",
+  "coverImage": "assets/images/books/ouvindo_capa.jpg",
+  "headerImage": "assets/images/topcovers/ouvindo2.jpg",
+  "description": "Este estudo ajuda você a entender como Deus fala com as pessoas hoje. Através de 27 lições aprofundadas, você irá descobrir como a Bíblia, a oração e o Espírito Santo nos guiam no caminho da salvação e da vida eterna.",
+  "chapterCount": 27,
+  "primaryColor": "#C9A84C",
+  "secondaryColor": "#FFF8E7",
+  "chapters": [
+    {
+      "id": "l1",
+      "title": "A Bíblia Sagrada",
+      "subtitle": "O livro mais especial do mundo",
+      "thumbnailImage": "assets/images/chapters/bibliaSagrada.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "A Bíblia é um livro diferente. Na verdade, trata-se de uma pequena biblioteca, composta de 66 livros escritos por cerca de 40 autores, das mais variadas culturas, origens e ocupações, durante um período de 1.600 anos.\n\nMilhares de pessoas já deram a vida, literalmente, em defesa das verdades nela contidas. Por abraçarem essas verdades, blasfemos já se tornaram reverentes; ébrios se tornaram sóbrios; criminosos se tornaram confiáveis; ladrões se tornaram honestos; adúlteros se tornaram puros.\n\nO que torna a Bíblia um livro tão especial? De onde vem seu poder? Que valor tem ela para o homem atual? As questões abaixo responderão a essas perguntas com base na própria Palavra de Deus.",
+      "questions": [
+        {
+          "question": "Como Jesus considerava a Bíblia?",
+          "options": [
+            {
+              "text": "A verdade",
+              "isCorrect": true,
+              "explanation": "Jesus declarou em oração que a Palavra de Deus é a verdade. Isso mostra o valor supremo que Ele atribuía às Escrituras como base segura para a fé e a prática."
+            },
+            {
+              "text": "Um livro simbólico",
+              "isCorrect": false,
+              "explanation": "Embora contenha simbolismos, Jesus não disse que a Bíblia é apenas simbólica, mas que é a verdade (João 17:17)."
+            },
+            {
+              "text": "A sabedoria dos homens",
+              "isCorrect": false,
+              "explanation": "A Bíblia não é fruto da sabedoria humana, mas é inspirada por Deus e é a Sua verdade revelada ao homem."
+            }
+          ],
+          "verse": "João 17:17",
+          "verseText": "\"Santifica-os na verdade; a tua palavra é a verdade.\" — João 17:17"
+        },
+        {
+          "question": "Qual é a situação de muitos estudantes da Bíblia, e o que necessitam para entendê-la?",
+          "options": [
+            {
+              "text": "Precisam de alguém que os ensine",
+              "isCorrect": true,
+              "explanation": "O eunuco admitiu que não conseguia entender as Escrituras sozinho, e isso mostra que o auxílio de alguém capacitado por Deus é fundamental para compreender a Palavra."
+            },
+            {
+              "text": "Estudam com sabedoria natural",
+              "isCorrect": false,
+              "explanation": "A sabedoria humana sozinha não é suficiente para entender a Bíblia; é necessário o ensino espiritual (1Co 2:14)."
+            },
+            {
+              "text": "Basta apenas ler a Bíblia em voz alta",
+              "isCorrect": false,
+              "explanation": "Ler em voz alta não garante o entendimento das Escrituras. A Bíblia exige estudo guiado pelo Espírito Santo e por mestres fiéis."
+            }
+          ],
+          "verse": "Atos 8:26-31",
+          "verseText": "\"Compreendes tu o que estás lendo? Ele disse: Como poderei entender, se alguém não me ensinar?\" — Atos 8:30-31"
+        },
+        {
+          "question": "Qual é a maneira correta de estudar a Bíblia?",
+          "options": [
+            {
+              "text": "Comparar os textos que tratam do mesmo assunto",
+              "isCorrect": true,
+              "explanation": "A Bíblia ensina que o conhecimento é adquirido \"mandamento sobre mandamento, regra sobre regra\". Comparar textos é essencial para uma interpretação fiel."
+            },
+            {
+              "text": "Ler de forma aleatória, conforme a vontade",
+              "isCorrect": false,
+              "explanation": "Estudo aleatório e sem método pode levar a interpretações erradas e distorcidas da verdade bíblica."
+            },
+            {
+              "text": "Evitar cruzar textos para não se confundir",
+              "isCorrect": false,
+              "explanation": "Evitar a comparação de textos impede uma compreensão profunda da harmonia das Escrituras."
+            }
+          ],
+          "verse": "Isaías 28:10",
+          "verseText": "\"Porque mandamento sobre mandamento, mandamento sobre mandamento, regra sobre regra, regra sobre regra.\" — Isaías 28:10"
+        },
+        {
+          "question": "Que benefício recebe o estudante das Escrituras?",
+          "options": [
+            {
+              "text": "Encontra a vida eterna e conhece Jesus",
+              "isCorrect": true,
+              "explanation": "Jesus disse que as Escrituras testificam dEle e conduzem à vida eterna. O estudo da Bíblia revela o Salvador e o plano da salvação."
+            },
+            {
+              "text": "Apenas conhecimentos históricos",
+              "isCorrect": false,
+              "explanation": "Embora a Bíblia contenha história, seu principal propósito é revelar o plano de salvação por meio de Jesus Cristo."
+            },
+            {
+              "text": "Resposta para questões filosóficas",
+              "isCorrect": false,
+              "explanation": "A Bíblia não é um livro de filosofia, mas de revelação divina com foco na salvação e na vida eterna."
+            }
+          ],
+          "verse": "João 5:39",
+          "verseText": "\"Examinais as Escrituras, porque vós cuidais ter nelas a vida eterna; e são elas mesmas que testemunham de mim.\" — João 5:39"
+        },
+        {
+          "question": "Quem dirigiu os profetas ao escreverem a Bíblia?",
+          "options": [
+            {
+              "text": "O Espírito Santo",
+              "isCorrect": true,
+              "explanation": "A Bíblia afirma que homens santos falaram inspirados pelo Espírito Santo. Ele é o autor divino das Escrituras."
+            },
+            {
+              "text": "Sua própria sabedoria",
+              "isCorrect": false,
+              "explanation": "Os profetas não escreveram por vontade própria, mas foram movidos por Deus (2Pe 1:21)."
+            },
+            {
+              "text": "Tradições do povo",
+              "isCorrect": false,
+              "explanation": "A inspiração da Bíblia veio de Deus, e não de tradições culturais ou populares."
+            }
+          ],
+          "verse": "2 Pedro 1:21",
+          "verseText": "\"Porque a profecia nunca foi produzida por vontade de homem algum, mas os homens santos falaram da parte de Deus, movidos pelo Espírito Santo.\" — 2 Pedro 1:21"
+        }
+      ]
+    },
+    {
+      "id": "l2",
+      "title": "A Beleza da Criação Divina",
+      "subtitle": "Como o Universo foi formado",
+      "thumbnailImage": "assets/images/chapters/paraiso.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Tudo o que existe na natureza expressa ordem, beleza, exatidão, adaptação, e pressupõe um planejamento inteligente. Observe as maravilhas naturais: o colorido e o perfume das flores, os pássaros, a teia de aranha, o brilho dos astros, a organização da colmeia, o funcionamento do corpo humano, entre outros magníficos fenômenos.\n\nPoderia tudo isso ter surgido por mero acaso? Como disse um estudioso do passado, \"este relógio não poderia funcionar sem um relojoeiro\". Essa é a verdade que a Bíblia afirma, como veremos no presente estudo.",
+      "questions": [
+        {
+          "question": "Como era a Terra antes de ser criada?",
+          "options": [
+            {
+              "text": "Sem forma e vazia",
+              "isCorrect": true,
+              "explanation": "O texto bíblico descreve que a Terra era sem forma e vazia, coberta por trevas, antes da ação criadora de Deus."
+            },
+            {
+              "text": "Cheia de vida e luz",
+              "isCorrect": false,
+              "explanation": "A Terra só passou a ter vida e luz após a ordem de Deus durante os dias da criação."
+            },
+            {
+              "text": "Com mares e montanhas já formados",
+              "isCorrect": false,
+              "explanation": "Segundo Gênesis, os elementos como mares e montanhas foram formados ao longo do processo criativo, e não existiam no início."
+            }
+          ],
+          "verse": "Gênesis 1:2",
+          "verseText": "\"E a terra era sem forma e vazia; e havia trevas sobre a face do abismo.\" — Gênesis 1:2"
+        },
+        {
+          "question": "Como foi formado o Universo?",
+          "options": [
+            {
+              "text": "Pela Palavra de Deus",
+              "isCorrect": true,
+              "explanation": "A Bíblia afirma que o Universo foi criado pela Palavra de Deus, que ordenou e tudo passou a existir."
+            },
+            {
+              "text": "Por acaso e evolução natural",
+              "isCorrect": false,
+              "explanation": "A teoria da evolução contradiz o relato bíblico, que atribui toda a criação à ação direta e intencional de Deus."
+            },
+            {
+              "text": "Por um longo processo conduzido pelos anjos",
+              "isCorrect": false,
+              "explanation": "A Bíblia não menciona anjos como agentes da criação, mas sim a ação direta de Deus por Sua Palavra."
+            }
+          ],
+          "verse": "Hebreus 11:3",
+          "verseText": "\"Pela fé entendemos que o mundo foi criado pela palavra de Deus.\" — Hebreus 11:3"
+        },
+        {
+          "question": "Quem participou do ato da criação?",
+          "options": [
+            {
+              "text": "O Pai, o Filho e o Espírito Santo",
+              "isCorrect": true,
+              "explanation": "O relato bíblico apresenta a atuação conjunta das três Pessoas da Trindade na criação: o Pai, o Filho (João 1:3) e o Espírito Santo (Gênesis 1:2)."
+            },
+            {
+              "text": "Apenas Deus Pai",
+              "isCorrect": false,
+              "explanation": "Embora o Pai seja mencionado, João 1:1-3 mostra que o Filho também criou, e Gênesis 1:2 menciona o Espírito pairando sobre as águas."
+            },
+            {
+              "text": "Anjos e seres celestiais",
+              "isCorrect": false,
+              "explanation": "A Bíblia nunca atribui a criação aos anjos, mas somente a Deus (Pai, Filho e Espírito Santo)."
+            }
+          ],
+          "verse": "Gênesis 1:1-2; João 1:1-3",
+          "verseText": "\"No princípio era o Verbo... todas as coisas foram feitas por ele, e sem ele nada do que foi feito se fez.\" — João 1:1,3\n\n"
+        }
+      ]
+    },
+    {
+      "id": "l3",
+      "title": "A Origem do Mal",
+      "subtitle": "Como o pecado entrou no mundo",
+      "thumbnailImage": "assets/images/chapters/origemdomal.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Charles Baudelaire, historiador, artista e poeta francês do século 19, acreditava que Deus criou a natureza e os seres humanos para serem bons e maus, resultando no que parece ser uma mistura de ambos.\n\nHá quem concorde com Baudelaire, mas qual deve ser a postura do cristão? Como harmonizar um Deus amoroso, que deu a própria vida para salvar pecadores, com a existência de doença, sofrimento e morte? Que dizer de realidades como violência, terrorismo, roubos, assassinatos frios que acontecem todos os dias?\n\nÉ Deus responsável por tudo isso? Se não, quem é? Deixemos que a Bíblia responda.",
+      "questions": [
+        {
+          "question": "De quantos anjos é composto o exército de Deus?",
+          "options": [
+            {
+              "text": "Milhões de milhões",
+              "isCorrect": true,
+              "explanation": "Apocalipse 5:11 descreve o número de anjos como \"milhões de milhões e milhares de milhares\", indicando que é um número incalculável."
+            },
+            {
+              "text": "Apenas doze legiões",
+              "isCorrect": false,
+              "explanation": "Jesus mencionou doze legiões em outro contexto (Mt 26:53), mas o exército de anjos no Céu é vastamente maior."
+            },
+            {
+              "text": "144 mil",
+              "isCorrect": false,
+              "explanation": "Os 144 mil mencionados no Apocalipse são humanos selados, não anjos. Os anjos são incontáveis."
+            }
+          ],
+          "verse": "Apocalipse 5:11",
+          "verseText": "\"E o número deles era de milhares de milhares e milhões de milhões.\" — Apocalipse 5:11"
+        },
+        {
+          "question": "Que descrição a Bíblia faz de Lúcifer?",
+          "options": [
+            {
+              "text": "Perfeito em formosura até que se achou iniquidade",
+              "isCorrect": true,
+              "explanation": "Ezequiel descreve Lúcifer como perfeito em seus caminhos, até que se achou iniquidade nele – uma referência ao seu orgulho e rebelião."
+            },
+            {
+              "text": "Fraco e rebelde desde a criação",
+              "isCorrect": false,
+              "explanation": "A Bíblia afirma que ele foi criado perfeito e tornou-se rebelde por sua escolha, não desde a criação."
+            },
+            {
+              "text": "Anjo comum, sem funções especiais",
+              "isCorrect": false,
+              "explanation": "Ele era um querubim ungido, com alta posição no Céu, não um anjo comum."
+            }
+          ],
+          "verse": "Ezequiel 28:14-15",
+          "verseText": "\"Eras perfeito nos teus caminhos desde o dia em que foste criado, até que se achou iniquidade em ti.\" — Ezequiel 28:15"
+        },
+        {
+          "question": "Qual foi o resultado da rebelião de Lúcifer?",
+          "options": [
+            {
+              "text": "Houve guerra no Céu e ele foi expulso com um terço dos anjos",
+              "isCorrect": true,
+              "explanation": "Apocalipse 12 descreve claramente que houve guerra no Céu e Lúcifer (Satanás) foi expulso junto com seus seguidores."
+            },
+            {
+              "text": "Foi preso no abismo até o juízo final",
+              "isCorrect": false,
+              "explanation": "A expulsão ocorreu antes do juízo final, e ele atualmente atua na Terra, enganando as pessoas (Ap 12:12)."
+            },
+            {
+              "text": "Foi perdoado e voltou a servir a Deus",
+              "isCorrect": false,
+              "explanation": "A Bíblia mostra que sua rebelião foi definitiva e irreversível."
+            }
+          ],
+          "verse": "Apocalipse 12:7-9",
+          "verseText": "\"E foi expulso o grande dragão, a antiga serpente, que se chama o Diabo e Satanás.\" — Apocalipse 12:9"
+        },
+        {
+          "question": "O que a serpente disse à mulher para enganá-la?",
+          "options": [
+            {
+              "text": "Certamente não morrereis, sereis como Deus",
+              "isCorrect": true,
+              "explanation": "A serpente (Satanás) mentiu, contradizendo diretamente a palavra de Deus e oferecendo falsa promessa de divindade."
+            },
+            {
+              "text": "Obedeça a Deus e viva para sempre",
+              "isCorrect": false,
+              "explanation": "Essa frase não foi usada pela serpente, que procurava enganar Eva com mentiras."
+            },
+            {
+              "text": "Você já sabe tudo, não precisa comer",
+              "isCorrect": false,
+              "explanation": "A serpente sugeriu justamente o oposto: que Eva ainda não sabia tudo e obteria sabedoria ao comer."
+            }
+          ],
+          "verse": "Gênesis 3:1-5",
+          "verseText": "\"Não morrereis; antes Deus sabe que no dia em que comerdes, serão abertos os vossos olhos e sereis como Deus.\" — Gênesis 3:4-5"
+        }
+      ]
+    },
+    {
+      "id": "l4",
+      "title": "O Plano da Salvação",
+      "subtitle": "Como podemos ser salvos",
+      "thumbnailImage": "assets/images/chapters/planodasalvação.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Independentemente de quem tenhamos sido ou o que tenhamos feito no passado, Deus nos ama \"com amor eterno\", dispondo-Se a vir ao mundo e passar pela agonia da cruz a fim de resgatar a humanidade perdida.\n\nEntretanto, muitos há que se perguntam: \"Como posso ser bom diante de Deus?\" \"Como posso apagar meu passado mal?\" \"Como posso ser apresentado sem culpa diante dEle?\"\n\nO caminho para a vida eterna é muito fácil de ser achado e compreendido, mas poucos sabem como ir a Cristo e experimentar alegria, paz de espírito, perdão e esperança. O presente estudo mostra a resposta bíblica para uma vida cristã vitoriosa.",
+      "questions": [
+        {
+          "question": "Quantos são pecadores e qual é o resultado do pecado?",
+          "options": [
+            {
+              "text": "Todos são pecadores e o salário do pecado é a morte",
+              "isCorrect": true,
+              "explanation": "Romanos ensina que todos somos pecadores e a consequência do pecado é a morte."
+            },
+            {
+              "text": "Apenas Adão e Eva pecaram e sua descendência está livre",
+              "isCorrect": false,
+              "explanation": "O verso 12 de Romanos 5 diz que todos somos pecadores, pois somos descendentes de pecadores."
+            },
+            {
+              "text": "Ninguém é pecador, pois no Éden Deus perdoou tudo",
+              "isCorrect": false,
+              "explanation": "Vendo a situação do mundo hoje, percebemos claramente que o pecado está entre nós. A Bíblia diz que todos somos pecadores."
+            }
+          ],
+          "verse": "Romanos 5:12; 6:23",
+          "verseText": "\"Pois todos pecaram e destituídos estão da glória de Deus.\" \"Porque o salário do pecado é a morte.\" — Rm 3:23; 6:23"
+        },
+        {
+          "question": "Que plano Deus estabeleceu para nos salvar da morte eterna?",
+          "options": [
+            {
+              "text": "Deu Seu Filho para morrer em nosso lugar",
+              "isCorrect": true,
+              "explanation": "João 3:16 afirma que Deus amou o mundo e entregou Seu Filho para que todo aquele que Nele crê não pereça, mas tenha a vida eterna."
+            },
+            {
+              "text": "Nos deu regras para seguir e sermos salvos pelas obras",
+              "isCorrect": false,
+              "explanation": "A salvação é pela graça e não pelas obras. A obediência é consequência do amor a Deus, não meio de salvação."
+            },
+            {
+              "text": "Prometeu uma nova chance no milênio",
+              "isCorrect": false,
+              "explanation": "A Bíblia ensina que o tempo de salvação é hoje. Não há segunda chance após a morte."
+            }
+          ],
+          "verse": "João 3:16",
+          "verseText": "\"Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.\" — João 3:16"
+        },
+        {
+          "question": "A salvação depende de nossas boas obras?",
+          "options": [
+            {
+              "text": "Não",
+              "isCorrect": true,
+              "explanation": "Efésios ensina que a salvação é pela graça mediante a fé. Obras são resultado, não condição da salvação."
+            },
+            {
+              "text": "Sim",
+              "isCorrect": false,
+              "explanation": "A Bíblia ensina que ninguém é justificado pelas obras da lei. A fé em Cristo é o único caminho para a salvação."
+            },
+            {
+              "text": "Depende do esforço sincero",
+              "isCorrect": false,
+              "explanation": "O esforço sincero não salva. Somente a graça de Deus por meio de Cristo pode redimir o pecador."
+            }
+          ],
+          "verse": "Efésios 2:8-9",
+          "verseText": "\"Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus. Não vem das obras, para que ninguém se glorie.\" — Efésios 2:8-9"
+        }
+      ]
+    },
+    {
+      "id": "l5",
+      "title": "Fé, Arrependimento e Confissão",
+      "subtitle": "O caminho para o perdão",
+      "thumbnailImage": "assets/images/chapters/fe.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Certo dia, um sacerdote cristão visitou um hospital psiquiátrico na Inglaterra. Enquanto andava pelos corredores e aposentos, observando os pacientes em seu lamentável desequilíbrio mental, ouviu do diretor da instituição: \"Se metade dessas pessoas pudesse crer no perdão, poderia ser mandada de volta para casa.\"\n\nDe fato, muitos males emocionais, espirituais, e até físicos, têm origem no sentimento de culpa. O pecado tem ação devastadora na vida de qualquer pessoa. Que podemos fazer com ele? Como nos livrarmos de suas terríveis consequências? A Bíblia aponta a saída.",
+      "questions": [
+        {
+          "question": "O que é fé e qual é sua importância na vida cristã?",
+          "options": [
+            {
+              "text": "Fé é certeza e confiança que agrada a Deus, mas sem obras é morta",
+              "isCorrect": true,
+              "explanation": "A Bíblia ensina que fé é certeza e convicção, e sem ela é impossível agradar a Deus. Contudo, Tiago afirma que a fé sem obras é morta."
+            },
+            {
+              "text": "Fé é dúvida constante, porém sincera",
+              "isCorrect": false,
+              "explanation": "Fé bíblica não é dúvida, mas certeza. Dúvida não agrada a Deus, pois demonstra incredulidade."
+            },
+            {
+              "text": "Fé é esperar que tudo aconteça sem obedecer",
+              "isCorrect": false,
+              "explanation": "Fé verdadeira conduz à obediência. Não é passiva, mas demonstra confiança ativa em Deus."
+            }
+          ],
+          "verse": "Hebreus 11:1,6",
+          "verseText": "\"Ora, a fé é o firme fundamento das coisas que se esperam e a prova das coisas que não se veem.\" — Hebreus 11:1"
+        },
+        {
+          "question": "O que nos leva ao arrependimento?",
+          "options": [
+            {
+              "text": "A bondade de Deus",
+              "isCorrect": true,
+              "explanation": "Paulo ensina que é a bondade de Deus que nos conduz ao arrependimento, e não o medo da punição."
+            },
+            {
+              "text": "O temor do castigo eterno",
+              "isCorrect": false,
+              "explanation": "O verdadeiro arrependimento é motivado pelo amor e graça de Deus, não apenas pelo medo da consequência."
+            },
+            {
+              "text": "As tradições da igreja",
+              "isCorrect": false,
+              "explanation": "O arrependimento é uma obra do Espírito de Deus no coração, não uma resposta a tradições humanas."
+            }
+          ],
+          "verse": "Romanos 2:4",
+          "verseText": "\"Ou desprezas as riquezas da sua benignidade, e paciência, e longanimidade, não sabendo que a benignidade de Deus te leva ao arrependimento?\" — Romanos 2:4"
+        },
+        {
+          "question": "O que Deus faz quando confessamos nossos pecados?",
+          "options": [
+            {
+              "text": "Perdoa e purifica, lançando nossos pecados no fundo do mar",
+              "isCorrect": true,
+              "explanation": "Deus promete perdoar e limpar totalmente aqueles que confessam sinceramente seus pecados. Ele os lança no fundo do mar (Miq 7:19)."
+            },
+            {
+              "text": "Diminui a penalidade e nos dá uma segunda chance",
+              "isCorrect": false,
+              "explanation": "O perdão bíblico é completo e restaurador, não parcial ou condicionado a mérito humano."
+            },
+            {
+              "text": "Ignora o pecado e deixa o tempo apagar",
+              "isCorrect": false,
+              "explanation": "Deus não ignora o pecado, mas oferece perdão mediante a confissão e arrependimento."
+            }
+          ],
+          "verse": "1 João 1:9",
+          "verseText": "\"Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.\" — 1 João 1:9"
+        }
+      ]
+    },
+    {
+      "id": "l6",
+      "title": "Sinais da Volta de Cristo",
+      "subtitle": "O que esperar nos últimos dias",
+      "thumbnailImage": "assets/images/chapters/sinais.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Estando com os discípulos no monte das Oliveiras, Jesus ouviu deles a seguinte pergunta: \"Que sinal haverá da Tua vinda e da consumação do século?\" (Mt 24:3).\n\nO Mestre, então, enumerou vários sinais indicadores do Seu retorno à Terra. Alguns dos sinais apresentados tiveram cumprimento inicialmente em Jerusalém, e serviram como \"maquete\" ilustrativa dos acontecimentos do fim. Outros sinais, porém, estão se cumprindo agora, em nossos dias. Quais são eles?",
+      "questions": [
+        {
+          "question": "Que sinais seriam vistos no mundo social antes da volta de Cristo?",
+          "options": [
+            {
+              "text": "Guerras, nação contra nação, e terremotos em vários lugares",
+              "isCorrect": true,
+              "explanation": "Jesus profetizou guerras e conflitos entre nações, além de calamidades naturais, como sinais do fim dos tempos."
+            },
+            {
+              "text": "Paz global, estabilidade e união política",
+              "isCorrect": false,
+              "explanation": "A Bíblia prevê o aumento de conflitos e violência, não uma era de paz antes da volta de Cristo."
+            },
+            {
+              "text": "Unificação de todas as religiões e cultura global homogênea",
+              "isCorrect": false,
+              "explanation": "Apesar de tentativas de unificação, o cenário descrito por Jesus é de conflito e divisão no mundo social."
+            }
+          ],
+          "verse": "Mateus 24:6-7",
+          "verseText": "\"E ouvireis de guerras e rumores de guerras... Porque se levantará nação contra nação, e reino contra reino.\" — Mateus 24:6-7"
+        },
+        {
+          "question": "Além dos sinais naturais, que importante sinal foi mencionado por Cristo?",
+          "options": [
+            {
+              "text": "A pregação do evangelho a todo o mundo",
+              "isCorrect": true,
+              "explanation": "Jesus declarou que o evangelho seria pregado a todas as nações antes do fim."
+            },
+            {
+              "text": "A construção de templos em todos os países",
+              "isCorrect": false,
+              "explanation": "A Bíblia não menciona templos físicos como condição para a volta de Cristo, mas sim a proclamação do evangelho."
+            },
+            {
+              "text": "O crescimento da ciência e tecnologia",
+              "isCorrect": false,
+              "explanation": "Jesus destacou a evangelização mundial como sinal claro da proximidade do fim."
+            }
+          ],
+          "verse": "Mateus 24:14",
+          "verseText": "\"E este evangelho do reino será pregado em todo o mundo em testemunho a todas as nações. Então virá o fim.\" — Mateus 24:14"
+        },
+        {
+          "question": "Por que Deus manda provar o ensino dos profetas?",
+          "options": [
+            {
+              "text": "Porque o engano, às vezes, parece verdade",
+              "isCorrect": true,
+              "explanation": "O engano pode ser sutil. Por isso, devemos provar tudo à luz da Bíblia."
+            },
+            {
+              "text": "Porque na Bíblia tudo é difícil de entender",
+              "isCorrect": false,
+              "explanation": "A Bíblia pode conter coisas difíceis, mas seu propósito é tornar clara a vontade de Deus."
+            },
+            {
+              "text": "Para agradar os líderes religiosos",
+              "isCorrect": false,
+              "explanation": "A prova dos ensinos deve ter como base a Palavra, não o desejo de agradar homens."
+            }
+          ],
+          "verse": "Mateus 7:15",
+          "verseText": "\"Acautelai-vos dos falsos profetas, que se chegam a vós com trajos de ovelhas, mas por dentro são lobos roubadores.\" — Mateus 7:15"
+        }
+      ]
+    },
+    {
+      "id": "l7",
+      "title": "A Volta de Cristo",
+      "subtitle": "A bendita esperança dos cristãos",
+      "thumbnailImage": "assets/images/chapters/volta de jesus.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Desde que nossos primeiros pais transpassaram os portais do Éden, depois de terem desobedecido, os filhos de Deus aguardam o dia em que o pecado e suas tristes consequências terão fim.\n\nProfetas, apóstolos e cristãos de todos os tempos têm anunciado esse dia, alicerçados na garantia dada pelo próprio Cristo. Assim, Seu retorno à Terra é a bendita esperança que conforta o coração de Seus seguidores, quando estes se deparam com o sofrimento, a dor, o pranto e a morte, ao longo da jornada terrestre.\n\nA sombra do mal passará, a noite do pecado terá fim. Uma nova alvorada raiará, marcando o início de um novo tempo para os filhos de Deus.",
+      "questions": [
+        {
+          "question": "Qual é a maior promessa que Jesus nos fez?",
+          "options": [
+            {
+              "text": "Voltarei, e vos levarei para Mim mesmo",
+              "isCorrect": true,
+              "explanation": "A volta de Cristo é a maior de todas as promessas apresentadas na Bíblia e indica o profundo desejo de que esse evento ocorra."
+            },
+            {
+              "text": "A paz estará convosco todos os dias",
+              "isCorrect": false,
+              "explanation": "Embora Jesus ofereça paz, a promessa central de João 14:1-3 é sobre Seu retorno."
+            },
+            {
+              "text": "Nunca tereis tribulações",
+              "isCorrect": false,
+              "explanation": "Jesus, na verdade, disse que teríamos aflições, mas que deveríamos ter bom ânimo."
+            }
+          ],
+          "verse": "João 14:1-3",
+          "verseText": "\"E, quando eu for e vos preparar lugar, virei outra vez e vos levarei para mim mesmo.\" — João 14:3"
+        },
+        {
+          "question": "Podemos marcar uma data para a segunda vinda de Cristo?",
+          "options": [
+            {
+              "text": "Não, somente o Pai sabe o dia e a hora",
+              "isCorrect": true,
+              "explanation": "Jesus foi enfático: ninguém sabe o dia e a hora, nem mesmo os anjos do céu."
+            },
+            {
+              "text": "Sim, basta calcular as profecias com precisão",
+              "isCorrect": false,
+              "explanation": "Jesus proibiu marcar datas para Sua volta."
+            },
+            {
+              "text": "Apenas os profetas atuais podem saber",
+              "isCorrect": false,
+              "explanation": "A revelação do tempo da volta é desconhecida para todos, segundo Jesus."
+            }
+          ],
+          "verse": "Mateus 24:36",
+          "verseText": "\"Mas acerca daquele dia e hora ninguém sabe, nem os anjos dos céus, mas só meu Pai.\" — Mateus 24:36"
+        },
+        {
+          "question": "Como Jesus virá?",
+          "options": [
+            {
+              "text": "De forma visível, com poder e glória, acompanhado por anjos",
+              "isCorrect": true,
+              "explanation": "A volta será pessoal, literal e todo olho O verá, segundo as Escrituras."
+            },
+            {
+              "text": "Secretamente, apenas os cristãos perceberão",
+              "isCorrect": false,
+              "explanation": "A volta não será secreta; será visível a todos, inclusive aos ímpios."
+            },
+            {
+              "text": "Com silêncio e surpresa, sem manifestações",
+              "isCorrect": false,
+              "explanation": "A Bíblia afirma que será um evento glorioso e audível, com alarido e trombeta."
+            }
+          ],
+          "verse": "Mateus 24:30; Atos 1:11",
+          "verseText": "\"Este mesmo Jesus, que de entre vós foi recebido acima no céu, há de vir assim como o vistes ir para o céu.\" — Atos 1:11"
+        }
+      ]
+    },
+    {
+      "id": "l8",
+      "title": "O Milênio",
+      "subtitle": "Mil anos de paz com Cristo",
+      "thumbnailImage": "assets/images/chapters/milenio.png",
+      "type": "textWithQuestions",
+      "bodyText": "Na sequência da volta de Cristo, acontecimentos extraordinários terão lugar. Até que o planeta Terra seja definitivamente restaurado, decorrerá um período de mil anos, ou um milênio.\n\nO que acontecerá na Terra, durante esse período? Onde e em que circunstância estará Satanás? Qual e como será o desfecho de tudo? É importante que busquemos respostas nas Escrituras Sagradas para essas indagações.",
+      "questions": [
+        {
+          "question": "Para onde irão os salvos após a volta de Cristo?",
+          "options": [
+            {
+              "text": "Irão para o Céu e reinarão com Cristo durante mil anos",
+              "isCorrect": true,
+              "explanation": "Apocalipse 20:6 declara que os salvos viverão e reinarão com Cristo por mil anos, período conhecido como o milênio."
+            },
+            {
+              "text": "Permanecerão vivos na Terra",
+              "isCorrect": false,
+              "explanation": "A Bíblia afirma que os salvos estarão com Cristo no Céu durante o milênio, não permanecendo na Terra nesse período."
+            },
+            {
+              "text": "Ficarão dormindo até o juízo final",
+              "isCorrect": false,
+              "explanation": "Não há base bíblica para isso. Os salvos irão ao encontro de Cristo e reinarão com Ele."
+            }
+          ],
+          "verse": "Apocalipse 20:6",
+          "verseText": "\"Bem-aventurado e santo aquele que tem parte na primeira ressurreição! Reinarão com Cristo durante mil anos.\" — Apocalipse 20:6"
+        },
+        {
+          "question": "Como ficará a Terra durante esse período?",
+          "options": [
+            {
+              "text": "Desolada, sem vida humana, como um abismo",
+              "isCorrect": true,
+              "explanation": "Jeremias descreve a Terra como desolada e vazia, após a volta de Cristo, sem habitantes e com cidades destruídas."
+            },
+            {
+              "text": "Reformada e cheia de paz e harmonia",
+              "isCorrect": false,
+              "explanation": "A restauração só ocorrerá após o milênio. Durante esse tempo, a Terra estará em caos e desolação."
+            },
+            {
+              "text": "Lotada de pessoas que sobreviveram ao juízo",
+              "isCorrect": false,
+              "explanation": "A Bíblia afirma que os ímpios serão mortos pela presença de Cristo, e a Terra estará vazia de humanos vivos."
+            }
+          ],
+          "verse": "Jeremias 4:23-26",
+          "verseText": "\"Olhei para a terra, e eis que estava sem forma e vazia; e para os céus, e não tinham a sua luz.\" — Jeremias 4:23"
+        }
+      ]
+    },
+    {
+      "id": "l9",
+      "title": "A Verdade Sobre a Morte",
+      "subtitle": "O que acontece depois que morremos",
+      "thumbnailImage": "assets/images/chapters/morte.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "O que acontece a uma pessoa, depois da morte? As tentativas feitas para se responder a essa pergunta são muitas. E a maioria delas só consegue aprofundar a angústia e a tristeza que envolvem o assunto, e aumentar as dúvidas.\n\nPara uns, ao morrer, o indivíduo vai direto para o Céu ou para o inferno. Para outros, ele será um espírito que encarnará sucessivamente em outros seres. Em meio a ideias conflitantes, necessitamos obter uma resposta produtora de segurança, que só pode ser encontrada na Palavra de Deus.",
+      "questions": [
+        {
+          "question": "Que material Deus usou para criar o homem?",
+          "options": [
+            {
+              "text": "Pó da terra e o fôlego de vida",
+              "isCorrect": true,
+              "explanation": "Deus formou o homem do pó da terra e soprou em suas narinas o fôlego de vida. Assim ele se tornou alma vivente."
+            },
+            {
+              "text": "Água e luz",
+              "isCorrect": false,
+              "explanation": "A criação do homem não envolveu água e luz diretamente, mas sim o pó da terra e o fôlego de vida."
+            },
+            {
+              "text": "Palavras e vento",
+              "isCorrect": false,
+              "explanation": "Embora Deus tenha criado pela Palavra, no caso do homem usou o pó da terra e o sopro divino."
+            }
+          ],
+          "verse": "Gênesis 2:7",
+          "verseText": "\"E formou o Senhor Deus o homem do pó da terra, e soprou em suas narinas o fôlego da vida; e o homem foi feito alma vivente.\" — Gênesis 2:7"
+        },
+        {
+          "question": "Como Jesus considerou a morte?",
+          "options": [
+            {
+              "text": "Um sono",
+              "isCorrect": true,
+              "explanation": "Jesus comparou a morte ao sono, indicando que os mortos estão inconscientes até a ressurreição."
+            },
+            {
+              "text": "Uma transição para outro mundo",
+              "isCorrect": false,
+              "explanation": "Jesus nunca ensinou que a alma vai para outro lugar ao morrer. Ele falava da morte como repouso."
+            },
+            {
+              "text": "Um castigo sem fim",
+              "isCorrect": false,
+              "explanation": "A morte não é castigo eterno, mas uma consequência temporária que será revertida para os justos."
+            }
+          ],
+          "verse": "João 11:11-14",
+          "verseText": "\"Então Jesus disse-lhes abertamente: Lázaro está morto.\" \"Disse isso, e depois: O nosso amigo Lázaro dorme.\" — João 11:11,14"
+        },
+        {
+          "question": "Até quando os mortos em Cristo permanecerão dormindo?",
+          "options": [
+            {
+              "text": "Até a volta de Jesus",
+              "isCorrect": true,
+              "explanation": "A ressurreição dos mortos em Cristo ocorrerá por ocasião da segunda vinda de Jesus."
+            },
+            {
+              "text": "Até completarem 1000 anos",
+              "isCorrect": false,
+              "explanation": "Não há base bíblica para esse número. A ressurreição está vinculada à volta de Cristo."
+            },
+            {
+              "text": "Até que confessem seus pecados",
+              "isCorrect": false,
+              "explanation": "Após a morte, não há mais oportunidade de arrependimento. O julgamento será com base nas escolhas da vida."
+            }
+          ],
+          "verse": "1 Tessalonicenses 4:16",
+          "verseText": "\"O Senhor mesmo descerá do céu com alarido... e os mortos em Cristo ressuscitarão primeiro.\" — 1 Tessalonicenses 4:16"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "title": "A Nova Terra",
+      "subtitle": "O lar eterno dos salvos",
+      "thumbnailImage": "assets/images/chapters/novaterra.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Um mundo de paz. Sem ódio nem rancor. Um mundo sem violência, preconceitos, corrupção, traições ou manifestações de deslealdade. Um mundo sem dor, sofrimento, luto nem pranto.\n\nUm mundo perfeito, onde as flores não murcham e o brilho do próprio Cristo nos aquece e ilumina. Isso é o que todos nós almejamos ardentemente, cansados como estamos do mundo atual e suas dores.\n\nPara a mentalidade materialista e descrente, isso é utopia. Mas, a Bíblia fala de realidades a nós prometidas e preparadas por um Ser que jamais falha.",
+      "questions": [
+        {
+          "question": "O que o Senhor prometeu criar após o milênio?",
+          "options": [
+            {
+              "text": "Novos céus e nova terra",
+              "isCorrect": true,
+              "explanation": "A promessa bíblica é de que, após o milênio, Deus criará novos céus e nova terra, onde habita a justiça."
+            },
+            {
+              "text": "Um novo céu espiritual apenas",
+              "isCorrect": false,
+              "explanation": "A Bíblia menciona uma renovação completa: tanto dos céus quanto da terra, e não só o céu espiritual."
+            },
+            {
+              "text": "Uma cidade no céu eterno, sem terra restaurada",
+              "isCorrect": false,
+              "explanation": "A Nova Jerusalém desce à Terra restaurada, que será a habitação dos salvos eternamente."
+            }
+          ],
+          "verse": "2 Pedro 3:13",
+          "verseText": "\"Mas nós esperamos, segundo as suas promessas, novos céus e nova terra, nos quais habita a justiça.\" — 2 Pedro 3:13"
+        },
+        {
+          "question": "O que não haverá na Nova Terra?",
+          "options": [
+            {
+              "text": "Morte, luto, pranto e dor",
+              "isCorrect": true,
+              "explanation": "A Nova Terra será livre de todo sofrimento e dor, sendo um lugar de paz e plenitude eterna."
+            },
+            {
+              "text": "Vida eterna",
+              "isCorrect": false,
+              "explanation": "Pelo contrário, a vida eterna é justamente o que os salvos receberão na Nova Terra."
+            },
+            {
+              "text": "Voz de louvor e alegria",
+              "isCorrect": false,
+              "explanation": "A Bíblia afirma que haverá louvor, cânticos e alegria eterna na Nova Terra."
+            }
+          ],
+          "verse": "Apocalipse 21:4",
+          "verseText": "\"E Deus limpará de seus olhos toda a lágrima; e não haverá mais morte, nem pranto, nem clamor, nem dor.\" — Apocalipse 21:4"
+        },
+        {
+          "question": "Para quem Deus preparou essa cidade?",
+          "options": [
+            {
+              "text": "Para os que O amam",
+              "isCorrect": true,
+              "explanation": "A Nova Terra é preparada para os que amam a Deus e guardam os Seus mandamentos."
+            },
+            {
+              "text": "Para os descendentes naturais de Israel",
+              "isCorrect": false,
+              "explanation": "A Bíblia mostra que todos os que aceitam a fé em Cristo são herdeiros da promessa, não apenas os israelitas."
+            },
+            {
+              "text": "Para os religiosos que cumpriram rituais",
+              "isCorrect": false,
+              "explanation": "O acesso à Nova Terra é pela fé e relacionamento com Deus, não por rituais exteriores."
+            }
+          ],
+          "verse": "1 Coríntios 2:9",
+          "verseText": "\"O que olho não viu, nem ouvido ouviu, nem penetrou o coração do homem, são as coisas que Deus preparou para os que o amam.\" — 1 Coríntios 2:9"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "title": "Salvação pela Graça",
+      "subtitle": "O dom inestimável de Deus",
+      "thumbnailImage": "assets/images/chapters/graca.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "A pergunta feita por Bildade, um dos amigos do patriarca Jó, traduz uma pertinente inquietação humana: \"Como, pois, seria justo o homem perante Deus, e como seria puro aquele que nasce de mulher?\" (Jó 25:4).\n\nE a realidade é que, sendo pecador, o ser humano não pode se tornar justo por si mesmo, nem obedecer aos justos requerimentos de Deus. Noutras palavras, não pode salvar-se por seus méritos. Estaria, então, o homem irremediavelmente perdido? Não. Felizmente, existe esperança. Cristo proveu um caminho de escape, e nós o encontramos descrito na Bíblia.",
+      "questions": [
+        {
+          "question": "Como ocorria a salvação, segundo o Antigo Testamento?",
+          "options": [
+            {
+              "text": "Pela graça.",
+              "isCorrect": true,
+              "explanation": "A salvação sempre foi pela graça de Deus, mesmo no Antigo Testamento, conforme os textos citados."
+            },
+            {
+              "text": "Pelas obras da lei.",
+              "isCorrect": false,
+              "explanation": "A Bíblia mostra que a obediência era consequência da fé, não meio de salvação. A graça era o fundamento."
+            },
+            {
+              "text": "Pelo sacrifício de animais apenas.",
+              "isCorrect": false,
+              "explanation": "Os sacrifícios apontavam para o Messias, mas não eram o meio em si. A fé na graça de Deus era essencial."
+            }
+          ],
+          "verse": "Gênesis 6:8; 15:6; Salmos 6:4",
+          "verseText": "\"E Abraão creu em Deus, e isso lhe foi imputado para justiça.\" — Gênesis 15:6"
+        },
+        {
+          "question": "De acordo com o Novo Testamento, como podemos ser salvos?",
+          "options": [
+            {
+              "text": "Pela graça mediante a fé.",
+              "isCorrect": true,
+              "explanation": "Efésios 2:8 declara claramente que a salvação é pela graça, por meio da fé – um dom de Deus, não por obras."
+            },
+            {
+              "text": "Por nossas boas ações e justiça própria.",
+              "isCorrect": false,
+              "explanation": "A salvação não vem de obras, para que ninguém se glorie. As boas ações são resultado da fé, não a causa."
+            },
+            {
+              "text": "Pelo conhecimento da lei e da tradição judaica.",
+              "isCorrect": false,
+              "explanation": "O conhecimento da lei não pode salvar; apenas a graça de Cristo, recebida pela fé, garante a salvação."
+            }
+          ],
+          "verse": "Atos 15:11; Efésios 2:8; Romanos 3:24",
+          "verseText": "\"Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus.\" — Efésios 2:8"
+        },
+        {
+          "question": "Que Jesus fez para nos salvar?",
+          "options": [
+            {
+              "text": "Deu Sua vida por nós na cruz.",
+              "isCorrect": true,
+              "explanation": "A salvação veio pelo sacrifício de Cristo. Ele morreu em nosso lugar, como prova suprema do amor de Deus."
+            },
+            {
+              "text": "Nos deu uma nova lista de regras para seguir.",
+              "isCorrect": false,
+              "explanation": "Jesus não veio apenas ensinar regras, mas oferecer a Si mesmo como sacrifício redentor."
+            },
+            {
+              "text": "Mostrou como alcançar o céu por mérito próprio.",
+              "isCorrect": false,
+              "explanation": "A Bíblia afirma que não somos salvos por mérito, mas pela graça, por meio do sangue de Cristo."
+            }
+          ],
+          "verse": "Hebreus 9:22; Romanos 5:8",
+          "verseText": "\"Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores.\" — Romanos 5:8"
+        },
+        {
+          "question": "Que condição Deus impõe para nos salvar?",
+          "options": [
+            {
+              "text": "Crer de coração e confessar com a boca.",
+              "isCorrect": true,
+              "explanation": "A salvação exige fé genuína no coração e confissão pública de Jesus como Senhor e Salvador."
+            },
+            {
+              "text": "Ser batizado em uma denominação específica.",
+              "isCorrect": false,
+              "explanation": "O batismo é importante, mas não substitui a fé pessoal e genuína em Cristo como fundamento da salvação."
+            },
+            {
+              "text": "Cumprir todas as exigências da lei moral.",
+              "isCorrect": false,
+              "explanation": "Ninguém pode cumprir perfeitamente a lei por si mesmo. A fé em Cristo é a única condição para a salvação."
+            }
+          ],
+          "verse": "João 3:16; Romanos 10:9",
+          "verseText": "\"Se com a tua boca confessares ao Senhor Jesus, e em teu coração creres que Deus o ressuscitou dos mortos, serás salvo.\" — Romanos 10:9"
+        },
+        {
+          "question": "O que ocorre no coração de quem aceita Jesus como Salvador?",
+          "options": [
+            {
+              "text": "Passa por um novo nascimento, tornando-se nova criatura.",
+              "isCorrect": true,
+              "explanation": "A aceitação de Cristo produz uma transformação interna real: o crente nasce de novo e se torna uma nova criatura em Cristo."
+            },
+            {
+              "text": "Passa a ter visões e sonhos celestiais.",
+              "isCorrect": false,
+              "explanation": "A regeneração não é medida por experiências sobrenaturais, mas pela transformação do caráter."
+            },
+            {
+              "text": "Perde toda memória do passado pecaminoso.",
+              "isCorrect": false,
+              "explanation": "O crente não perde a memória, mas recebe o perdão e a força para viver de forma nova."
+            }
+          ],
+          "verse": "João 3:3; 2 Coríntios 5:17",
+          "verseText": "\"Se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo.\" — 2 Coríntios 5:17"
+        },
+        {
+          "question": "Podemos perder a salvação recebida?",
+          "options": [
+            {
+              "text": "Podemos, caso voltemos deliberadamente ao pecado e rejeitemos a Cristo.",
+              "isCorrect": true,
+              "explanation": "A segurança da salvação é real, mas depende de permanecermos em Cristo. Aquele que deliberadamente abandona a fé pode perder-se."
+            },
+            {
+              "text": "Não, a salvação é garantida independente de nossas escolhas.",
+              "isCorrect": false,
+              "explanation": "A promessa de segurança se aplica aos que permanecem em Cristo. A apostasia voluntária é advertida nas Escrituras."
+            },
+            {
+              "text": "Sim, pela simples prática de qualquer pecado.",
+              "isCorrect": false,
+              "explanation": "O crente que peca pode ser restaurado pela confissão e arrependimento. A queda não é automática."
+            }
+          ],
+          "verse": "Romanos 8:38,39; João 10:27-29",
+          "verseText": "\"Eu lhes dou a vida eterna; e nunca hão de perecer, e ninguém as arrebatará da minha mão.\" — João 10:28"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "title": "O Santuário de Deus",
+      "subtitle": "O ministério celestial de Jesus",
+      "thumbnailImage": "assets/images/chapters/santuario.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "A fim de que possamos desfrutar plenamente os benefícios do evangelho, devemos entender a obra que Jesus fez por nós no passado, o que Ele faz agora e o que fará no futuro. Podemos compreender esse assunto, estudando o ritual do santuário terrestre dos israelitas, que prefigurava o atual ministério de Cristo no santuário celestial.",
+      "questions": [
+        {
+          "question": "Que pedido especial fez Deus a Moisés?",
+          "options": [
+            {
+              "text": "Construir um santuário para que Deus habitasse no meio deles.",
+              "isCorrect": true,
+              "explanation": "Deus desejava habitar entre Seu povo, e o santuário seria o ponto de encontro entre Ele e os israelitas."
+            },
+            {
+              "text": "Levantar um exército para defender o deserto.",
+              "isCorrect": false,
+              "explanation": "Deus não pediu um exército nesse momento, mas um lugar sagrado onde pudesse habitar entre o povo."
+            },
+            {
+              "text": "Construir uma torre para subir ao céu.",
+              "isCorrect": false,
+              "explanation": "Essa ideia lembra a torre de Babel, mas não tem relação com o plano divino apresentado em Êxodo 25."
+            }
+          ],
+          "verse": "Êxodo 25:8",
+          "verseText": "\"E far-me-ão um santuário, e habitarei no meio deles.\" — Êxodo 25:8"
+        },
+        {
+          "question": "Em que consistia o serviço diário do santuário?",
+          "options": [
+            {
+              "text": "Oferecer dois cordeiros diariamente.",
+              "isCorrect": true,
+              "explanation": "O sacrifício diário de cordeiros simbolizava o contínuo perdão e intercessão de Cristo pelos pecadores."
+            },
+            {
+              "text": "Oferecer dois cavalos ao amanhecer.",
+              "isCorrect": false,
+              "explanation": "O uso de cavalos não fazia parte dos rituais do santuário, que exigiam cordeiros sem defeito."
+            },
+            {
+              "text": "Oferecer duas aves ao entardecer.",
+              "isCorrect": false,
+              "explanation": "Aves eram usadas em ofertas específicas, mas o serviço diário regular exigia cordeiros."
+            }
+          ],
+          "verse": "Êxodo 29:38-42",
+          "verseText": "\"Isto é o que oferecerás sobre o altar: dois cordeiros de um ano, cada dia continuamente.\" — Êxodo 29:38"
+        },
+        {
+          "question": "Qual era a festa que dava fim ao ciclo anual das cerimônias?",
+          "options": [
+            {
+              "text": "O Dia da Expiação.",
+              "isCorrect": true,
+              "explanation": "O Dia da Expiação encerrava o ciclo cerimonial anual, sendo um dia de juízo e purificação do santuário."
+            },
+            {
+              "text": "A Páscoa.",
+              "isCorrect": false,
+              "explanation": "A Páscoa marcava o início do calendário religioso, não o encerramento."
+            },
+            {
+              "text": "O Pentecostes.",
+              "isCorrect": false,
+              "explanation": "O Pentecostes era uma das festas intermediárias e não encerrava o ciclo cerimonial."
+            }
+          ],
+          "verse": "Levítico 23:27-31",
+          "verseText": "\"Também no décimo dia deste sétimo mês haverá santa convocação... dia de expiação.\" — Levítico 23:27"
+        },
+        {
+          "question": "Que acontecimento marcou a consumação do ritual do santuário terrestre?",
+          "options": [
+            {
+              "text": "A morte de Cristo rasgou o véu do templo e iniciou Seu ministério no santuário celestial.",
+              "isCorrect": true,
+              "explanation": "A morte de Jesus marcou o fim do santuário terrestre, e Ele passou a atuar como Sumo Sacerdote no céu."
+            },
+            {
+              "text": "O sumo sacerdote terrestre foi promovido ao céu.",
+              "isCorrect": false,
+              "explanation": "A Bíblia mostra que Jesus assumiu o ofício sacerdotal no céu; nenhum humano foi elevado a esse posto."
+            },
+            {
+              "text": "O templo foi reconstruído em Jerusalém após a ressurreição.",
+              "isCorrect": false,
+              "explanation": "Não há instrução bíblica para reconstrução do templo após a morte de Cristo, pois Ele é o verdadeiro Cordeiro."
+            }
+          ],
+          "verse": "Mateus 27:50,51; Hebreus 8:1,2",
+          "verseText": "\"Temos tal sumo sacerdote que se assentou à destra do trono da Majestade nos céus, ministro do santuário.\" — Hebreus 8:1-2"
+        },
+        {
+          "question": "Quais as evidências bíblicas de um santuário no Céu?",
+          "options": [
+            {
+              "text": "João viu o santuário celestial aberto, com a arca da aliança à vista.",
+              "isCorrect": true,
+              "explanation": "Apocalipse descreve claramente a visão do santuário celestial e a arca, apontando para o ministério de Jesus no céu."
+            },
+            {
+              "text": "Moisés recebeu o modelo do santuário romano no deserto.",
+              "isCorrect": false,
+              "explanation": "O modelo dado a Moisés era do santuário celestial (Êxodo 25:40), não de origem romana."
+            },
+            {
+              "text": "Os anjos construíram um templo espiritual invisível na Terra.",
+              "isCorrect": false,
+              "explanation": "O santuário celestial foi estabelecido por Deus e está no céu, não foi construído por anjos na Terra."
+            }
+          ],
+          "verse": "Êxodo 25:40; Apocalipse 11:19",
+          "verseText": "\"E o santuário de Deus que está no céu foi aberto, e a arca da sua aliança foi vista no seu santuário.\" — Ap 11:19"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "title": "O Juízo",
+      "subtitle": "Todos compareceremos perante Deus",
+      "thumbnailImage": "assets/images/chapters/juizo.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Um fato bíblico indiscutível é que todos os seres humanos, de todos os tempos, enfrentarão o julgamento de Deus. Disse Salomão: \"Porque Deus há de trazer a juízo todas as obras, até as que estão escondidas, quer sejam boas, quer sejam más\" (Ec 12:14). E Paulo confirma: \"... pois todos compareceremos perante o tribunal de Deus\" (Rm 14:10). De que modo ocorrerá esse julgamento? Sob que critérios ele estará fundamentado? Quem é o juiz?",
+      "questions": [
+        {
+          "question": "Para onde foi Jesus, após Sua ascensão?",
+          "options": [
+            {
+              "text": "Ao santuário celestial, para atuar como ministro e intercessor.",
+              "isCorrect": true,
+              "explanation": "A Bíblia ensina que Jesus ascendeu ao Céu para iniciar Seu ministério sacerdotal no santuário celestial."
+            },
+            {
+              "text": "Ao deserto para se isolar por 40 dias.",
+              "isCorrect": false,
+              "explanation": "Jesus esteve no deserto antes de Seu ministério terrestre, não após a ascensão."
+            },
+            {
+              "text": "Ao trono de Davi em Jerusalém.",
+              "isCorrect": false,
+              "explanation": "Jesus não assumiu um trono terreno após a ascensão, mas uma posição celestial como Sumo Sacerdote."
+            }
+          ],
+          "verse": "Hebreus 8:1,2; 9:24",
+          "verseText": "\"Temos tal sumo sacerdote que se assentou à destra do trono da Majestade nos céus.\" — Hebreus 8:1"
+        },
+        {
+          "question": "Qual é o papel de Jesus no julgamento?",
+          "options": [
+            {
+              "text": "É o Juiz designado por Deus Pai.",
+              "isCorrect": true,
+              "explanation": "A Bíblia declara que o Pai entregou todo juízo ao Filho, que também é nosso intercessor."
+            },
+            {
+              "text": "É apenas testemunha do julgamento.",
+              "isCorrect": false,
+              "explanation": "Jesus é mais do que testemunha: Ele atua como Juiz e Advogado ao mesmo tempo."
+            },
+            {
+              "text": "É o anjo responsável por registrar os pecados.",
+              "isCorrect": false,
+              "explanation": "O papel de Jesus é de Sumo Sacerdote e Juiz, não de anjo anotador de pecados."
+            }
+          ],
+          "verse": "João 5:22; Daniel 7:9,10",
+          "verseText": "\"Porque o Pai a ninguém julga, mas transferiu todo o juízo para o Filho.\" — João 5:22"
+        },
+        {
+          "question": "Além de Juiz, qual é a outra função desempenhada por Jesus?",
+          "options": [
+            {
+              "text": "Advogado e intercessor junto ao Pai.",
+              "isCorrect": true,
+              "explanation": "Jesus intercede por nós diante do Pai, oferecendo os méritos de Seu sangue em nosso favor."
+            },
+            {
+              "text": "Executador da ira divina sem piedade.",
+              "isCorrect": false,
+              "explanation": "Jesus é intercessor e Salvador. O juízo final ocorre após as oportunidades de salvação serem esgotadas."
+            },
+            {
+              "text": "Fiscalizador silencioso das ações humanas.",
+              "isCorrect": false,
+              "explanation": "A função de Jesus vai além de observar: Ele intercede e age ativamente pela salvação dos fiéis."
+            }
+          ],
+          "verse": "1 João 2:1",
+          "verseText": "\"E, se alguém pecar, temos um Advogado junto do Pai, Jesus Cristo, o justo.\" — 1 João 2:1"
+        },
+        {
+          "question": "O que Deus julgará?",
+          "options": [
+            {
+              "text": "Todas as obras, boas e más, inclusive as escondidas.",
+              "isCorrect": true,
+              "explanation": "O juízo divino é completo e examina todas as ações humanas, boas ou más."
+            },
+            {
+              "text": "Apenas os pecados graves e públicos.",
+              "isCorrect": false,
+              "explanation": "Deus julga todos os atos, incluindo os que estão escondidos ou considerados pequenos aos olhos humanos."
+            },
+            {
+              "text": "Somente as boas obras, para distribuir recompensas.",
+              "isCorrect": false,
+              "explanation": "O juízo inclui tanto boas quanto más ações, pois todas têm peso diante de Deus."
+            }
+          ],
+          "verse": "Eclesiastes 12:14",
+          "verseText": "\"Porque Deus há de trazer a juízo todas as obras, até as que estão escondidas, quer sejam boas, quer sejam más.\" — Ec 12:14"
+        },
+        {
+          "question": "Qual é a norma pela qual seremos julgados?",
+          "options": [
+            {
+              "text": "A Lei de Deus — os Dez Mandamentos.",
+              "isCorrect": true,
+              "explanation": "Tiago declara que seremos julgados pela Lei da liberdade — os Dez Mandamentos — padrão divino de justiça."
+            },
+            {
+              "text": "A tradição e doutrina da igreja local.",
+              "isCorrect": false,
+              "explanation": "A tradição humana não é base para julgamento. Apenas a Lei de Deus tem autoridade eterna."
+            },
+            {
+              "text": "As opiniões populares do tempo em que vivemos.",
+              "isCorrect": false,
+              "explanation": "Deus não julga com base em modismos ou opiniões, mas conforme Seus princípios eternos revelados em Sua Lei."
+            }
+          ],
+          "verse": "Tiago 2:10-12",
+          "verseText": "\"Assim falai e assim procedei como aqueles que hão de ser julgados pela lei da liberdade.\" — Tiago 2:12"
+        },
+        {
+          "question": "O que devemos fazer para sermos aprovados no Juízo?",
+          "options": [
+            {
+              "text": "Estar em Cristo, vivendo segundo o Espírito.",
+              "isCorrect": true,
+              "explanation": "A aprovação no juízo vem por estar em Cristo, vivendo segundo o Espírito e não na prática do pecado."
+            },
+            {
+              "text": "Apenas acumular boas obras durante a vida.",
+              "isCorrect": false,
+              "explanation": "As boas obras são fruto da fé, mas não substituem a justiça de Cristo aplicada pela fé."
+            },
+            {
+              "text": "Evitar qualquer julgamento humano durante a vida.",
+              "isCorrect": false,
+              "explanation": "A aprovação vem de Deus, por meio de Cristo, e não por evitar críticas ou julgamentos humanos."
+            }
+          ],
+          "verse": "Romanos 8:1",
+          "verseText": "\"Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus.\" — Romanos 8:1"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "title": "As Leis na Bíblia",
+      "subtitle": "Tipos e propósito das leis divinas",
+      "thumbnailImage": "assets/images/chapters/leis.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Sábio, justo e amoroso como é, Deus estabeleceu leis para regulamentar a saúde dos relacionamentos de Seus filhos e sua conduta diante dEle. As leis não existem para tolher a liberdade saudável, mas para ampliar seu significado e aclarar seu sentido.\n\nÀ nação israelita foram dadas diversas leis, algumas das quais se cumpriram em Cristo e perderam seu valor para os dias de hoje.",
+      "questions": [
+        {
+          "question": "Que tipos de leis encontramos na Bíblia?",
+          "options": [
+            {
+              "text": "Leis civis, cerimoniais, de saúde e moral.",
+              "isCorrect": true,
+              "explanation": "A Bíblia apresenta diferentes tipos de leis: civis, cerimoniais, de saúde e a lei moral dos Dez Mandamentos."
+            },
+            {
+              "text": "Apenas leis espirituais e morais.",
+              "isCorrect": false,
+              "explanation": "As Escrituras mostram diferentes leis com diferentes propósitos, não se limitando apenas às espirituais e morais."
+            },
+            {
+              "text": "Somente a lei moral dos Dez Mandamentos.",
+              "isCorrect": false,
+              "explanation": "A lei moral é central, mas outras leis também foram dadas com propósitos específicos."
+            }
+          ],
+          "verse": "Êxodo 21-22; Levítico 1; 11",
+          "verseText": "\"Toda a Escritura é divinamente inspirada, e proveitosa para ensinar, para repreender, para corrigir.\" — 2 Timóteo 3:16"
+        },
+        {
+          "question": "Com a morte de Cristo, o que ocorreu com a lei cerimonial?",
+          "options": [
+            {
+              "text": "Foi cancelada, pois apontava para Cristo e se cumpriu nEle.",
+              "isCorrect": true,
+              "explanation": "Com a morte de Cristo, os ritos cerimoniais que O simbolizavam deixaram de ter validade."
+            },
+            {
+              "text": "Foi intensificada e ampliada no Novo Testamento.",
+              "isCorrect": false,
+              "explanation": "O Novo Testamento mostra que Cristo cumpriu a lei cerimonial, encerrando sua prática."
+            },
+            {
+              "text": "Continuaria sendo obrigatória para os judeus convertidos.",
+              "isCorrect": false,
+              "explanation": "A lei cerimonial foi abolida para todos os povos com o sacrifício de Cristo."
+            }
+          ],
+          "verse": "Daniel 9:27; Efésios 2:15; Colossenses 2:14",
+          "verseText": "\"Abolindo em sua carne a lei dos mandamentos, que consistia em ordenanças.\" — Efésios 2:15"
+        },
+        {
+          "question": "Jesus veio abolir a lei moral dos Dez Mandamentos?",
+          "options": [
+            {
+              "text": "Não. Jesus veio cumprir, não destruir a lei moral.",
+              "isCorrect": true,
+              "explanation": "Jesus confirmou a validade da lei moral e viveu em perfeita conformidade com ela, sendo nosso exemplo."
+            },
+            {
+              "text": "Sim, Jesus anulou toda a lei moral e cerimonial na cruz.",
+              "isCorrect": false,
+              "explanation": "A abolição se refere à lei cerimonial. A lei moral permanece como padrão de conduta cristã."
+            },
+            {
+              "text": "Sim, Jesus substituiu os mandamentos por suas parábolas.",
+              "isCorrect": false,
+              "explanation": "As parábolas ilustram verdades espirituais, mas não substituem os mandamentos de Deus."
+            }
+          ],
+          "verse": "Mateus 5:17",
+          "verseText": "\"Não cuideis que vim destruir a lei ou os profetas; não vim destruir, mas cumprir.\" — Mateus 5:17"
+        },
+        {
+          "question": "A fé em Cristo anula nossa obrigação de seguir os Dez Mandamentos?",
+          "options": [
+            {
+              "text": "Não. A fé confirma e estabelece a lei.",
+              "isCorrect": true,
+              "explanation": "Paulo ensina que a fé em Cristo não invalida a lei, mas a confirma como padrão de justiça."
+            },
+            {
+              "text": "Sim, pois estamos sob a graça e não sob a lei.",
+              "isCorrect": false,
+              "explanation": "A graça não nos isenta da obediência, mas nos capacita a viver segundo a vontade de Deus."
+            },
+            {
+              "text": "Depende da cultura e da denominação cristã.",
+              "isCorrect": false,
+              "explanation": "A lei moral é universal e atemporal, pois reflete o caráter imutável de Deus."
+            }
+          ],
+          "verse": "Romanos 3:31",
+          "verseText": "\"Estabelecemos, pois, a lei pela fé? De modo nenhum! Antes, confirmamos a lei.\" — Romanos 3:31"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "title": "A Lei Moral",
+      "subtitle": "Os Dez Mandamentos e sua validade",
+      "thumbnailImage": "assets/images/chapters/leimoral.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "A natureza está regida por leis. Astros seguem uma rota traçada pelo Criador; por causa das leis naturais, semeamos milho e colhemos milho, não arroz. O relacionamento do ser humano com seus semelhantes e com Deus é norteado pela lei moral, codificada nos Dez Mandamentos.\n\nSem leis, a vida seria nada menos que um caos. Tentativas têm sido feitas para invalidar, alterar ou substituir a lei de Deus pelas tradições humanas. Têm essas tentativas a aprovação do autor da lei?",
+      "questions": [
+        {
+          "question": "Quem é o autor dos Dez Mandamentos?",
+          "options": [
+            {
+              "text": "Deus, que os escreveu com Seu próprio dedo.",
+              "isCorrect": true,
+              "explanation": "A Bíblia afirma que os Dez Mandamentos foram escritos pelo próprio Deus em tábuas de pedra, revelando Sua autoria direta."
+            },
+            {
+              "text": "Moisés, que os compilou durante 40 anos no deserto.",
+              "isCorrect": false,
+              "explanation": "Moisés foi o mediador, mas os Dez Mandamentos foram dados diretamente por Deus e escritos por Ele."
+            },
+            {
+              "text": "Salomão, o homem mais sábio que viveu.",
+              "isCorrect": false,
+              "explanation": "Salomão foi rei e escreveu livros de sabedoria, mas não foi o autor da lei moral entregue a Moisés."
+            }
+          ],
+          "verse": "Êxodo 20:3-17; 31:18",
+          "verseText": "\"E deu a Moisés as duas tábuas do testemunho, tábuas de pedra, escritas pelo dedo de Deus.\" — Êxodo 31:18"
+        },
+        {
+          "question": "Segundo Jesus, em quantas partes estão divididos os Dez Mandamentos?",
+          "options": [
+            {
+              "text": "Duas: amor a Deus e amor ao próximo.",
+              "isCorrect": true,
+              "explanation": "Jesus resumiu os Dez Mandamentos em dois grandes princípios: os quatro primeiros tratam do amor a Deus, e os seis últimos do amor ao próximo."
+            },
+            {
+              "text": "Três: amor, fé e esperança.",
+              "isCorrect": false,
+              "explanation": "Apesar de fé e esperança serem virtudes cristãs, Jesus mencionou apenas duas divisões dos mandamentos."
+            },
+            {
+              "text": "Uma única parte: adoração total a Deus.",
+              "isCorrect": false,
+              "explanation": "Jesus especificou duas direções do amor: a Deus e ao próximo. A adoração é importante, mas não resume toda a Lei."
+            }
+          ],
+          "verse": "Mateus 22:36-40",
+          "verseText": "\"Destes dois mandamentos dependem toda a lei e os profetas.\" — Mateus 22:40"
+        },
+        {
+          "question": "Deus permite mudanças em Sua Palavra ou nos mandamentos?",
+          "options": [
+            {
+              "text": "Não. Deus é imutável e Sua Palavra não pode ser alterada.",
+              "isCorrect": true,
+              "explanation": "A Palavra de Deus afirma que Ele não muda (Ml 3:6), e que ninguém deve acrescentar ou tirar algo de Sua revelação (Ap 22:18-19)."
+            },
+            {
+              "text": "Sim, com autoridade de líderes religiosos reconhecidos.",
+              "isCorrect": false,
+              "explanation": "A própria Escritura condena mudanças no que foi revelado por Deus, independente de quem as proponha."
+            },
+            {
+              "text": "Apenas em situações de necessidade extrema comprovada.",
+              "isCorrect": false,
+              "explanation": "Não há exceção estabelecida por Deus para alterar Sua Palavra. Ela é imutável e eterna."
+            }
+          ],
+          "verse": "Malaquias 3:6; Apocalipse 22:18-19",
+          "verseText": "\"Porque eu, o Senhor, não mudo.\" — Malaquias 3:6"
+        },
+        {
+          "question": "O que é mais importante para o cristão: obedecer a Deus ou aos homens?",
+          "options": [
+            {
+              "text": "Obedecer a Deus acima de qualquer tradição humana.",
+              "isCorrect": true,
+              "explanation": "Pedro afirmou: \"Antes importa obedecer a Deus do que aos homens\". Devemos rejeitar tradições quando conflitam com a vontade divina."
+            },
+            {
+              "text": "Obedecer às leis da igreja antes da Bíblia.",
+              "isCorrect": false,
+              "explanation": "A Bíblia sempre tem prioridade. Se leis religiosas humanas entram em conflito com a Palavra de Deus, devemos seguir as Escrituras."
+            },
+            {
+              "text": "Seguir doutrinas de homens desde que sejam sinceras.",
+              "isCorrect": false,
+              "explanation": "Mesmo boas intenções humanas não substituem a verdade de Deus. Tito 1:14 condena os que se desviam para mandamentos de homens."
+            }
+          ],
+          "verse": "Atos 5:29; Tito 1:14",
+          "verseText": "\"Respondendo Pedro e os apóstolos, disseram: Antes importa obedecer a Deus do que aos homens.\" — Atos 5:29"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "title": "O Mandamento Esquecido",
+      "subtitle": "O sábado: origem e significado",
+      "thumbnailImage": "assets/images/chapters/mandamento.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Alguns cristãos guardam o sábado como dia santo de culto e repouso. Outros guardam o domingo. Há quem santifique a sexta-feira e outros dias da semana. Em todos os casos, há pessoas sinceras que seguem o que lhes foi ensinado, sem nunca ter examinado o que Deus disse.\n\nÉ verdade que há, também, os que preferem esquecer justamente o que Ele mandou lembrar. A Bíblia, que é a Palavra de Deus escrita, é a autoridade máxima para responder à pergunta: Que dia devemos observar como santo?",
+      "questions": [
+        {
+          "question": "O que diz o quarto mandamento?",
+          "options": [
+            {
+              "text": "Lembra-te do sábado para o santificar.",
+              "isCorrect": true,
+              "explanation": "O quarto mandamento ordena lembrar-se do sábado como dia de descanso e santificação, pois Deus descansou no sétimo dia e o abençoou."
+            },
+            {
+              "text": "Lembra-te do domingo para adorar ao Senhor.",
+              "isCorrect": false,
+              "explanation": "A Bíblia não menciona o domingo como dia santo no quarto mandamento. O mandamento fala do sétimo dia: o sábado."
+            },
+            {
+              "text": "Lembra-te da sexta-feira para o jejum e a oração.",
+              "isCorrect": false,
+              "explanation": "A sexta-feira não é mencionada como dia de guarda no quarto mandamento, que se refere ao sétimo dia."
+            }
+          ],
+          "verse": "Êxodo 20:8-11",
+          "verseText": "\"Lembra-te do dia do sábado, para o santificar.\" — Êxodo 20:8"
+        },
+        {
+          "question": "Quando foi criado o sábado e por quê?",
+          "options": [
+            {
+              "text": "Na criação, porque Deus descansou e o santificou.",
+              "isCorrect": true,
+              "explanation": "O sábado foi instituído na criação, antes do pecado e do povo judeu, sendo um presente de Deus para toda a humanidade."
+            },
+            {
+              "text": "No Sinai, quando Moisés recebeu a lei.",
+              "isCorrect": false,
+              "explanation": "O mandamento no Sinai lembrou o sábado criado na criação, mas não foi a origem do dia."
+            },
+            {
+              "text": "No Novo Testamento, após a ressurreição de Cristo.",
+              "isCorrect": false,
+              "explanation": "O sábado existia desde a criação, muito antes do Novo Testamento ou da ressurreição."
+            }
+          ],
+          "verse": "Gênesis 2:1-3",
+          "verseText": "\"E abençoou Deus o dia sétimo, e o santificou; porque nele descansou de toda a sua obra.\" — Gênesis 2:3"
+        },
+        {
+          "question": "Que dia da semana é o sábado bíblico?",
+          "options": [
+            {
+              "text": "O sétimo dia, que antecede o primeiro dia da semana (domingo).",
+              "isCorrect": true,
+              "explanation": "O texto de Lucas mostra claramente: as mulheres descansaram no sábado (sétimo dia) e no dia seguinte, o primeiro da semana, foram ao túmulo."
+            },
+            {
+              "text": "O primeiro dia da semana, chamado \"dia do Senhor\".",
+              "isCorrect": false,
+              "explanation": "O domingo é o primeiro dia da semana, não o sétimo. O mandamento é sobre o sétimo dia."
+            },
+            {
+              "text": "Qualquer dia escolhido individualmente por cada crente.",
+              "isCorrect": false,
+              "explanation": "O mandamento especifica o sétimo dia, não deixando a escolha para o indivíduo."
+            }
+          ],
+          "verse": "Lucas 23:54-56; 24:1",
+          "verseText": "\"E no dia do sábado descansaram segundo o mandamento. Mas no primeiro dia da semana...\" — Lucas 23:56; 24:1"
+        },
+        {
+          "question": "Como Jesus observava o sábado?",
+          "options": [
+            {
+              "text": "Era Seu costume guardar o sábado.",
+              "isCorrect": true,
+              "explanation": "Lucas registra que era costume de Jesus guardar o sábado, indo à sinagoga para adorar."
+            },
+            {
+              "text": "Jesus não guardava nenhum dia especial.",
+              "isCorrect": false,
+              "explanation": "A Bíblia afirma claramente que era costume de Jesus guardar o sábado."
+            },
+            {
+              "text": "Jesus observava o domingo como dia de descanso.",
+              "isCorrect": false,
+              "explanation": "Não há nenhuma passagem bíblica que afirme que Jesus guardava o domingo. Ele guardava o sábado."
+            }
+          ],
+          "verse": "Lucas 4:16",
+          "verseText": "\"E foi a Nazaré, onde fora criado, e entrou, conforme o seu costume, no dia do sábado, na sinagoga.\" — Lucas 4:16"
+        },
+        {
+          "question": "O sábado foi criado apenas para os judeus?",
+          "options": [
+            {
+              "text": "Não. Foi feito para toda a humanidade.",
+              "isCorrect": true,
+              "explanation": "Jesus declarou que o sábado foi feito para o \"homem\" (humanidade), não especificamente para os judeus."
+            },
+            {
+              "text": "Sim, é uma instituição exclusivamente judaica.",
+              "isCorrect": false,
+              "explanation": "O sábado foi instituído antes da existência do povo judeu, na criação do mundo, para toda a humanidade."
+            },
+            {
+              "text": "Foi criado para os sacerdotes do Antigo Testamento.",
+              "isCorrect": false,
+              "explanation": "Jesus declarou que o sábado foi feito para o homem em geral, sem restrição sacerdotal ou étnica."
+            }
+          ],
+          "verse": "Marcos 2:27",
+          "verseText": "\"E dizia-lhes: O sábado foi feito por causa do homem, e não o homem por causa do sábado.\" — Marcos 2:27"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "title": "Do Sábado para o Domingo",
+      "subtitle": "Como aconteceu a mudança",
+      "thumbnailImage": "assets/images/chapters/dosabado.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Perguntado, certa vez, sobre quando e por que os cristãos teriam deixado de guardar o sábado para adotar o domingo, um estudioso respondeu: \"Se você pesquisar a história, descobrirá que este costume veio da Igreja Católica Romana\".\n\nA história confirma que, nos primeiros séculos do cristianismo, os cristãos observavam o sábado bíblico. A mudança ocorreu gradualmente. Quando e por quê? O que a Bíblia diz sobre esse assunto? Há alguma autoridade divina para tal mudança?",
+      "questions": [
+        {
+          "question": "Que profecia Daniel fez a respeito de um poder que tentaria mudar os tempos e a lei?",
+          "options": [
+            {
+              "text": "Um poder tentaria mudar os tempos e a lei de Deus.",
+              "isCorrect": true,
+              "explanation": "Daniel profetizou que um poder humano tentaria alterar os tempos sagrados e a lei de Deus, o que se cumpriu historicamente."
+            },
+            {
+              "text": "Deus mudaria os tempos de acordo com as épocas.",
+              "isCorrect": false,
+              "explanation": "A profecia fala de um poder humano que tentaria fazer mudanças, não de alteração divina na lei."
+            },
+            {
+              "text": "Os apóstolos receberiam autoridade para mudar a lei.",
+              "isCorrect": false,
+              "explanation": "Os apóstolos nunca reivindicaram autoridade para mudar a lei de Deus ou os dias sagrados."
+            }
+          ],
+          "verse": "Daniel 7:25",
+          "verseText": "\"E pensará em mudar os tempos e a lei; e eles serão entregues na sua mão.\" — Daniel 7:25"
+        },
+        {
+          "question": "Há algum texto bíblico que ordene a guarda do domingo?",
+          "options": [
+            {
+              "text": "Não. A Bíblia não manda guardar o domingo.",
+              "isCorrect": true,
+              "explanation": "Em toda a Bíblia, não existe um único texto que ordene a guarda do domingo como dia santo. O mandamento permanece sobre o sábado."
+            },
+            {
+              "text": "Sim, em Atos 20:7 e 1 Coríntios 16:2.",
+              "isCorrect": false,
+              "explanation": "Esses textos mencionam atividades realizadas no primeiro dia da semana, mas não ensinam nem ordenam a guarda do domingo como dia sagrado."
+            },
+            {
+              "text": "Sim, Jesus ordenou a guarda do domingo após ressuscitar.",
+              "isCorrect": false,
+              "explanation": "Não há registro bíblico de Jesus ordenando a guarda do domingo. Após a ressurreição, Ele nunca mudou o sábado para o domingo."
+            }
+          ],
+          "verse": "Êxodo 20:8-11",
+          "verseText": "\"O sétimo dia é o sábado do Senhor teu Deus.\" — Êxodo 20:10"
+        },
+        {
+          "question": "O que Jesus disse sobre seguir tradições humanas em detrimento dos mandamentos de Deus?",
+          "options": [
+            {
+              "text": "É adoração em vão honrar a Deus com mandamentos de homens.",
+              "isCorrect": true,
+              "explanation": "Jesus condena claramente a substituição dos mandamentos de Deus por tradições humanas."
+            },
+            {
+              "text": "As tradições podem substituir a lei se forem praticadas com sinceridade.",
+              "isCorrect": false,
+              "explanation": "Sinceridade não valida tradições que contradizem a Palavra de Deus. Jesus foi explícito sobre isso."
+            },
+            {
+              "text": "As tradições da igreja têm a mesma autoridade que a Bíblia.",
+              "isCorrect": false,
+              "explanation": "A Bíblia tem autoridade suprema. Tradições humanas não possuem o mesmo peso que a Palavra de Deus."
+            }
+          ],
+          "verse": "Mateus 15:9",
+          "verseText": "\"Mas em vão me honram, ensinando doutrinas que são mandamentos de homens.\" — Mateus 15:9"
+        },
+        {
+          "question": "O que acontecerá com os que obedecerem e guardam os mandamentos de Deus nos últimos dias?",
+          "options": [
+            {
+              "text": "Serão perseguidos, mas permanecerão fiéis guardando os mandamentos.",
+              "isCorrect": true,
+              "explanation": "O remanescente dos últimos dias é descrito como aquele que guarda os mandamentos de Deus e tem a fé de Jesus."
+            },
+            {
+              "text": "Serão automaticamente levados ao céu sem passar por tribulações.",
+              "isCorrect": false,
+              "explanation": "A Bíblia prevê tribulações, mas promete fidelidade e recompensa àqueles que permanecerem firmes."
+            },
+            {
+              "text": "Receberão uma nova lei adaptada para os tempos modernos.",
+              "isCorrect": false,
+              "explanation": "A lei de Deus é imutável. O remanescente fiel guarda os mandamentos como foram dados."
+            }
+          ],
+          "verse": "Apocalipse 12:17; 14:12",
+          "verseText": "\"Aqui está a paciência dos santos; aqui estão os que guardam os mandamentos de Deus e a fé em Jesus.\" — Apocalipse 14:12"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "title": "Princípios de Saúde",
+      "subtitle": "O cuidado com o templo do Espírito Santo",
+      "thumbnailImage": "assets/images/chapters/saude.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Conta-se que um fazendeiro muito rico possuía um cavalo de estimação, ao qual tratava com todo o cuidado possível. Veterinários eram chamados com frequência. O animal comia e bebia somente o que lhe faziam bem. Um vizinho, admirado com tanto cuidado, perguntou ao fazendeiro o porquê de tão grande desvelo. Ele respondeu: \"Porque ele não sabe o que lhe faz bem nem o que lhe faz mal\".\n\nInfelizmente, muitas pessoas tratam seu corpo como algo sem valor, não sabendo ou não considerando que é o templo do Espírito Santo.",
+      "questions": [
+        {
+          "question": "Como Deus considera nosso corpo?",
+          "options": [
+            {
+              "text": "Templo do Espírito Santo, que deve ser cuidado para glorificar a Deus.",
+              "isCorrect": true,
+              "explanation": "A Bíblia ensina que nosso corpo é templo do Espírito Santo; portanto, devemos cuidar dele para a glória de Deus."
+            },
+            {
+              "text": "Algo temporário e sem importância espiritual.",
+              "isCorrect": false,
+              "explanation": "O corpo é importante para Deus. A ressurreição futura confirma o valor que Deus dá à existência corporal."
+            },
+            {
+              "text": "Um obstáculo para a vida espiritual.",
+              "isCorrect": false,
+              "explanation": "O corpo não é obstáculo, mas instrumento pelo qual podemos glorificar a Deus."
+            }
+          ],
+          "verse": "1 Coríntios 6:19,20",
+          "verseText": "\"Não sabeis que o vosso corpo é o templo do Espírito Santo... pelo que glorificai a Deus no vosso corpo.\" — 1 Co 6:19-20"
+        },
+        {
+          "question": "Como Paulo resume o princípio de saúde cristã?",
+          "options": [
+            {
+              "text": "Fazer tudo para a glória de Deus, incluindo o que comemos e bebemos.",
+              "isCorrect": true,
+              "explanation": "O princípio bíblico é que todas as nossas ações, incluindo hábitos alimentares, devem ser orientadas para a glória de Deus."
+            },
+            {
+              "text": "Comer e beber sem restrições, pois Deus perdoa tudo.",
+              "isCorrect": false,
+              "explanation": "A graça não é licença para descuido com o corpo; somos mordomos do templo do Espírito Santo."
+            },
+            {
+              "text": "Jejuar para demonstrar santidade perante Deus.",
+              "isCorrect": false,
+              "explanation": "O princípio não é de jejum obrigatório, mas de fazer escolhas que glorifiquem a Deus no dia a dia."
+            }
+          ],
+          "verse": "1 Coríntios 10:31",
+          "verseText": "\"Portanto, quer comais, quer bebais, ou façais qualquer outra coisa, fazei tudo para a glória de Deus.\" — 1 Co 10:31"
+        },
+        {
+          "question": "Que alimentos Deus designou como limpos para o consumo humano?",
+          "options": [
+            {
+              "text": "Animais com casco fendido que ruminam, como o boi e a ovelha.",
+              "isCorrect": true,
+              "explanation": "Deus estabeleceu critérios específicos para alimentos limpos, como animais terrestres com casco fendido e que ruminam."
+            },
+            {
+              "text": "Qualquer animal, pois no Novo Testamento tudo foi purificado.",
+              "isCorrect": false,
+              "explanation": "A distinção de limpos e imundos continua relevante para a saúde. A visão de Pedro em Atos foi simbólica, referindo-se aos gentios."
+            },
+            {
+              "text": "Apenas frutas e vegetais, sem nenhuma carne.",
+              "isCorrect": false,
+              "explanation": "A Bíblia permite o consumo de carnes limpas, embora a dieta original do Éden fosse vegetariana."
+            }
+          ],
+          "verse": "Levítico 11:1-3; Deuteronômio 14:6",
+          "verseText": "\"Todo animal que tem o casco fendido em duas unhas e que rumina, dentre os animais, esse comereis.\" — Levítico 11:3"
+        },
+        {
+          "question": "Quais substâncias são prejudiciais ao templo do Espírito Santo e à comunhão com Deus?",
+          "options": [
+            {
+              "text": "Bebidas alcoólicas e outras substâncias que destroem o corpo.",
+              "isCorrect": true,
+              "explanation": "A Bíblia condena o álcool e qualquer substância que embote a mente e prejudique o templo do Espírito Santo."
+            },
+            {
+              "text": "Apenas o álcool em excesso, pois a moderação é permitida.",
+              "isCorrect": false,
+              "explanation": "O princípio bíblico aponta para abstinência total de bebidas alcoólicas, não somente moderação."
+            },
+            {
+              "text": "Somente drogas ilegais, pois o vinho é permitido.",
+              "isCorrect": false,
+              "explanation": "A Bíblia inclui o vinho como algo a ser evitado, pois prejudica o julgamento e a comunhão com Deus."
+            }
+          ],
+          "verse": "1 Coríntios 3:17; Provérbios 20:1",
+          "verseText": "\"O vinho é escarnecedor, a bebida forte é alvoroçadora; e todo aquele que neles se embriaga não é sábio.\" — Provérbios 20:1"
+        },
+        {
+          "question": "Qual foi a dieta original que Deus estabeleceu para o ser humano?",
+          "options": [
+            {
+              "text": "Frutas, grãos e vegetais — uma dieta vegetariana.",
+              "isCorrect": true,
+              "explanation": "No Éden, Deus estabeleceu uma dieta à base de plantas, que é considerada a mais próxima do ideal divino."
+            },
+            {
+              "text": "Carnes de todos os tipos de animais.",
+              "isCorrect": false,
+              "explanation": "O consumo de carne não fazia parte do plano original de Deus. Foi permitido mais tarde, com restrições."
+            },
+            {
+              "text": "Peixes e frutos do mar como base alimentar.",
+              "isCorrect": false,
+              "explanation": "A dieta original não incluía alimentos de origem animal. Era baseada em vegetais, frutas e grãos."
+            }
+          ],
+          "verse": "Gênesis 1:29",
+          "verseText": "\"Eis que vos tenho dado toda a erva que dá semente... e toda árvore em que há fruto que dê semente; isso vos será para mantimento.\" — Gênesis 1:29"
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "title": "O Dom de Profecia",
+      "subtitle": "A voz de Deus por meio dos profetas",
+      "thumbnailImage": "assets/images/chapters/profecia.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Um menino nasceu numa pequena cidade do interior, filho de um fazendeiro simples. Desde pequeno, demonstrava talento especial para a música e para as artes. Ao crescer, tornou-se famoso músico. No dia da aposentadoria, olhando para trás, agradeceu ao pai que, em vez de deixá-lo trabalhar na roça como os irmãos, o enviou a uma escola de música.\n\nAssim Deus age com Sua igreja: em vez de deixá-la à própria sorte, enviou o dom de profecia para iluminá-la.",
+      "questions": [
+        {
+          "question": "Como Deus se comunica com Seu povo?",
+          "options": [
+            {
+              "text": "Por meio dos profetas, revelando Seus segredos.",
+              "isCorrect": true,
+              "explanation": "Deus revela Sua vontade por meio dos profetas. Isso demonstra Seu cuidado em comunicar Seus planos ao povo."
+            },
+            {
+              "text": "Apenas por meio de fenômenos naturais.",
+              "isCorrect": false,
+              "explanation": "Embora Deus use a natureza, Ele também fala por profetas, sonhos, visões e Sua Palavra escrita."
+            },
+            {
+              "text": "Exclusivamente por meio das lideranças eclesiásticas.",
+              "isCorrect": false,
+              "explanation": "As lideranças têm papel importante, mas Deus também se comunica diretamente por profetas escolhidos por Ele."
+            }
+          ],
+          "verse": "Hebreus 1:1; Amós 3:7",
+          "verseText": "\"Certamente o Senhor Deus não fará coisa alguma, sem ter revelado o seu segredo aos seus servos os profetas.\" — Amós 3:7"
+        },
+        {
+          "question": "O dom de profecia é um dos dons espirituais para a Igreja?",
+          "options": [
+            {
+              "text": "Sim, Deus colocou profetas na Igreja para sua edificação.",
+              "isCorrect": true,
+              "explanation": "Paulo lista o dom profético como parte dos dons dados por Deus à Igreja para edificação e aperfeiçoamento dos santos."
+            },
+            {
+              "text": "Não, os dons espirituais cessaram com os apóstolos.",
+              "isCorrect": false,
+              "explanation": "A Bíblia não afirma que os dons espirituais cessaram. Eles são dados conforme a necessidade da Igreja."
+            },
+            {
+              "text": "Apenas alguns líderes têm acesso especial ao dom.",
+              "isCorrect": false,
+              "explanation": "O Espírito Santo distribui os dons como lhe apraz, não somente a líderes designados por homens."
+            }
+          ],
+          "verse": "Efésios 4:11,12; 1 Coríntios 12:28",
+          "verseText": "\"E ele mesmo deu uns para apóstolos, e outros para profetas.\" — Efésios 4:11"
+        },
+        {
+          "question": "Como identificar um verdadeiro profeta de Deus?",
+          "options": [
+            {
+              "text": "Confirmação pelas Escrituras, pelos frutos e pela confissão de Cristo.",
+              "isCorrect": true,
+              "explanation": "Um verdadeiro profeta tem suas mensagens alinhadas com a Bíblia, apresenta bons frutos e confessa Jesus Cristo como Senhor."
+            },
+            {
+              "text": "Pelo tamanho de seu ministério e número de seguidores.",
+              "isCorrect": false,
+              "explanation": "Falsos profetas podem ter multidões de seguidores. O teste bíblico envolve adesão à Palavra de Deus."
+            },
+            {
+              "text": "Pela intensidade das emoções que provoca nos ouvintes.",
+              "isCorrect": false,
+              "explanation": "Emoções fortes não provam autenticidade profética. O padrão é a conformidade com as Escrituras."
+            }
+          ],
+          "verse": "Isaías 8:20; Mateus 7:20; 1 João 4:2",
+          "verseText": "\"Pela lei e pelo testemunho! Se eles não falarem desta maneira, nunca verão a alvorada.\" — Isaías 8:20"
+        },
+        {
+          "question": "A Bíblia prevê o dom de profecia para os últimos dias?",
+          "options": [
+            {
+              "text": "Sim. Deus prometeu derramar Seu Espírito e o dom profético nos últimos dias.",
+              "isCorrect": true,
+              "explanation": "Joel profetizou o derramamento do Espírito e do dom profético nos últimos dias. Apocalipse confirma isso para o remanescente."
+            },
+            {
+              "text": "Não. As profecias já foram todas cumpridas no passado.",
+              "isCorrect": false,
+              "explanation": "A Bíblia prevê manifestação profética nos últimos dias, como parte da obra do Espírito Santo."
+            },
+            {
+              "text": "Apenas para o povo judeu que voltará à Terra Santa.",
+              "isCorrect": false,
+              "explanation": "Joel afirma que o Espírito seria derramado \"sobre toda a carne\", sem restrição étnica ou geográfica."
+            }
+          ],
+          "verse": "Joel 2:28,29; Apocalipse 12:17; 19:10",
+          "verseText": "\"E acontecerá depois que eu terei derramado o meu Espírito sobre toda a carne, e vossos filhos e vossas filhas profetizarão.\" — Joel 2:28"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "title": "O Dízimo",
+      "subtitle": "A fidelidade na mordomo de Deus",
+      "thumbnailImage": "assets/images/chapters/dizimo.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Conta a história que, numa cidade pequena, onde havia uma única loja, o dono cobrava o dobro do preço dos produtos. Certo dia, chegou um comerciante concorrente e abriu uma loja vizinha. Apavorado, o antigo comerciante foi à loja do recém-chegado e perguntou: \"O senhor sabe que tem apenas metade do mercado desta cidade?\" O novato respondeu: \"Não. Tenho toda a cidade, mas entregarei metade ao meu sócio\".\n\nAssim é o dízimo. Não damos a Deus o que é nosso; devolvemos a Ele o que é dEle.",
+      "questions": [
+        {
+          "question": "A quem pertence o dízimo?",
+          "options": [
+            {
+              "text": "A Deus. O dízimo é santo ao Senhor.",
+              "isCorrect": true,
+              "explanation": "A Bíblia declara que o dízimo pertence a Deus. Devolvê-lo não é uma dádiva, mas uma obrigação de fidelidade."
+            },
+            {
+              "text": "À igreja, para custear suas despesas.",
+              "isCorrect": false,
+              "explanation": "Embora a igreja gerencie os dízimos, a Bíblia declara que eles pertencem a Deus. O destino é a obra de Deus."
+            },
+            {
+              "text": "Ao fiel, que decide livremente como usá-lo.",
+              "isCorrect": false,
+              "explanation": "O dízimo não pertence ao fiel; ele é uma devolução a Deus do que já lhe pertence."
+            }
+          ],
+          "verse": "Levítico 27:30",
+          "verseText": "\"Todos os dízimos da terra, tanto das sementes da terra como dos frutos das árvores, são do Senhor.\" — Levítico 27:30"
+        },
+        {
+          "question": "O que é o dízimo?",
+          "options": [
+            {
+              "text": "A décima parte da renda, devolvida a Deus.",
+              "isCorrect": true,
+              "explanation": "O dízimo é a décima parte dos ganhos, que o fiel devolve a Deus como reconhecimento de Sua soberania."
+            },
+            {
+              "text": "Uma doação voluntária de qualquer valor.",
+              "isCorrect": false,
+              "explanation": "O dízimo não é qualquer valor voluntário, mas especificamente um décimo da renda."
+            },
+            {
+              "text": "Uma oferta especial dada apenas uma vez por ano.",
+              "isCorrect": false,
+              "explanation": "O dízimo é uma prática regular, proporcional à renda, e não uma oferta anual única."
+            }
+          ],
+          "verse": "Gênesis 28:22",
+          "verseText": "\"De tudo quanto me deres, certamente te darei o dízimo.\" — Gênesis 28:22"
+        },
+        {
+          "question": "O que Deus promete aos que são fiéis no dízimo?",
+          "options": [
+            {
+              "text": "Abrir as janelas do céu e derramar bênçãos abundantes.",
+              "isCorrect": true,
+              "explanation": "Deus promete derramar bênçãos aos fiéis no dízimo, desafiando o povo a colocá-Lo à prova."
+            },
+            {
+              "text": "Garantir que nunca passarão necessidade material.",
+              "isCorrect": false,
+              "explanation": "A promessa de bênção não exclui dificuldades, mas garante a fidelidade de Deus em suprir as necessidades."
+            },
+            {
+              "text": "Recompensar com riqueza imediata e visível.",
+              "isCorrect": false,
+              "explanation": "As bênçãos de Deus incluem muito mais do que riqueza material; abrangem todas as dimensões da vida."
+            }
+          ],
+          "verse": "Malaquias 3:10",
+          "verseText": "\"Trazei todos os dízimos à casa do tesouro... e provai-me nisto, diz o Senhor dos exércitos, se eu não vos abrir as janelas do céu.\" — Malaquias 3:10"
+        },
+        {
+          "question": "O que acontece com os que retêm o dízimo?",
+          "options": [
+            {
+              "text": "Estão roubando a Deus e ficam sob maldição.",
+              "isCorrect": true,
+              "explanation": "Deus classifica a retenção do dízimo como roubo. Os que não devolvem ficam sem a proteção e bênção divina."
+            },
+            {
+              "text": "Perdem apenas uma bênção opcional.",
+              "isCorrect": false,
+              "explanation": "A linguagem bíblica é forte: não devolver o dízimo é roubo a Deus, com consequências sérias."
+            },
+            {
+              "text": "São perdoados automaticamente se fizerem boas obras.",
+              "isCorrect": false,
+              "explanation": "Não há substituição bíblica para o dízimo. Boas obras não compensam a infidelidade nessa área específica."
+            }
+          ],
+          "verse": "Malaquias 3:8,9",
+          "verseText": "\"Porventura rouba o homem a Deus? Todavia vós me roubais... nos dízimos e nas ofertas.\" — Malaquias 3:8"
+        },
+        {
+          "question": "Para onde deve ser destinado o dízimo?",
+          "options": [
+            {
+              "text": "À casa do tesouro de Deus — a Igreja — para o sustento dos ministros.",
+              "isCorrect": true,
+              "explanation": "O dízimo deve ser levado à casa do tesouro de Deus para sustentar os ministros e a obra do evangelho."
+            },
+            {
+              "text": "Para qualquer instituição de caridade à escolha do fiel.",
+              "isCorrect": false,
+              "explanation": "Embora a caridade seja importante, o dízimo tem destino específico: a casa de Deus e Seus ministros."
+            },
+            {
+              "text": "Para projetos pessoais de evangelismo do fiel.",
+              "isCorrect": false,
+              "explanation": "O dízimo deve ir para a tesouraria da Igreja, que gerencia os recursos para a obra de Deus."
+            }
+          ],
+          "verse": "Malaquias 3:10; Números 18:21",
+          "verseText": "\"Trazei todos os dízimos à casa do tesouro.\" — Malaquias 3:10"
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "title": "Ofertar, um Ato de Adoração",
+      "subtitle": "A gratidão que se expressa em ação",
+      "thumbnailImage": "assets/images/chapters/oferta.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Certa vez, uma criança pediu dinheiro ao pai para comprar um presente de aniversário para ele mesmo. O pai deu o dinheiro, a criança comprou o presente e o entregou ao pai. O pai ficou feliz com o gesto carinhoso do filho.\n\nAssim acontece com nossas ofertas. Tudo o que temos vem de Deus. Quando ofertamos, simplesmente devolvemos a Ele uma parte do que Ele nos deu. Mesmo assim, Deus Se alegra com o gesto de gratidão e amor dos Seus filhos. O que a Bíblia nos ensina sobre ofertas?",
+      "questions": [
+        {
+          "question": "De onde vêm os recursos que possuímos para ofertar?",
+          "options": [
+            {
+              "text": "De Deus. Tudo o que temos vem dEle.",
+              "isCorrect": true,
+              "explanation": "Davi reconheceu que tudo pertence a Deus, e que ao ofertar, simplesmente devolvemos o que Ele mesmo nos deu."
+            },
+            {
+              "text": "Do nosso esforço e trabalho exclusivamente.",
+              "isCorrect": false,
+              "explanation": "Embora o trabalho seja importante, é Deus quem dá força, saúde e oportunidades para trabalhar e prosperar."
+            },
+            {
+              "text": "Da sorte e das circunstâncias favoráveis da vida.",
+              "isCorrect": false,
+              "explanation": "A perspectiva bíblica é que as bênçãos materiais vêm de Deus, não do acaso ou da sorte."
+            }
+          ],
+          "verse": "1 Crônicas 29:14",
+          "verseText": "\"Porque quem sou eu, e quem é o meu povo, para que possamos oferecer voluntariamente estas coisas? Pois tudo vem de ti, e do que é teu te damos.\" — 1 Crônicas 29:14"
+        },
+        {
+          "question": "Como devemos ofertar?",
+          "options": [
+            {
+              "text": "Com alegria, de coração, não com tristeza ou obrigação.",
+              "isCorrect": true,
+              "explanation": "Deus ama o ofertante alegre. A oferta deve ser uma expressão livre de gratidão, não de coerção ou tristeza."
+            },
+            {
+              "text": "Com o máximo possível para garantir bênçãos maiores.",
+              "isCorrect": false,
+              "explanation": "Deus valoriza a atitude do coração, não o tamanho da oferta. Uma viúva com duas moedas agradou mais do que os ricos."
+            },
+            {
+              "text": "Apenas quando sobrar dinheiro no fim do mês.",
+              "isCorrect": false,
+              "explanation": "A Bíblia ensina a priorizar a honra a Deus nos recursos, e não relegá-la ao que sobra."
+            }
+          ],
+          "verse": "2 Coríntios 9:7",
+          "verseText": "\"Cada um contribua segundo propôs no seu coração; não com tristeza nem por necessidade; porque Deus ama ao que dá com alegria.\" — 2 Co 9:7"
+        },
+        {
+          "question": "Qual oferta Jesus considerou a mais valiosa?",
+          "options": [
+            {
+              "text": "A da viúva pobre, que deu tudo o que tinha.",
+              "isCorrect": true,
+              "explanation": "Jesus elogiou a viúva por ofertar proporcionalmente mais do que os ricos, pois deu de sua necessidade com fé."
+            },
+            {
+              "text": "A dos ricos que lançaram grandes quantias.",
+              "isCorrect": false,
+              "explanation": "Jesus observou que os ricos davam do que lhes sobrava, enquanto a viúva deu tudo o que tinha."
+            },
+            {
+              "text": "A do sumo sacerdote que oferecia regularmente no templo.",
+              "isCorrect": false,
+              "explanation": "Jesus destacou a oferta da viúva pobre como exemplo de generosidade genuína."
+            }
+          ],
+          "verse": "Marcos 12:41-44",
+          "verseText": "\"Esta pobre viúva lançou mais do que todos os outros... lançou tudo o que tinha para viver.\" — Marcos 12:43-44"
+        },
+        {
+          "question": "O que Deus promete para os que ofertam com generosidade?",
+          "options": [
+            {
+              "text": "Receberão de volta em medida transbordante.",
+              "isCorrect": true,
+              "explanation": "Jesus prometeu retribuição abundante àqueles que doam com generosidade e boa vontade."
+            },
+            {
+              "text": "Serão reconhecidos publicamente pela comunidade.",
+              "isCorrect": false,
+              "explanation": "Jesus advertiu contra dar para ser visto pelos homens (Mt 6:2). A recompensa vem de Deus, não do reconhecimento humano."
+            },
+            {
+              "text": "Estarão livres de qualquer dificuldade financeira.",
+              "isCorrect": false,
+              "explanation": "A promessa não é de ausência de dificuldades, mas de bênção divina proporcional à generosidade."
+            }
+          ],
+          "verse": "Lucas 6:38",
+          "verseText": "\"Dai, e ser-vos-á dado; boa medida, recalcada, sacudida e transbordando vos deitarão no regaço.\" — Lucas 6:38"
+        },
+        {
+          "question": "Qual é a maior oferta já feita na história?",
+          "options": [
+            {
+              "text": "Deus deu Seu próprio Filho pela salvação da humanidade.",
+              "isCorrect": true,
+              "explanation": "A maior oferta da história foi a de Deus ao entregar Seu Filho unigênito para morrer pelos pecadores."
+            },
+            {
+              "text": "Abraão ao oferecer Isaque no altar.",
+              "isCorrect": false,
+              "explanation": "O sacrifício de Abraão foi um teste de fé, mas a maior oferta foi a de Deus ao entregar o próprio Filho."
+            },
+            {
+              "text": "Salomão ao oferecer mil holocaustos a Deus.",
+              "isCorrect": false,
+              "explanation": "A oferta de Salomão foi grandiosa, mas nada se compara à entrega do Filho de Deus pela humanidade pecadora."
+            }
+          ],
+          "verse": "João 3:16",
+          "verseText": "\"Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.\" — João 3:16"
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "title": "Como Identificar a Igreja Verdadeira",
+      "subtitle": "As marcas do povo de Deus",
+      "thumbnailImage": "assets/images/chapters/igreja.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Em meio à multiplicidade de igrejas e denominações cristãs existentes no mundo de hoje, muitas pessoas se perguntam, com razão: \"Qual é a verdadeira Igreja de Deus?\"\n\nA palavra \"igreja\" vem do grego ekklesia, que significa \"os chamados para fora\". A Igreja não é um edifício ou uma organização religiosa, mas um povo — os que foram chamados do mundo para seguir a Cristo e viver segundo Sua vontade.\n\nComo identificar esse povo? A Bíblia nos apresenta características claras.",
+      "questions": [
+        {
+          "question": "O que é a Igreja segundo a Bíblia?",
+          "options": [
+            {
+              "text": "O corpo de Cristo, do qual Ele é a cabeça.",
+              "isCorrect": true,
+              "explanation": "A Igreja não é um edifício, mas o corpo de Cristo — todos os que creem e O seguem fielmente."
+            },
+            {
+              "text": "Uma organização religiosa fundada por homens.",
+              "isCorrect": false,
+              "explanation": "A Igreja foi fundada por Cristo, não por homens. Ela é Seu corpo e Ele é sua cabeça."
+            },
+            {
+              "text": "Um grupo seleto de pessoas perfeitas e sem pecado.",
+              "isCorrect": false,
+              "explanation": "A Igreja é formada por pecadores redimidos pela graça, não por pessoas perfeitas."
+            }
+          ],
+          "verse": "Efésios 1:22,23; Colossenses 1:18",
+          "verseText": "\"E ele é a cabeça do corpo, da igreja.\" — Colossenses 1:18"
+        },
+        {
+          "question": "Quais são as marcas da Igreja verdadeira segundo Apocalipse 12:17?",
+          "options": [
+            {
+              "text": "Guarda os mandamentos de Deus e tem a fé de Jesus.",
+              "isCorrect": true,
+              "explanation": "O remanescente de Deus é identificado por duas marcas: guardar os mandamentos de Deus e manter a fé em Jesus Cristo."
+            },
+            {
+              "text": "Tem o maior número de membros e templos no mundo.",
+              "isCorrect": false,
+              "explanation": "Tamanho não é critério bíblico para identificar a Igreja verdadeira. As marcas são espirituais, não numéricas."
+            },
+            {
+              "text": "Realiza mais milagres e sinais do que as outras.",
+              "isCorrect": false,
+              "explanation": "Milagres também podem ser realizados por falsos profetas. O critério bíblico é fidelidade à Palavra de Deus."
+            }
+          ],
+          "verse": "Apocalipse 12:17; 14:12",
+          "verseText": "\"Aqui está a paciência dos santos; aqui estão os que guardam os mandamentos de Deus e a fé em Jesus.\" — Ap 14:12"
+        },
+        {
+          "question": "Como Jesus disse que reconheceríamos Seus verdadeiros seguidores?",
+          "options": [
+            {
+              "text": "Pelo amor genuíno entre si.",
+              "isCorrect": true,
+              "explanation": "Jesus disse que o amor mútuo seria o sinal distintivo de Seus verdadeiros discípulos perante o mundo."
+            },
+            {
+              "text": "Pelos uniformes e símbolos religiosos que usam.",
+              "isCorrect": false,
+              "explanation": "A marca da Igreja não é visual ou institucional, mas o amor genuíno que os membros demonstram uns pelos outros."
+            },
+            {
+              "text": "Pelo idioma que usam na adoração.",
+              "isCorrect": false,
+              "explanation": "O idioma não é critério bíblico para identificar os discípulos de Cristo. O amor é a marca definitiva."
+            }
+          ],
+          "verse": "João 13:35",
+          "verseText": "\"Nisto conhecerão todos que sois meus discípulos, se vos amardes uns aos outros.\" — João 13:35"
+        },
+        {
+          "question": "Qual é a base doutrinária da Igreja verdadeira?",
+          "options": [
+            {
+              "text": "A Bíblia, com Jesus como pedra angular.",
+              "isCorrect": true,
+              "explanation": "A Igreja verdadeira está edificada sobre a Palavra de Deus, com Jesus como fundamento e pedra angular."
+            },
+            {
+              "text": "As tradições dos pais da Igreja e os concílios eclesiásticos.",
+              "isCorrect": false,
+              "explanation": "As tradições humanas não são fundamento confiável. Somente a Palavra de Deus é regra de fé e prática."
+            },
+            {
+              "text": "A autoridade do líder máximo da denominação.",
+              "isCorrect": false,
+              "explanation": "Nenhum líder humano pode ser o fundamento da Igreja. Somente Cristo e Sua Palavra têm essa autoridade."
+            }
+          ],
+          "verse": "Efésios 2:20; João 17:17",
+          "verseText": "\"Edificados sobre o fundamento dos apóstolos e profetas, sendo o próprio Jesus Cristo a pedra angular.\" — Efésios 2:20"
+        },
+        {
+          "question": "O que Cristo ordenou à Sua Igreja como missão principal?",
+          "options": [
+            {
+              "text": "Pregar o evangelho e fazer discípulos em todas as nações.",
+              "isCorrect": true,
+              "explanation": "A Grande Comissão ordena que a Igreja pregue e faça discípulos em todo o mundo, batizando-os e ensinando-os."
+            },
+            {
+              "text": "Construir templos em todos os países do mundo.",
+              "isCorrect": false,
+              "explanation": "A missão bíblica da Igreja é fazer discípulos, não necessariamente construir edifícios."
+            },
+            {
+              "text": "Defender os membros de perseguições políticas.",
+              "isCorrect": false,
+              "explanation": "A missão da Igreja é espiritual: evangelizar e discipular, não apenas proteger seus membros de perseguição."
+            }
+          ],
+          "verse": "Mateus 28:19,20",
+          "verseText": "\"Ide, portanto, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo.\" — Mateus 28:19"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "title": "Por que Devo ser Batizado",
+      "subtitle": "O significado e a importância do batismo",
+      "thumbnailImage": "assets/images/chapters/batismo.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Batizar significa \"mergulhar\", \"submergir\". Na Igreja primitiva, o batismo era praticado por imersão — o crente era totalmente submerso na água.\n\nO batismo é um rito de iniciação à vida cristã, que simboliza morte para o pecado, sepultamento do homem velho e ressurreição para uma nova vida em Cristo. É um passo público e necessário para quem decide seguir a Jesus.\n\nO que a Bíblia nos ensina sobre o batismo? Quem deve ser batizado? Qual o modo correto?",
+      "questions": [
+        {
+          "question": "O que Jesus ordenou a respeito do batismo?",
+          "options": [
+            {
+              "text": "Que os discípulos fossem batizados e batizassem todas as nações.",
+              "isCorrect": true,
+              "explanation": "Jesus ordenou o batismo como parte da Grande Comissão. Crer e ser batizado é o caminho declarado por Ele mesmo."
+            },
+            {
+              "text": "Que o batismo fosse opcional para quem já é salvo.",
+              "isCorrect": false,
+              "explanation": "Jesus vinculou o batismo à salvação. Não há base bíblica para tratar o batismo como algo opcional."
+            },
+            {
+              "text": "Que apenas crianças recém-nascidas fossem batizadas.",
+              "isCorrect": false,
+              "explanation": "O batismo bíblico segue a crença e o arrependimento, portanto se aplica a pessoas em condição de tomar essa decisão."
+            }
+          ],
+          "verse": "Mateus 28:19,20; Marcos 16:16",
+          "verseText": "\"Quem crer e for batizado será salvo; mas quem não crer será condenado.\" — Marcos 16:16"
+        },
+        {
+          "question": "O que o batismo simboliza?",
+          "options": [
+            {
+              "text": "Morte para o pecado, sepultamento e ressurreição para nova vida.",
+              "isCorrect": true,
+              "explanation": "O batismo por imersão simboliza a morte do homem velho, o sepultamento do pecado e a ressurreição para uma vida nova em Cristo."
+            },
+            {
+              "text": "Purificação externa de pecados passados.",
+              "isCorrect": false,
+              "explanation": "A água do batismo não lava os pecados fisicamente; é um símbolo da obra de graça que já ocorreu no coração do crente."
+            },
+            {
+              "text": "Ingresso numa denominação religiosa específica.",
+              "isCorrect": false,
+              "explanation": "O batismo é uma declaração pública de fé em Cristo, não apenas um rito de adesão a uma denominação."
+            }
+          ],
+          "verse": "Romanos 6:3-5",
+          "verseText": "\"Fomos, pois, sepultados com ele pelo batismo... assim como Cristo ressuscitou dos mortos... assim andemos nós também em novidade de vida.\" — Romanos 6:4"
+        },
+        {
+          "question": "Qual é o modo correto de batismo segundo o exemplo de Jesus?",
+          "options": [
+            {
+              "text": "Por imersão, submerso completamente na água.",
+              "isCorrect": true,
+              "explanation": "Jesus foi batizado e saiu da água, indicando imersão. João também batizava onde havia muita água, confirmando a prática por imersão."
+            },
+            {
+              "text": "Por aspersão, com poucas gotas de água na testa.",
+              "isCorrect": false,
+              "explanation": "A aspersão não tem base no exemplo de Jesus ou na prática apostólica descrita no Novo Testamento."
+            },
+            {
+              "text": "Por qualquer modo, pois o que importa é a intenção.",
+              "isCorrect": false,
+              "explanation": "A forma importa porque o batismo por imersão carrega o significado simbólico de morte, sepultamento e ressurreição."
+            }
+          ],
+          "verse": "Mateus 3:16; João 3:23",
+          "verseText": "\"E Jesus, havendo sido batizado, saiu logo da água.\" — Mateus 3:16"
+        },
+        {
+          "question": "Quem deve ser batizado?",
+          "options": [
+            {
+              "text": "Aqueles que se arrependeram e creram no evangelho.",
+              "isCorrect": true,
+              "explanation": "O batismo bíblico pressupõe arrependimento e fé. Deve ser realizado por pessoas em condição de tomar essa decisão consciente."
+            },
+            {
+              "text": "Apenas os filhos de membros da Igreja.",
+              "isCorrect": false,
+              "explanation": "O batismo bíblico não é hereditário. Cada pessoa deve tomar sua própria decisão de fé e arrependimento."
+            },
+            {
+              "text": "Somente quem já alcançou maturidade espiritual plena.",
+              "isCorrect": false,
+              "explanation": "O critério não é maturidade plena, mas arrependimento e fé genuínos. Crescimento vem após o batismo."
+            }
+          ],
+          "verse": "Atos 2:38; 8:12",
+          "verseText": "\"Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo para remissão dos pecados.\" — Atos 2:38"
+        },
+        {
+          "question": "O que acontece espiritualmente no momento do batismo?",
+          "options": [
+            {
+              "text": "O crente se reveste de Cristo e recebe o Espírito Santo.",
+              "isCorrect": true,
+              "explanation": "No batismo, o crente se une a Cristo espiritualmente, recebe o dom do Espírito Santo e inicia sua jornada como membro do corpo de Cristo."
+            },
+            {
+              "text": "O crente perde todos os pecados automaticamente sem precisar de fé.",
+              "isCorrect": false,
+              "explanation": "O batismo é eficaz em conjunto com o arrependimento e a fé. A água sozinha não tem poder para salvar."
+            },
+            {
+              "text": "O crente garante sua salvação independente de suas escolhas futuras.",
+              "isCorrect": false,
+              "explanation": "O batismo é um compromisso de vida, não uma garantia automática. A perseverança na fé é necessária."
+            }
+          ],
+          "verse": "Atos 2:38; Gálatas 3:27",
+          "verseText": "\"Porque todos quantos fostes batizados em Cristo, de Cristo vos revestistes.\" — Gálatas 3:27"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "title": "Princípios de Vida Cristã",
+      "subtitle": "Como viver para a glória de Deus",
+      "thumbnailImage": "assets/images/chapters/principios.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Uma jovem viajou para estudar numa cidade distante. Ao se despedir, sua mãe lhe disse: \"Filha, você vai encontrar muita gente diferente. Vá com Deus. E lembre-se: seja o que você é em casa, em qualquer lugar que estiver\".\n\nEsse conselho resume bem o desafio da vida cristã: ser coerente em todos os ambientes. O cristão é chamado a viver de acordo com os princípios do Reino de Deus em qualquer circunstância. Mas como fazer isso na prática?",
+      "questions": [
+        {
+          "question": "Qual é o maior princípio da vida cristã segundo Jesus?",
+          "options": [
+            {
+              "text": "Amar a Deus de todo o coração e ao próximo como a si mesmo.",
+              "isCorrect": true,
+              "explanation": "Jesus resumiu toda a lei e os profetas em dois grandes mandamentos: amar a Deus e amar ao próximo."
+            },
+            {
+              "text": "Frequentar a igreja todos os dias e orar em voz alta.",
+              "isCorrect": false,
+              "explanation": "A frequência religiosa não substitui o amor genuíno a Deus e ao próximo como princípio central da vida cristã."
+            },
+            {
+              "text": "Evitar todo contato com pessoas não cristãs.",
+              "isCorrect": false,
+              "explanation": "Jesus se relacionou com pecadores. O cristão é chamado a amar ao próximo, inclusive os não crentes."
+            }
+          ],
+          "verse": "Mateus 22:37-39",
+          "verseText": "\"Amarás o Senhor teu Deus de todo o teu coração... Este é o grande e primeiro mandamento. E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo.\" — Mateus 22:37-39"
+        },
+        {
+          "question": "Como o cristão deve se relacionar com o mundo?",
+          "options": [
+            {
+              "text": "Estar no mundo sem se conformar com os seus valores.",
+              "isCorrect": true,
+              "explanation": "Paulo ensina que o cristão não deve se moldar ao padrão do mundo, mas ser transformado pela renovação da mente."
+            },
+            {
+              "text": "Isolar-se completamente da sociedade para ser mais puro.",
+              "isCorrect": false,
+              "explanation": "Jesus orou para que os discípulos não fossem tirados do mundo, mas guardados do mal. O isolamento não é o modelo bíblico."
+            },
+            {
+              "text": "Adotar os costumes do mundo para alcançar mais pessoas.",
+              "isCorrect": false,
+              "explanation": "A missão cristã não exige conformidade ao mundo. O testemunho vem da diferença de vida, não da semelhança."
+            }
+          ],
+          "verse": "Romanos 12:2; João 17:15,16",
+          "verseText": "\"Não vos conformeis com este século, mas transformai-vos pela renovação do vosso entendimento.\" — Romanos 12:2"
+        },
+        {
+          "question": "Como deve ser a vida de oração do cristão?",
+          "options": [
+            {
+              "text": "Orar continuamente, com ação de graças em tudo.",
+              "isCorrect": true,
+              "explanation": "A Bíblia chama o cristão a uma vida de oração constante, apresentando a Deus todas as necessidades com gratidão."
+            },
+            {
+              "text": "Orar apenas em momentos de crise e desespero.",
+              "isCorrect": false,
+              "explanation": "A oração não deve se restringir a momentos difíceis, mas ser uma prática contínua de comunhão com Deus."
+            },
+            {
+              "text": "Orar em voz alta e em público para ser testemunho.",
+              "isCorrect": false,
+              "explanation": "Jesus advertiu contra orar para ser visto pelos homens. A oração é primariamente comunhão íntima com Deus."
+            }
+          ],
+          "verse": "1 Tessalonicenses 5:17; Filipenses 4:6,7",
+          "verseText": "\"Em tudo, pela oração e pela súplica com ação de graças, sejam os vossos pedidos manifestos diante de Deus.\" — Filipenses 4:6"
+        },
+        {
+          "question": "Como o cristão deve lidar com os outros?",
+          "options": [
+            {
+              "text": "Tratar os outros como gostaria de ser tratado.",
+              "isCorrect": true,
+              "explanation": "A regra de ouro de Jesus é o princípio central para os relacionamentos cristãos: tratar o próximo como a si mesmo."
+            },
+            {
+              "text": "Tratar bem apenas os que o tratam bem também.",
+              "isCorrect": false,
+              "explanation": "Jesus foi além: chamou a amar até os inimigos, não apenas os que nos tratam bem."
+            },
+            {
+              "text": "Evitar conflitos a qualquer custo, sem buscar justiça.",
+              "isCorrect": false,
+              "explanation": "O cristão é chamado à paz, mas também à justiça. A regra de ouro implica defender o próximo com equidade."
+            }
+          ],
+          "verse": "Mateus 7:12",
+          "verseText": "\"Portanto, tudo o que quereis que os homens vos façam, fazei-o vós também a eles; porque esta é a lei e os profetas.\" — Mateus 7:12"
+        },
+        {
+          "question": "Que frutos o Espírito Santo produz na vida do cristão?",
+          "options": [
+            {
+              "text": "Amor, alegria, paz, longanimidade, bondade, fidelidade, mansidão e temperança.",
+              "isCorrect": true,
+              "explanation": "O Espírito Santo transforma o caráter do cristão, produzindo esses frutos que refletem o próprio caráter de Cristo."
+            },
+            {
+              "text": "Riqueza, saúde e prosperidade material.",
+              "isCorrect": false,
+              "explanation": "Os frutos do Espírito são espirituais e de caráter, não promessas materiais."
+            },
+            {
+              "text": "Dons espirituais visíveis como línguas e profecia apenas.",
+              "isCorrect": false,
+              "explanation": "Os dons são distintos dos frutos. Os frutos são qualidades de caráter que todo cristão deve desenvolver."
+            }
+          ],
+          "verse": "Gálatas 5:22,23",
+          "verseText": "\"Mas o fruto do Espírito é: amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade, mansidão, temperança.\" — Gálatas 5:22-23"
+        }
+      ]
+    },
+    {
+      "id": "l25",
+      "title": "Educação Cristã",
+      "subtitle": "Formando o caráter para a eternidade",
+      "thumbnailImage": "assets/images/chapters/educação.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Um escultor famoso foi questionado sobre como conseguia produzir obras tão perfeitas. Ele respondeu: \"É simples. Eu pego um bloco de mármore e simplesmente tiro tudo o que não é parte da escultura\".\n\nAssim é a verdadeira educação cristã: o processo pelo qual Deus remove tudo o que não pertence ao Seu ideal para nossas vidas, revelando o caráter que Ele projetou em cada um de nós.\n\nQual é o objetivo da educação cristã? O que a diferencia da educação secular?",
+      "questions": [
+        {
+          "question": "Qual é o objetivo supremo da educação cristã?",
+          "options": [
+            {
+              "text": "O temor a Deus como fundamento da verdadeira sabedoria.",
+              "isCorrect": true,
+              "explanation": "A educação cristã tem como base o temor reverente a Deus, que é o princípio de toda sabedoria verdadeira."
+            },
+            {
+              "text": "A formação intelectual para o mercado de trabalho.",
+              "isCorrect": false,
+              "explanation": "Embora o preparo profissional seja importante, o objetivo supremo da educação cristã vai além, focando no desenvolvimento do caráter eterno."
+            },
+            {
+              "text": "A memorização de textos bíblicos para debates teológicos.",
+              "isCorrect": false,
+              "explanation": "O objetivo não é acumular conhecimento por si mesmo, mas desenvolver um relacionamento real com Deus."
+            }
+          ],
+          "verse": "Provérbios 1:7; 9:10",
+          "verseText": "\"O temor do Senhor é o princípio da sabedoria; os tolos desprezam a sabedoria e a instrução.\" — Provérbios 1:7"
+        },
+        {
+          "question": "Que responsabilidade a Bíblia dá aos pais na educação dos filhos?",
+          "options": [
+            {
+              "text": "Ensinar os filhos nos caminhos de Deus desde pequenos.",
+              "isCorrect": true,
+              "explanation": "A Bíblia responsabiliza os pais por educar os filhos nos princípios de Deus, desde a mais tenra idade."
+            },
+            {
+              "text": "Deixar os filhos escolherem sua religião livremente ao crescer.",
+              "isCorrect": false,
+              "explanation": "Embora a fé seja uma escolha pessoal, a Bíblia chama os pais a plantar os fundamentos desde cedo."
+            },
+            {
+              "text": "Delegar a educação espiritual exclusivamente à igreja.",
+              "isCorrect": false,
+              "explanation": "A responsabilidade primária é dos pais, e a igreja complementa, mas não substitui o papel familiar."
+            }
+          ],
+          "verse": "Provérbios 22:6; Deuteronômio 6:6,7",
+          "verseText": "\"Ensina a criança no caminho em que deve andar, e até quando envelhecer não se desviará dele.\" — Provérbios 22:6"
+        },
+        {
+          "question": "Como Jesus cresceu e qual é o modelo para o desenvolvimento humano completo?",
+          "options": [
+            {
+              "text": "Em sabedoria, estatura, e em graça para com Deus e os homens.",
+              "isCorrect": true,
+              "explanation": "Jesus cresceu de forma integral: intelectual, físico, espiritual e socialmente. Esse é o modelo bíblico de desenvolvimento humano."
+            },
+            {
+              "text": "Apenas no aspecto espiritual, ignorando o intelectual.",
+              "isCorrect": false,
+              "explanation": "O desenvolvimento de Jesus foi completo e equilibrado, incluindo todas as dimensões da vida humana."
+            },
+            {
+              "text": "Apenas no aspecto físico e social durante a juventude.",
+              "isCorrect": false,
+              "explanation": "A Bíblia descreve um crescimento equilibrado em todas as dimensões: espiritual, intelectual, física e social."
+            }
+          ],
+          "verse": "Lucas 2:52",
+          "verseText": "\"E Jesus crescia em sabedoria, e em estatura, e em graça para com Deus e os homens.\" — Lucas 2:52"
+        },
+        {
+          "question": "Que tipo de conhecimento deve ser buscado pelo cristão?",
+          "options": [
+            {
+              "text": "O que é verdadeiro, honesto, justo e puro.",
+              "isCorrect": true,
+              "explanation": "Paulo instrui os cristãos a cultivar pensamentos e conhecimentos que reflitam virtude e excelência, filtrando o que entra na mente."
+            },
+            {
+              "text": "Qualquer conhecimento, pois todo saber vem de Deus.",
+              "isCorrect": false,
+              "explanation": "Nem todo conhecimento edifica. O cristão deve ser seletivo e criterioso no que escolhe aprender e meditar."
+            },
+            {
+              "text": "Apenas o conhecimento bíblico, evitando ciências seculares.",
+              "isCorrect": false,
+              "explanation": "A Bíblia não proíbe o estudo das ciências. O critério é que seja verdadeiro, puro e edificante."
+            }
+          ],
+          "verse": "Filipenses 4:8",
+          "verseText": "\"Tudo o que é verdadeiro, tudo o que é honesto, tudo o que é justo, tudo o que é puro... nisso pensai.\" — Filipenses 4:8"
+        },
+        {
+          "question": "Qual é o fundamento inabalável de toda educação cristã?",
+          "options": [
+            {
+              "text": "A Palavra de Deus, que é rocha firme e inabalável.",
+              "isCorrect": true,
+              "explanation": "Jesus declarou que edificar sobre Sua Palavra é como construir sobre rocha. Essa é a base de toda educação verdadeira."
+            },
+            {
+              "text": "As tradições e experiências acumuladas pela humanidade.",
+              "isCorrect": false,
+              "explanation": "Tradições humanas mudam e falham. Somente a Palavra de Deus é fundamento eterno e inabalável."
+            },
+            {
+              "text": "A autoridade dos grandes pensadores e filósofos cristãos.",
+              "isCorrect": false,
+              "explanation": "Pensadores humanos podem contribuir, mas o fundamento é a Palavra de Deus, não a filosofia humana."
+            }
+          ],
+          "verse": "Mateus 7:24,25",
+          "verseText": "\"Todo aquele que ouve estas minhas palavras e as pratica será comparado a um homem prudente que edificou a sua casa sobre a rocha.\" — Mateus 7:24"
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "title": "A Vida no Espírito",
+      "subtitle": "Vivendo pela força do Espírito Santo",
+      "thumbnailImage": "assets/images/chapters/vida.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Um jovem missionário foi enviado para uma região remota da África. Pouco após chegar, enfrentou inúmeras dificuldades: doenças, incompreensão cultural, solidão e perseguição. Escreveu para seu supervisor: \"Não sei se consigo. Estou no limite\". A resposta que recebeu foi: \"Não tente no limite de suas forças. Viva no limite da força de Deus\".\n\nEssa é a essência da vida no Espírito: reconhecer nossa fraqueza e depender da força que Deus oferece por meio do Espírito Santo.",
+      "questions": [
+        {
+          "question": "Quem é o Espírito Santo?",
+          "options": [
+            {
+              "text": "A terceira pessoa da Trindade, enviada por Jesus como Consolador.",
+              "isCorrect": true,
+              "explanation": "O Espírito Santo é uma pessoa divina, não uma força impessoal. Jesus prometeu enviá-Lo como Consolador e Guia."
+            },
+            {
+              "text": "Uma força espiritual impessoal que emana de Deus.",
+              "isCorrect": false,
+              "explanation": "O Espírito Santo é uma Pessoa da Trindade com atributos pessoais: ensina, consola, intercede e pode ser contristado."
+            },
+            {
+              "text": "Um anjo especial enviado para guiar cada cristão.",
+              "isCorrect": false,
+              "explanation": "O Espírito Santo não é um anjo, mas a terceira Pessoa da Trindade, coigual ao Pai e ao Filho."
+            }
+          ],
+          "verse": "João 14:16,17,26",
+          "verseText": "\"E eu rogarei ao Pai, e ele vos dará outro Consolador, para que fique convosco para sempre.\" — João 14:16"
+        },
+        {
+          "question": "Qual é a obra do Espírito Santo na vida do crente?",
+          "options": [
+            {
+              "text": "Guiar em toda a verdade, interceder e transformar o caráter.",
+              "isCorrect": true,
+              "explanation": "O Espírito Santo guia à verdade, intercede por nós em oração e produz transformação de caráter nos crentes."
+            },
+            {
+              "text": "Garantir prosperidade material e saúde física.",
+              "isCorrect": false,
+              "explanation": "A obra do Espírito é primariamente espiritual: transformação, guia e intercessão, não garantia de prosperidade material."
+            },
+            {
+              "text": "Proteger o crente de todo tipo de sofrimento.",
+              "isCorrect": false,
+              "explanation": "O Espírito consola no sofrimento, mas não o elimina. O cristão pode sofrer e ainda assim ser guiado pelo Espírito."
+            }
+          ],
+          "verse": "João 16:13; Romanos 8:14,26",
+          "verseText": "\"Quando vier o Espírito da verdade, ele vos guiará em toda a verdade.\" — João 16:13"
+        },
+        {
+          "question": "Como recebemos o Espírito Santo?",
+          "options": [
+            {
+              "text": "Pedindo a Deus com fé e obedecendo à Sua vontade.",
+              "isCorrect": true,
+              "explanation": "Jesus prometeu que o Pai daria o Espírito aos que pedem. A obediência também é condição listada em Atos 5:32."
+            },
+            {
+              "text": "Participando de rituais específicos da denominação.",
+              "isCorrect": false,
+              "explanation": "O Espírito Santo é dado por Deus mediante fé e obediência, não por rituais humanos específicos."
+            },
+            {
+              "text": "Somente por imposição de mãos de um líder ungido.",
+              "isCorrect": false,
+              "explanation": "Embora a imposição de mãos seja mencionada na Bíblia, o Espírito é dado soberanamente por Deus a quem pede e obedece."
+            }
+          ],
+          "verse": "Lucas 11:13; Atos 5:32",
+          "verseText": "\"Quão mais dará o Pai celestial o Espírito Santo àqueles que lho pedirem?\" — Lucas 11:13"
+        },
+        {
+          "question": "O que significa ser cheio do Espírito Santo?",
+          "options": [
+            {
+              "text": "Ser guiado e controlado continuamente pelo Espírito Santo.",
+              "isCorrect": true,
+              "explanation": "Ser cheio do Espírito significa estar sob Seu controle e direção em todas as áreas da vida."
+            },
+            {
+              "text": "Ter experiências emocionais intensas durante cultos.",
+              "isCorrect": false,
+              "explanation": "Ser cheio do Espírito não se resume a emoções em momentos de culto, mas a uma vida sob Sua direção constante."
+            },
+            {
+              "text": "Falar em línguas como evidência obrigatória.",
+              "isCorrect": false,
+              "explanation": "A Bíblia não exige o falar em línguas como única evidência de ser cheio do Espírito; os frutos do Espírito são a marca central."
+            }
+          ],
+          "verse": "Efésios 5:18; Gálatas 5:16",
+          "verseText": "\"Enchei-vos do Espírito.\" — Efésios 5:18"
+        },
+        {
+          "question": "Como podemos ser transformados para viver a vida cristã?",
+          "options": [
+            {
+              "text": "Rendendo-nos a Deus e sendo transformados pela renovação da mente.",
+              "isCorrect": true,
+              "explanation": "A transformação cristã vem pela rendição total a Deus e pela renovação da mente através da Palavra e do Espírito."
+            },
+            {
+              "text": "Esforçando-nos por conta própria para mudar nossos hábitos.",
+              "isCorrect": false,
+              "explanation": "A transformação cristã não vem do esforço humano, mas da obra do Espírito em resposta à nossa rendição a Deus."
+            },
+            {
+              "text": "Participando de programas de desenvolvimento pessoal cristão.",
+              "isCorrect": false,
+              "explanation": "Programas podem ajudar, mas a verdadeira transformação é obra do Espírito Santo, não de técnicas humanas."
+            }
+          ],
+          "verse": "Romanos 12:1,2",
+          "verseText": "\"Apresentai os vossos corpos em sacrifício vivo, santo e agradável a Deus... E não vos conformeis com este século, mas transformai-vos pela renovação do vosso entendimento.\" — Romanos 12:1-2"
+        }
+      ]
+    },
+    {
+      "id": "l27",
+      "title": "Um Ministério para Todos",
+      "subtitle": "Cada membro é um missionário",
+      "thumbnailImage": "assets/images/chapters/ministerio.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Em 1858, o evangelista D. L. Moody ouviu alguém dizer: \"O mundo ainda não viu o que Deus pode fazer com um homem totalmente entregue a Ele\". Moody respondeu para si mesmo: \"Serei esse homem\". Entregou-se completamente a Deus e tornou-se um dos maiores evangelistas da história, levando milhões de pessoas a Cristo.\n\nDeus não chama apenas pastores e evangelistas famosos. Ele chama cada um de nós. Todo cristão é um missionário. Todo crente tem um ministério. O que a Bíblia diz sobre isso?",
+      "questions": [
+        {
+          "question": "Que missão Jesus deixou a todos os Seus seguidores?",
+          "options": [
+            {
+              "text": "Ir por todo o mundo e pregar o evangelho a toda criatura.",
+              "isCorrect": true,
+              "explanation": "A Grande Comissão é dirigida a todos os seguidores de Cristo, não apenas ao clero. Cada crente é chamado a ser testemunha."
+            },
+            {
+              "text": "Apenas os pastores ordenados devem pregar o evangelho.",
+              "isCorrect": false,
+              "explanation": "Jesus disse \"ide vós\" a todos os discípulos, não apenas a líderes religiosos formais."
+            },
+            {
+              "text": "Aguardar em silêncio até Cristo voltar.",
+              "isCorrect": false,
+              "explanation": "A espera pela volta de Cristo deve ser ativa, não passiva. Os crentes são chamados a trabalhar até Ele voltar."
+            }
+          ],
+          "verse": "Mateus 28:19,20; Marcos 16:15",
+          "verseText": "\"E disse-lhes: Ide por todo o mundo, pregai o evangelho a toda criatura.\" — Marcos 16:15"
+        },
+        {
+          "question": "Como cada membro pode participar da missão?",
+          "options": [
+            {
+              "text": "Sendo sacerdote real, anunciando as virtudes de Deus com seus dons.",
+              "isCorrect": true,
+              "explanation": "Pedro declara que todos os crentes são sacerdotes, chamados a anunciar Deus. Cada um tem dons para contribuir."
+            },
+            {
+              "text": "Apenas contribuindo financeiramente para os missionários profissionais.",
+              "isCorrect": false,
+              "explanation": "O apoio financeiro é importante, mas não substitui o testemunho pessoal que todo crente deve oferecer."
+            },
+            {
+              "text": "Apenas participando dos cultos na igreja local.",
+              "isCorrect": false,
+              "explanation": "A missão vai além das paredes da igreja. O crente é chamado a ser testemunha em todos os ambientes da vida."
+            }
+          ],
+          "verse": "1 Pedro 2:9; 1 Coríntios 12:7",
+          "verseText": "\"Mas vós sois a geração eleita, o sacerdócio real, a nação santa, o povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz.\" — 1 Pedro 2:9"
+        },
+        {
+          "question": "Qual é o papel dos dons espirituais na missão da Igreja?",
+          "options": [
+            {
+              "text": "Cada dom é dado para edificar o corpo e avançar a missão.",
+              "isCorrect": true,
+              "explanation": "Os dons espirituais são dados pelo Espírito Santo para que cada membro contribua para a edificação da Igreja e a missão evangelizadora."
+            },
+            {
+              "text": "Os dons são apenas para o benefício pessoal do crente.",
+              "isCorrect": false,
+              "explanation": "Paulo ensina que os dons são para o proveito de todos, não apenas do indivíduo que os recebeu."
+            },
+            {
+              "text": "Apenas os líderes recebem dons espirituais da Igreja.",
+              "isCorrect": false,
+              "explanation": "O Espírito Santo distribui dons a cada membro do corpo, não apenas a líderes ou pastores."
+            }
+          ],
+          "verse": "1 Coríntios 12:4-7; Efésios 4:12",
+          "verseText": "\"A cada um, porém, é dada a manifestação do Espírito para o proveito de todos.\" — 1 Coríntios 12:7"
+        },
+        {
+          "question": "Como o testemunho pessoal pode impactar outras pessoas?",
+          "options": [
+            {
+              "text": "Um testemunho simples e genuíno pode levar muitos a Cristo.",
+              "isCorrect": true,
+              "explanation": "A samaritana, após encontrar Jesus, compartilhou sua experiência e muitos creram. Um testemunho pessoal tem grande poder."
+            },
+            {
+              "text": "Apenas grandes pregadores têm impacto real na missão.",
+              "isCorrect": false,
+              "explanation": "A mulher samaritana não era pregadora, mas seu simples testemunho levou toda uma cidade a conhecer Jesus."
+            },
+            {
+              "text": "O testemunho só funciona com argumentos teológicos elaborados.",
+              "isCorrect": false,
+              "explanation": "O testemunho mais poderoso é a experiência pessoal com Cristo, expressa de forma simples e sincera."
+            }
+          ],
+          "verse": "João 4:28-30,39",
+          "verseText": "\"E muitos samaritanos daquela cidade creram nele, por causa da palavra da mulher.\" — João 4:39"
+        },
+        {
+          "question": "Qual promessa Jesus deu aos que O seguem e testemunham por Ele?",
+          "options": [
+            {
+              "text": "O poder do Espírito Santo e a presença de Cristo até o fim.",
+              "isCorrect": true,
+              "explanation": "Jesus prometeu estar sempre com os Seus até o fim do século, e enviar o poder do Espírito para a missão."
+            },
+            {
+              "text": "Riqueza e fama mundana como recompensa pelo testemunho.",
+              "isCorrect": false,
+              "explanation": "Jesus não prometeu prosperidade material, mas Sua presença e o poder do Espírito para a missão."
+            },
+            {
+              "text": "Que nunca enfrentariam dificuldades ou perseguições.",
+              "isCorrect": false,
+              "explanation": "Jesus prometeu tribulações, mas também Sua presença e o poder do Espírito para perseverarmos até o fim."
+            }
+          ],
+          "verse": "Mateus 28:20; Atos 1:8",
+          "verseText": "\"Mas recebereis o poder do Espírito Santo, que há de vir sobre vós; e ser-me-eis testemunhas.\" — Atos 1:8"
+        },
+        {
+          "question": "Como você pode responder ao chamado de Deus hoje?",
+          "options": [
+            {
+              "text": "Dizendo \"Eis-me aqui, envia-me\" e se entregando à vontade de Deus.",
+              "isCorrect": true,
+              "explanation": "A resposta de Isaías ao chamado de Deus é o modelo para cada cristão: disponibilidade total e entrega à missão divina."
+            },
+            {
+              "text": "Esperando por uma visão sobrenatural para confirmar o chamado.",
+              "isCorrect": false,
+              "explanation": "Deus já chamou a todos em Sua Palavra. Não precisamos de visões extraordinárias para responder ao chamado."
+            },
+            {
+              "text": "Aguardando sentir-se suficientemente preparado antes de agir.",
+              "isCorrect": false,
+              "explanation": "A disponibilidade vem antes da capacitação. Deus capacita os que se entregam a Ele com fé e disposição."
+            }
+          ],
+          "verse": "Isaías 6:8",
+          "verseText": "\"Depois ouvi a voz do Senhor que dizia: A quem enviarei, e quem há de ir por nós? Então disse eu: Eis-me aqui, envia-me a mim.\" — Isaías 6:8"
+        }
+      ]
+    }
+  ],
+  "file": "ouvindo.json"
+}
