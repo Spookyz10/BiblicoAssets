@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ouvindo",
+    "title": "Ouvindo a Voz de Deus",
+    "subtitle": "Estudo Bíblico",
+    "iconEmoji": "📖",
+    "coverImage": "assets/images/books/ouvindo_capa.jpg",
+    "headerImage": "assets/images/topcovers/ouvindo2.jpg",
+    "description": "Este estudo ajuda você a entender como Deus fala com as pessoas hoje. Através de 27 lições aprofundadas, você irá descobrir como a Bíblia, a oração e o Espírito Santo nos guiam no caminho da salvação e da vida eterna.",
+    "chapterCount": 27,
+    "primaryColor": "#C9A84C",
+    "secondaryColor": "#FFF8E7",
+    "file": "ouvindo.json"
+  },
+  {
+    "id": "apocalipse",
+    "title": "Apocalipse: Revelações de Esperança",
+    "subtitle": "Estudo Profético",
+    "iconEmoji": "📜",
+    "coverImage": "assets/images/books/apocalipse_capa.png",
+    "headerImage": "assets/images/topcovers/apocalipse_cover.png",
+    "description": "O Apocalipse não significa tragédias e catástrofes, como muitos imaginam, mas a revelação de Jesus Cristo para o fim dos tempos. Neste estudo de 20 lições, você descobrirá os acontecimentos decisivos da história do planeta sob a perspectiva de Deus, com esperança e certeza da vitória final.",
+    "chapterCount": 21,
+    "primaryColor": "#1A3A5C",
+    "secondaryColor": "#E8F4FD",
+    "file": "apocalipse.json"
+  }
+]
