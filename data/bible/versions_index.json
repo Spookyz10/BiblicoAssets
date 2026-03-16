@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ARA",
+    "name": "Almeida Revista e Atualizada",
+    "file": "ARA.json"
+  },
+  {
+    "id": "NVI",
+    "name": "Nova Versão Internacional",
+    "file": "NVI.json"
+  }
+]
