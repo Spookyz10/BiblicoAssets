@@ -1037,8 +1037,7 @@
           "verseText": "\"O Senhor não retarda a sua promessa, ainda que alguns a têm por tardança; mas é longânimo para conosco, não querendo que nenhum pereça, senão que todos se convertam ao arrependimento.\" — 2 Pedro 3:9"
         }
       ]
-    }
-    ,
+    },
     {
       "id": "l7",
       "title": "A Volta de Cristo",
@@ -1956,8 +1955,7 @@
           "verseText": "\"E o santuário de Deus que está no céu foi aberto, e a arca da sua aliança foi vista no seu santuário.\" — Apocalipse 11:19"
         }
       ]
-    }
-    ,
+    },
     {
       "id": "l13",
       "title": "O Juízo",
@@ -3005,6 +3003,1351 @@
           ],
           "verse": "3 João 2; Êxodo 15:26",
           "verseText": "\"Amado, peço a Deus que sejas próspero em tudo, e que tenhas saúde, assim como bem vai a tua alma.\" — 3 João 2"
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "title": "O Dom de Profecia",
+      "subtitle": "A voz de Deus por meio dos profetas",
+      "thumbnailImage": "assets/images/chapters/profecia.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Antes da entrada do pecado no mundo, Deus e o homem se comunicavam face a face. Tendo caído em pecado, o ser humano perdeu esse privilégio, mas Deus não desistiu de manter contato com Seus filhos. Há muitas maneiras através das quais Ele fala. Uma delas é o ministério profético.\n\nO profeta Amós disse: \"Certamente, o Senhor Deus não fará coisa alguma, sem primeiro revelar o Seu segredo aos Seus servos, os profetas\" (Am 3:7). Profetas são porta-vozes de Deus, especialmente dotados pelo Espírito Santo para essa tarefa. De acordo com a Bíblia, esse dom seria visto na igreja de Deus nos últimos dias.",
+      "questions": [
+        {
+          "question": "Qual, diz a Bíblia, seria um dos sinais do fim?",
+          "options": [
+            {
+              "text": "Falsos cristos e falsos profetas que enganariam através de sinais e prodígios",
+              "isCorrect": true,
+              "explanation": "No contexto do versículo, um falso profeta é representante de um falso messias. Os sinais e prodígios realizados pelos falsos cristos e falsos profetas não são operados pelo poder de Deus. Os eleitos, aqueles que amam e servem a Deus com sinceridade, serão capazes de distinguir entre o verdadeiro e o falso dom de profecia para não serem enganados."
+            },
+            {
+              "text": "O desaparecimento completo de profetas e visões na igreja",
+              "isCorrect": false,
+              "explanation": "O sinal descrito por Jesus em Mateus 24:24 não é a ausência de profecia, mas a proliferação de falsos profetas. A Bíblia prevê tanto falsos profetas nos últimos dias quanto o verdadeiro dom de profecia na igreja remanescente (Ap 12:17; 19:10)."
+            },
+            {
+              "text": "O surgimento de profetas que confirmarão todas as tradições religiosas",
+              "isCorrect": false,
+              "explanation": "Os falsos profetas dos últimos dias enganam por meio de sinais e prodígios, não confirmando a Palavra de Deus. O verdadeiro dom de profecia sempre aponta para a fidelidade às Escrituras e à lei de Deus."
+            }
+          ],
+          "verse": "Mateus 24:24",
+          "verseText": "\"Porque surgirão falsos cristos e falsos profetas, e farão grandes sinais e prodígios, para enganar, se possível, até os escolhidos.\" — Mateus 24:24"
+        },
+        {
+          "question": "Como saber se um profeta é verdadeiro ou falso?",
+          "options": [
+            {
+              "text": "Devemos provar, comprovando pelo ensino de toda a Escritura",
+              "isCorrect": true,
+              "explanation": "O dom de profecia deve ser comprovado por meio do ensino de toda a Escritura (Is 8:20; At 17:11). O profeta verdadeiro promove fidelidade à Palavra de Deus, repreende pecados individuais e do povo em geral (1Rs 18:18), promove reformas espirituais e instrui sobre o plano da salvação."
+            },
+            {
+              "text": "Pelo número de seguidores e pela popularidade do ministério",
+              "isCorrect": false,
+              "explanation": "Jesus advertiu que falsos profetas podem ter multidões de seguidores (Mt 7:22-23). A popularidade não é critério bíblico. O teste é a conformidade com toda a Escritura e a lei de Deus (Is 8:20)."
+            },
+            {
+              "text": "Pela intensidade dos fenômenos físicos que acompanham suas visões",
+              "isCorrect": false,
+              "explanation": "Somente a presença de fenômenos físicos não é prova suficiente do verdadeiro dom de profecia, pois Satanás também opera sinais (Êx 7:9-12). O verdadeiro profeta deve apresentar todas as cinco características bíblicas."
+            }
+          ],
+          "verse": "1 João 4:1",
+          "verseText": "\"Amados, não creiais a qualquer espírito, mas provai se os espíritos são de Deus; porque muitos falsos profetas saíram pelo mundo.\" — 1 João 4:1"
+        },
+        {
+          "question": "Quais são as cinco características de um profeta verdadeiro?",
+          "options": [
+            {
+              "text": "Aceita a encarnação de Cristo; manifesta bons frutos; suas predições se cumprem; vive em conformidade com a Bíblia e a lei de Deus; suas visões são acompanhadas de fenômenos físicos",
+              "isCorrect": true,
+              "explanation": "Muitos que se autodenominam profetas de Deus na atualidade não possuem todas as características necessárias. O profeta deve obedecer as Escrituras e suas predições devem se cumprir. Somente fenômenos físicos não são prova suficiente, pois Satanás também opera sinais. O verdadeiro profeta deve apresentar todas as cinco características."
+            },
+            {
+              "text": "Realizar milagres visíveis; ter revelações novas; fundar igrejas; ter visões frequentes; prever o futuro",
+              "isCorrect": false,
+              "explanation": "Esses não são os critérios bíblicos. A Bíblia avalia o profeta pela conformidade com as Escrituras, pelos frutos, pelo cumprimento das predições, pela aceitação da encarnação de Cristo e pelos fenômenos físicos nas visões — não pela quantidade de milagres ou revelações novas."
+            },
+            {
+              "text": "Ser reconhecido por líderes religiosos; ter grande audiência; nunca errar; falar em línguas; curar enfermos",
+              "isCorrect": false,
+              "explanation": "O reconhecimento humano e os dons de línguas ou curas não são os critérios do profeta verdadeiro segundo a Bíblia. Jesus alertou que muitos que realizavam milagres seriam rejeitados por Ele (Mt 7:22-23). O critério é a fidelidade à Palavra de Deus."
+            }
+          ],
+          "verse": "1 João 4:2; Mateus 7:15-23; Deuteronômio 18:21-22; Isaías 8:19-20; Daniel 10:7-10",
+          "verseText": "\"Todo espírito que confessa que Jesus Cristo veio em carne é de Deus.\" — 1 João 4:2"
+        },
+        {
+          "question": "Que mulheres tiveram o dom de profecia na Bíblia?",
+          "options": [
+            {
+              "text": "Miriã, Débora, Ana e as quatro filhas de Filipe",
+              "isCorrect": true,
+              "explanation": "No decorrer da história cristã outras mulheres também receberam o dom profético, como Hulda (2Rs 22:14) e a esposa de Isaías (Is 8:3). O verbo 'profetizar' significa 'proclamar', 'ser porta-voz', falar em nome de Deus. Todos os profetas e profetisas verdadeiramente escolhidos por Deus desenvolveram profundo amor pelo Senhor e tinham vida piedosa."
+            },
+            {
+              "text": "Maria, Marta, Priscila e Lídia",
+              "isCorrect": false,
+              "explanation": "A Bíblia lista como profetisas: Miriã (Êx 15:20), Débora (Jz 4:4), Ana (Lc 2:36) e as quatro filhas de Filipe (At 21:8-9). Maria, Marta, Priscila e Lídia foram importantes no ministério cristão, mas não são especificamente registradas como profetisas nesses textos."
+            },
+            {
+              "text": "A Bíblia nunca menciona mulheres com o dom de profecia",
+              "isCorrect": false,
+              "explanation": "A Bíblia registra claramente mulheres com o dom de profecia: Miriã (Êx 15:20), Débora (Jz 4:4), Hulda (2Rs 22:14), Ana (Lc 2:36) e as quatro filhas de Filipe (At 21:8-9). Joel 2:28 também profetizou que filhas profetizariam."
+            }
+          ],
+          "verse": "Êxodo 15:20; Juízes 4:4; Lucas 2:36; Atos 21:8-9",
+          "verseText": "\"E esse tinha quatro filhas virgens que profetizavam.\" — Atos 21:9"
+        },
+        {
+          "question": "Que igreja teria o verdadeiro dom de profecia nos últimos dias?",
+          "options": [
+            {
+              "text": "A que guarda os mandamentos de Deus e tem o testemunho de Jesus",
+              "isCorrect": true,
+              "explanation": "Nos últimos dias, o verdadeiro dom de profecia seria visto dentro da igreja que segue os mandamentos de Deus. Esse testemunho se origina com Jesus e é revelado à Sua igreja por meio dos profetas. A definição do termo 'testemunho de Jesus' é o espírito de profecia, que significa que Jesus dá testemunho ou segurança à igreja por meio das profecias."
+            },
+            {
+              "text": "A maior denominação cristã do mundo em número de membros",
+              "isCorrect": false,
+              "explanation": "O tamanho da denominação não é o critério bíblico. Apocalipse 12:17 e 19:10 identificam a igreja com o dom de profecia como aquela que guarda os mandamentos de Deus e tem o testemunho de Jesus — critérios doutrinais e espirituais, não numéricos."
+            },
+            {
+              "text": "Qualquer igreja que afirmar ter profetas reconhecidos pela comunidade",
+              "isCorrect": false,
+              "explanation": "O autoafirmação ou reconhecimento comunitário não bastam. A Bíblia define a igreja que teria o dom de profecia pelos critérios de guardar os mandamentos de Deus e ter o testemunho de Jesus Cristo (Ap 12:17; 19:10)."
+            }
+          ],
+          "verse": "Apocalipse 12:17; 19:10",
+          "verseText": "\"O testemunho de Jesus é o espírito de profecia.\" — Apocalipse 19:10"
+        },
+        {
+          "question": "Por que os adventistas aceitam o dom de profecia manifestado através de Ellen G. White?",
+          "options": [
+            {
+              "text": "Porque seus ensinos são fundamentados na Bíblia, ela exalta Cristo, suas profecias se cumpriram, seus frutos são positivos e sua vida estava em conformidade com a Bíblia e a lei de Deus",
+              "isCorrect": true,
+              "explanation": "Todas as características do dom de profecia estão presentes na pessoa de Ellen G. White. A sua ideologia sobre a Bíblia é equilibrada e nos ajuda a aplicar as verdades do evangelho em nossa vida. Há evidências de que ela apresentou alterações comportamentais durante suas visões. Várias testemunhas oculares podem descrever o que acontecia durante as visões."
+            },
+            {
+              "text": "Porque foi votada por unanimidade em um concílio da denominação",
+              "isCorrect": false,
+              "explanation": "A aceitação do dom de profecia de Ellen G. White não se baseia em votação denominacional, mas nos critérios bíblicos que sua vida e ministério atendem: conformidade com as Escrituras, frutos positivos, cumprimento de predições, exaltação de Cristo e vida em harmonia com a lei de Deus."
+            },
+            {
+              "text": "Apenas porque foi fundadora da Igreja Adventista do Sétimo Dia",
+              "isCorrect": false,
+              "explanation": "Ellen G. White não fundou a Igreja Adventista, e seu ministério não é aceito com base em status fundacional, mas porque atende a todos os critérios bíblicos de avaliação profética listados nas Escrituras."
+            }
+          ],
+          "verse": "2 Crônicas 20:20; 1 Tessalonicenses 5:20",
+          "verseText": "\"Crede no Senhor vosso Deus, e estareis seguros; crede nos seus profetas, e prosperareis.\" — 2 Crônicas 20:20"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "title": "O Dízimo",
+      "subtitle": "A fidelidade na mordomia de Deus",
+      "thumbnailImage": "assets/images/chapters/dizimo.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Deus é o Criador e Mantenedor do Universo. De Suas mãos recebemos todas as provisões para a nossa sobrevivência material. Em Seu amor, e no processo de nos ajudar a desenvolver as virtudes de Seu caráter, tais como fidelidade e altruísmo, Ele nos fez administradores de Suas riquezas.\n\nE, numa sociedade singular, requer que Lhe devolvamos 10% dos bens que põe em nossas mãos, deixando a nosso encargo a administração sábia, judiciosa e fiel dos restantes 90%. Como a Bíblia ensina, essa parceria nos rende eternos dividendos.",
+      "questions": [
+        {
+          "question": "Como Deus manifestou Seu amor por nós?",
+          "options": [
+            {
+              "text": "Entregando-Se a nós na pessoa do Seu Filho Jesus Cristo",
+              "isCorrect": true,
+              "explanation": "Antes de falar sobre mordomia cristã, é importante saber que tudo o que temos ou somos provém da misericórdia do Senhor. Ele demonstra Seu amor através da entrega de Si mesmo, na pessoa do Seu Filho Jesus Cristo. Seu amor é o principal motivo de sermos liberais sobre o que recebemos, porque Ele compartilhou conosco o dom mais precioso: Seu Filho."
+            },
+            {
+              "text": "Dando-nos prosperidade material como sinal de aprovação",
+              "isCorrect": false,
+              "explanation": "O amor de Deus se manifesta principalmente na entrega de Seu Filho (Jo 3:16; 1Jo 4:9), não em prosperidade material. A mordomia cristã flui do reconhecimento desse amor supremo, não da expectativa de bênçãos materiais."
+            },
+            {
+              "text": "Castigando-nos para nos corrigir e moldar o caráter",
+              "isCorrect": false,
+              "explanation": "1 João 4:9 mostra o amor de Deus através da entrega de Si mesmo. Embora a disciplina possa ser uma expressão do amor divino, a manifestação central do amor de Deus é o sacrifício de Seu Filho pela nossa salvação."
+            }
+          ],
+          "verse": "1 João 4:9",
+          "verseText": "\"Nisto se manifestou o amor de Deus para conosco: que Deus enviou seu Filho unigênito ao mundo, para que vivamos por ele.\" — 1 João 4:9"
+        },
+        {
+          "question": "O que Deus fez por Seus filhos?",
+          "options": [
+            {
+              "text": "Dá-lhes forças para adquirirem riquezas",
+              "isCorrect": true,
+              "explanation": "Muitos argumentam que as riquezas são resultado direto de seu trabalho. No entanto, deixam de perceber que sem a dádiva de Deus da vida e da força, nada poderiam fazer. Portanto, o que eles ganham na verdade pertence a Deus por direito. Ele é a fonte de toda capacidade e oportunidade."
+            },
+            {
+              "text": "Garante riquezas automáticas a todos os que o adoram",
+              "isCorrect": false,
+              "explanation": "Deus não garante riqueza automática. O que Deuteronômio 8:17-18 ensina é que toda capacidade de gerar riqueza vem de Deus. A responsabilidade do trabalho é do ser humano; a fonte da capacidade é divina."
+            },
+            {
+              "text": "Divide igualmente as riquezas do mundo entre todos os seres humanos",
+              "isCorrect": false,
+              "explanation": "A Bíblia não ensina distribuição igualitária automática de riquezas. O que ela ensina é que Deus dá capacidade para adquirir riquezas e que somos mordomos, não donos, do que recebemos."
+            }
+          ],
+          "verse": "Deuteronômio 8:17-18",
+          "verseText": "\"Lembra-te do Senhor teu Deus, porque é ele quem te dá força para adquirires riqueza.\" — Deuteronômio 8:18"
+        },
+        {
+          "question": "Por que razão possui Deus direito sobre nós e nossos bens?",
+          "options": [
+            {
+              "text": "Porque é o Criador, o Mantenedor e o Redentor",
+              "isCorrect": true,
+              "explanation": "Na criação, Deus compartilhou Suas possessões com a humanidade e continua a ser o verdadeiro Dono do mundo, seus habitantes e seus bens. Mais que qualquer outra coisa, a vida cristã significa entrega: dar a nós mesmos e aceitarmos a Cristo. Ao compreender como Jesus Se ofereceu por nós, perguntaremos: 'Que posso fazer por Ti?'"
+            },
+            {
+              "text": "Apenas porque é o Criador; após a queda, o ser humano recuperou a posse de tudo",
+              "isCorrect": false,
+              "explanation": "Salmo 24:1 declara: 'Do Senhor é a terra e a sua plenitude.' Isso não é limitado à criação. Deus continua sendo o Criador, Mantenedor e Redentor — três razões pelas quais temos obrigação de honrá-Lo com o que temos."
+            },
+            {
+              "text": "Não tem direito; o trabalho humano cria propriedade exclusiva do trabalhador",
+              "isCorrect": false,
+              "explanation": "Salmo 50:10-11 afirma que todos os animais da floresta e os mil gados nas colinas são de Deus. Sem a vida, a força e as oportunidades que Deus provê, nenhum trabalho seria possível. Somos mordomos, não donos."
+            }
+          ],
+          "verse": "Gênesis 1:1; Salmo 24:1; 50:10-11",
+          "verseText": "\"Do Senhor é a terra e a sua plenitude, o mundo e os que nele habitam.\" — Salmo 24:1"
+        },
+        {
+          "question": "Que percentual de nossas rendas Deus reservou para que Lhe devolvêssemos como ato de adoração?",
+          "options": [
+            {
+              "text": "10%",
+              "isCorrect": true,
+              "explanation": "Os adventistas adotaram o modelo bíblico levítico como método para financiar a propagação mundial do evangelho. Deus estipulou que 10% da renda fosse devolvida como dízimo, num ato de adoração e reconhecimento de que tudo vem das mãos dEle. As ofertas não têm percentual determinado e são doadas em gratidão pelas bênçãos recebidas."
+            },
+            {
+              "text": "5%",
+              "isCorrect": false,
+              "explanation": "Levítico 27:30 é claro: a décima parte — 10% — pertence ao Senhor. O dízimo significa literalmente 'décima parte'. Qualquer percentual inferior ao estabelecido por Deus não constitui a devolução fiel do dízimo."
+            },
+            {
+              "text": "Qualquer valor que a pessoa quiser dar",
+              "isCorrect": false,
+              "explanation": "O dízimo tem percentual fixo determinado por Deus: 10%. A liberdade de percentual aplica-se às ofertas (além do dízimo), que são voluntárias e proporcionais às bênçãos recebidas. O dízimo é uma obrigação espiritual com valor definido."
+            }
+          ],
+          "verse": "Levítico 27:30",
+          "verseText": "\"Todos os dízimos da terra, tanto das sementes da terra como dos frutos das árvores, são do Senhor.\" — Levítico 27:30"
+        },
+        {
+          "question": "Qual é o destino dos dízimos?",
+          "options": [
+            {
+              "text": "Para a manutenção dos que pregam o evangelho",
+              "isCorrect": true,
+              "explanation": "Os levitas não possuíam terra nem trabalhavam em troca de salário. Eram ministros do povo em tempo integral. Sua renda derivava do dízimo. O dízimo deve ser usado para a manutenção do ministério e para a pregação do evangelho: 'Assim ordenou também o Senhor aos que pregam o evangelho que vivam do evangelho' (1Co 9:14)."
+            },
+            {
+              "text": "Para obras sociais e ajuda humanitária exclusivamente",
+              "isCorrect": false,
+              "explanation": "Números 18:21 e 1 Coríntios 9:14 são claros: o dízimo é para a manutenção dos ministros que pregam o evangelho. Obras sociais e ajuda humanitária são sustentadas pelas ofertas, não pelo dízimo."
+            },
+            {
+              "text": "Para construção de templos e instalações da igreja local",
+              "isCorrect": false,
+              "explanation": "A construção e manutenção de templos é financiada pelas ofertas, não pelo dízimo. O dízimo é destinado especificamente ao sustento dos ministros do evangelho, conforme o modelo levítico bíblico (Nm 18:21)."
+            }
+          ],
+          "verse": "Números 18:21; 1 Coríntios 9:14; Malaquias 3:10",
+          "verseText": "\"Assim ordenou também o Senhor aos que pregam o evangelho que vivam do evangelho.\" — 1 Coríntios 9:14"
+        },
+        {
+          "question": "O que Deus diz daqueles que retêm os dízimos e ofertas?",
+          "options": [
+            {
+              "text": "Reprova sua atitude; reter o dízimo é considerado um roubo a Deus",
+              "isCorrect": true,
+              "explanation": "Devemos entender que somos apenas mordomos daquilo que Ele nos concede. Reter o que Deus ordenou que fosse devolvido é considerado um roubo a Deus. Malaquias 3:8 pergunta diretamente: 'Roubará o homem a Deus?'"
+            },
+            {
+              "text": "Aceita suas desculpas e entende as dificuldades financeiras",
+              "isCorrect": false,
+              "explanation": "Malaquias 3:8-9 não apresenta aceitação de desculpas, mas um desafio direto de Deus ao povo que retinha os dízimos. Deus é claro ao classificar essa atitude como roubo."
+            },
+            {
+              "text": "Não diz nada; é uma questão individual de consciência",
+              "isCorrect": false,
+              "explanation": "Deus não fica em silêncio sobre esse assunto. Malaquias 3:8-9 registra a reprovação direta de Deus: 'Roubareis a Deus? Todavia me roubais.' A fidelidade nos dízimos é um assunto que Deus trata abertamente em Sua Palavra."
+            }
+          ],
+          "verse": "Malaquias 3:8; Ageu 1:6",
+          "verseText": "\"Roubará o homem a Deus? Todavia me roubais. E dizeis: Em que te roubamos? Nos dízimos e nas ofertas.\" — Malaquias 3:8"
+        },
+        {
+          "question": "Que promessas Deus faz aos que fielmente Lhe devolvem o dízimo?",
+          "options": [
+            {
+              "text": "Abrir as janelas dos céus e derramar bênçãos sem medida",
+              "isCorrect": true,
+              "explanation": "É importante lembrar que a motivação para devolução do dízimo não é conseguir bênçãos, mas expressar amor e prestar adoração a Ele como nosso Criador e Mantenedor. A fidelidade fortalece a fé, desenvolve generosidade e abre portas à prosperidade espiritual e material. Os dízimos são as primícias — nossa primeira responsabilidade quando recebemos nossa renda."
+            },
+            {
+              "text": "Garantir que nunca mais passaremos por dificuldades financeiras",
+              "isCorrect": false,
+              "explanation": "A promessa de Deus não é a ausência total de dificuldades, mas a abertura das janelas do céu com bênçãos. A motivação correta para dizimar não é a garantia de prosperidade automática, mas o amor e a adoração a Deus como Criador e Mantenedor."
+            },
+            {
+              "text": "Multiplicar o dízimo devolvido e depositá-lo em conta bancária",
+              "isCorrect": false,
+              "explanation": "Malaquias 3:10-12 fala de bênçãos espirituais e materiais de forma abrangente, não de multiplicação literal do valor devolvido. A promessa é de provisão divina segundo as necessidades de cada filho fiel."
+            }
+          ],
+          "verse": "Provérbios 3:9-10; Malaquias 3:10-12",
+          "verseText": "\"Trazei todos os dízimos à casa do tesouro... e vede se não vos abrirei as janelas do céu e não derramarei sobre vós bênção sem medida.\" — Malaquias 3:10"
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "title": "Ofertar, um Ato de Adoração",
+      "subtitle": "O coração generoso e grato",
+      "thumbnailImage": "assets/images/chapters/dizimo.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "No estudo anterior, aprendemos que o dízimo pertence a Deus. Ele o requer, e devolvê-lo nada mais é que dever de todos nós. Mas, precisamos ir além do dever, em nosso aprendizado de altruísmo e na busca da semelhança com Aquele que Se deu voluntariamente para nossa salvação.\n\nO cristão deve ser generoso e agradecido, diante das bênçãos que recebe das mãos de Deus. Ofertar é um dos modos mais expressivos desses sentimentos. E a Bíblia nos ensina a ofertar, também como ato de adoração.",
+      "questions": [
+        {
+          "question": "Que reconhecimento a pessoa demonstra ao ofertar a Deus?",
+          "options": [
+            {
+              "text": "Reconhece que tudo vem de Deus e de Suas mãos lhe é dado",
+              "isCorrect": true,
+              "explanation": "Ofertar representa nossa dependência de Deus e, acima de tudo, nossa fidelidade às orientações dEle. A pessoa também reconhece que os bens não são mais importantes que a vida e que o poder de consumo deve ser subjugado ao poder de Deus."
+            },
+            {
+              "text": "Demonstra que tem dinheiro sobrando e pode ser generosa",
+              "isCorrect": false,
+              "explanation": "A oferta não é demonstração de abundância material. Os macedônios ofertaram da 'grande aflição e profunda pobreza' (2Co 8:2). A motivação é o amor e o reconhecimento de que tudo vem de Deus, não a sobra financeira."
+            },
+            {
+              "text": "Garante uma posição de destaque e reconhecimento na comunidade de fé",
+              "isCorrect": false,
+              "explanation": "A motivação bíblica para ofertar é o amor a Deus e a Sua causa (1Co 13:1-3), não o reconhecimento social. Jesus condenou aqueles que ofertavam para serem vistos pelos homens (Mt 6:2)."
+            }
+          ],
+          "verse": "Deuteronômio 16:16; 1 Crônicas 29:13-14",
+          "verseText": "\"Porque tudo vem de ti, e das tuas mãos to temos dado.\" — 1 Crônicas 29:14"
+        },
+        {
+          "question": "Em que nível de importância a Bíblia coloca dízimos e ofertas como elementos de adoração?",
+          "options": [
+            {
+              "text": "No mesmo nível de importância",
+              "isCorrect": true,
+              "explanation": "Dízimos e ofertas têm sentidos diferentes, mas são complementares e estão em pé de igualdade como atos de adoração. O dízimo deve ser compreendido como uma obrigação espiritual recomendada para adoração, e oferta deve ser entendida como uma atitude abnegada voluntária também recomendada para adoração."
+            },
+            {
+              "text": "O dízimo é obrigatório; as ofertas são opcionais e secundárias",
+              "isCorrect": false,
+              "explanation": "Malaquias 3:8 menciona dízimos e ofertas no mesmo versículo, ao descrever o que o povo retinha de Deus. Embora o dízimo seja obrigatório (10% fixo) e a oferta seja voluntária em percentual, ambos são igualmente importantes como atos de adoração."
+            },
+            {
+              "text": "As ofertas são mais importantes porque são voluntárias e demonstram amor genuíno",
+              "isCorrect": false,
+              "explanation": "A Bíblia não hierarquiza dízimos e ofertas dessa forma. Malaquias 3:8 os coloca em pé de igualdade. Ambos são expressões de adoração e fidelidade; nenhum substitui ou supera o outro."
+            }
+          ],
+          "verse": "Malaquias 3:8",
+          "verseText": "\"Roubais a Deus... nos dízimos e nas ofertas.\" — Malaquias 3:8"
+        },
+        {
+          "question": "Quais são os critérios bíblicos para a separação das ofertas?",
+          "options": [
+            {
+              "text": "Individual e voluntária; planejada; regular e sistemática; proporcional às bênçãos recebidas",
+              "isCorrect": true,
+              "explanation": "Como critério para adoração, as ofertas devem ser individuais e voluntárias em sua essência. A oferta deve ser, acima de tudo, a demonstração voluntária de nosso amor pelas coisas de Deus e pelos semelhantes."
+            },
+            {
+              "text": "Em valor fixo; igual para todos os membros; apenas em dinheiro; apenas em campanhas especiais",
+              "isCorrect": false,
+              "explanation": "A Bíblia estabelece que a oferta deve ser proporcional às bênçãos recebidas (Dt 16:17), não um valor fixo igual para todos. Cada um oferta conforme a bênção recebida, de forma individual e voluntária."
+            },
+            {
+              "text": "Apenas quando há excedente financeiro; sem periodicidade definida",
+              "isCorrect": false,
+              "explanation": "1 Coríntios 16:2 establece a regularidade: 'no primeiro dia da semana, cada um de vós ponha de lado o que puder'. A oferta deve ser sistemática e planejada, não esporádica e condicionada ao excedente."
+            }
+          ],
+          "verse": "Deuteronômio 16:17; 1 Coríntios 16:2; 2 Coríntios 9:5",
+          "verseText": "\"Cada um dará segundo puder, conforme a bênção do Senhor teu Deus que te houver dado.\" — Deuteronômio 16:17"
+        },
+        {
+          "question": "Antes de adorar a Deus com a devolução fiel dos dízimos e ofertas, o que devemos entregar-Lhe?",
+          "options": [
+            {
+              "text": "Nós mesmos, como fizeram os cristãos macedônios",
+              "isCorrect": true,
+              "explanation": "Os cristãos macedônios, em primeiro lugar, entregaram-se a si mesmos ao Senhor. Por isso, ofertavam com alegria e generosidade, resultando em superabundância na fé e na palavra (2Co 8:2,7). A doação de si mesmo é o que Deus mais deseja. Dinheiro não salva; por isso, o nosso Pai estabeleceu orientações financeiras."
+            },
+            {
+              "text": "Um pedido formal de bênção antes de cada devolução",
+              "isCorrect": false,
+              "explanation": "2 Coríntios 8:5 não fala de um ritual ou pedido formal, mas de uma entrega pessoal e total ao Senhor. Os macedônios primeiro se deram a Deus, e a generosidade financeira foi consequência natural dessa entrega total."
+            },
+            {
+              "text": "Uma promessa de fidelidade para o próximo ano",
+              "isCorrect": false,
+              "explanation": "A entrega que Deus mais deseja é a de nós mesmos — não promessas temporais, mas a entrega do coração e da vida. Essa entrega pessoal ao Senhor é o fundamento de toda a generosidade cristã, conforme o exemplo macedônio."
+            }
+          ],
+          "verse": "2 Coríntios 8:5",
+          "verseText": "\"E não somente fizeram o que esperávamos, mas antes se entregaram a si mesmos, primeiramente ao Senhor.\" — 2 Coríntios 8:5"
+        },
+        {
+          "question": "Qual deve ser a motivação para ofertarmos?",
+          "options": [
+            {
+              "text": "Amor a Deus e a Sua causa",
+              "isCorrect": true,
+              "explanation": "O amor no sentido mais sublime se apoia em princípios, não em emoções. O amor a Deus é demonstrado na conformação com Sua vontade e o amor ao próximo por meio do serviço. 1 Coríntios 13:1-3 mostra que mesmo ações generosas, sem amor, não têm valor eterno."
+            },
+            {
+              "text": "O desejo de ser reconhecido como generoso e beneficente",
+              "isCorrect": false,
+              "explanation": "Jesus condenou ofertas feitas para ser vistos pelos homens (Mt 6:2). A motivação bíblica é o amor a Deus e à Sua causa, não o reconhecimento humano. 1 Coríntios 13:3 afirma que dar sem amor não aproveita nada."
+            },
+            {
+              "text": "A expectativa de multiplicação financeira e retorno material",
+              "isCorrect": false,
+              "explanation": "Usar a oferta como investimento para lucro pessoal distorce completamente o princípio bíblico. A motivação correta é o amor — o mesmo amor que levou Deus a entregar Seu Filho por nós (Jo 3:16)."
+            }
+          ],
+          "verse": "1 Coríntios 13:1-3; João 3:16",
+          "verseText": "\"E ainda que distribuísse todos os meus bens... se não tiver amor, nada disso me aproveitará.\" — 1 Coríntios 13:3"
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "title": "Como Identificar a Igreja Verdadeira",
+      "subtitle": "As oito colunas da igreja de Deus",
+      "thumbnailImage": "assets/images/chapters/sinais.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "A Enciclopédia das Religiões afirma que existem nove grandes religiões no mundo. Entre essas, está o cristianismo que, por sua vez, está dividido em mais de 35 mil grupos. Como distinguir, entre esses grupos, a igreja verdadeira?\n\nSomente a Bíblia pode nos ajudar.",
+      "questions": [
+        {
+          "question": "Qual é a recomendação da Bíblia para encontrar a igreja verdadeira?",
+          "options": [
+            {
+              "text": "A igreja verdadeira é conhecida pela doutrina — pelos ensinos baseados em toda a Bíblia",
+              "isCorrect": true,
+              "explanation": "João usa a palavra doutrina e Paulo, a palavra coluna. Veremos oito colunas bíblicas que mantêm a igreja do Deus vivo na Terra. A verdadeira Igreja de Deus pode ser identificada pelas suas doutrinas bíblicas, não apenas por suas afirmações ou tamanho."
+            },
+            {
+              "text": "A maior e mais antiga denominação cristã é a verdadeira",
+              "isCorrect": false,
+              "explanation": "Tamanho e antiguidade não são critérios bíblicos para identificar a verdadeira Igreja. João 7:17 e 1 Timóteo 3:15 apontam para a doutrina como o critério de identificação."
+            },
+            {
+              "text": "A que tiver mais membros batizados no mundo",
+              "isCorrect": false,
+              "explanation": "Número de membros não é o critério bíblico. A Bíblia identifica a Igreja verdadeira pelo que ela ensina e pratica. Jesus disse que o caminho que leva à vida é estreito e poucos o acham (Mt 7:14)."
+            }
+          ],
+          "verse": "João 7:17; 1 Timóteo 3:15",
+          "verseText": "\"A coluna e firmeza da verdade.\" — 1 Timóteo 3:15"
+        },
+        {
+          "question": "Quais são as oito colunas que identificam a igreja verdadeira?",
+          "options": [
+            {
+              "text": "Bíblia como única regra de fé; salvação pela fé em Cristo; volta literal de Cristo; guarda dos mandamentos; dom de profecia; sábado; pregação mundial do evangelho; programa bíblico de saúde",
+              "isCorrect": true,
+              "explanation": "1ª) Toda a Bíblia como única regra de fé e prática (sola scriptura e tota scriptura); 2ª) Salvação unicamente pela fé em Cristo; 3ª) Vinda de Cristo literal e visível com milhares de anjos; 4ª) Ensina e prega a validade da lei de Deus; 5ª) Aceita o dom de profecia; 6ª) O sábado como verdadeiro dia de adoração; 7ª) Prega o evangelho de Apocalipse 14 a todo o mundo; 8ª) Tem um programa bíblico de saúde."
+            },
+            {
+              "text": "Grande número de membros; muitos templos; presença em todos os países; longa história; líderes famosos; muitas obras sociais; riqueza institucional; unidade interna",
+              "isCorrect": false,
+              "explanation": "Nenhum desses é critério bíblico para identificar a Igreja verdadeira. As oito colunas dizem respeito ao conteúdo doutrinário e às práticas espirituais, não ao tamanho, riqueza ou prestígio institucional."
+            },
+            {
+              "text": "Batismo infantil; confissão auricular; celibato clerical; veneração de santos; uso de imagens; missa diária; jejuns obrigatórios; peregrinações",
+              "isCorrect": false,
+              "explanation": "Essas práticas são de origem humana e tradicional, sem fundamento bíblico claro. As oito colunas da Igreja verdadeira são definidas pela Bíblia: salvação pela fé, guarda dos mandamentos, sábado, dom de profecia, volta de Cristo, saúde, evangelismo e as Escrituras como regra exclusiva de fé."
+            }
+          ],
+          "verse": "Efésios 2:19-20; Atos 16:30-31; João 14:1-3; Apocalipse 12:17; 19:10; Isaías 58:13; Mateus 24:14; 1 Coríntios 6:19-20",
+          "verseText": "\"Edificados sobre o fundamento dos apóstolos e dos profetas, sendo o próprio Jesus Cristo a principal pedra angular.\" — Efésios 2:20"
+        },
+        {
+          "question": "O que são 'sola scriptura' e 'tota scriptura'?",
+          "options": [
+            {
+              "text": "Sola scriptura: somente as Escrituras têm a palavra final em questões doutrinárias; tota scriptura: toda a Bíblia deve ser considerada",
+              "isCorrect": true,
+              "explanation": "A primeira coluna está alicerçada sobre o fundamento dos apóstolos (Novo Testamento) e dos profetas (Antigo Testamento), sendo Jesus Cristo a pedra principal. A igreja verdadeira aceita toda a Bíblia como única regra de fé e prática."
+            },
+            {
+              "text": "Sola scriptura: apenas o Novo Testamento vale; tota scriptura: toda a tradição religiosa é válida",
+              "isCorrect": false,
+              "explanation": "Sola scriptura não limita a Bíblia ao Novo Testamento — significa que toda a Escritura (AT e NT) é a única autoridade doutrinária, excluindo tradições humanas. Tota scriptura significa que toda a Bíblia deve ser considerada, não que tradições religiosas também são válidas."
+            },
+            {
+              "text": "São conceitos medievais sem relevância para o protestantismo atual",
+              "isCorrect": false,
+              "explanation": "Sola scriptura é o lema central da Reforma Protestante e princípio fundamental do protestantismo bíblico. Tota scriptura garante que toda a Bíblia seja considerada, não apenas trechos selecionados."
+            }
+          ],
+          "verse": "Efésios 2:19-20",
+          "verseText": "\"Edificados sobre o fundamento dos apóstolos e dos profetas, sendo o próprio Jesus Cristo a principal pedra angular.\" — Efésios 2:20"
+        },
+        {
+          "question": "Qual é o apelo que Deus faz a Seus filhos sinceros que ainda participam de grupos que não ensinam toda a verdade?",
+          "options": [
+            {
+              "text": "\"Sai dela, povo Meu\"",
+              "isCorrect": true,
+              "explanation": "Só existe uma igreja verdadeira. Outros grupos religiosos podem ser até bem-intencionados, mas não representam devidamente as orientações bíblicas. Se não está na igreja verdadeira, a orientação é clara: 'Sai dela povo Meu' (Ap 18:4)."
+            },
+            {
+              "text": "\"Fique onde está e tente reformar a sua denominação por dentro\"",
+              "isCorrect": false,
+              "explanation": "O apelo de Apocalipse 18:4 é específico: sair. Embora a intenção de reformar por dentro seja nobre, o chamado divino é para unir-se ao Seu povo fiel que guarda os mandamentos de Deus e tem o testemunho de Jesus (Ap 12:17)."
+            },
+            {
+              "text": "\"Salve-se como puder; todas as igrejas levam ao mesmo Deus\"",
+              "isCorrect": false,
+              "explanation": "A Bíblia não ensina que todas as igrejas são equivalentes. João 10:16 fala em um só rebanho e um só pastor. A diversidade doutrinária não é indiferente a Deus; Ele chama Seu povo a se unir à verdade plena."
+            }
+          ],
+          "verse": "Mateus 7:21-23; João 10:16; Apocalipse 18:4",
+          "verseText": "\"Sai dela, povo meu, para que não sejas participante dos seus pecados.\" — Apocalipse 18:4"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "title": "Por Que Devo Ser Batizado",
+      "subtitle": "O significado e a importância do batismo",
+      "thumbnailImage": "assets/images/chapters/batismo.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Certo dia, Jesus deixou a oficina de carpintaria na vila de Nazaré e Se dirigiu ao rio Jordão, onde Seu primo João Batista estava pregando. Ali, pediu a João que O batizasse, porque, assim, disse Ele, convinha \"cumprir toda a justiça\" (Mt 3:3-15).\n\nO batismo é um aspecto da justiça do qual as pessoas podem participar. Uma vez que Cristo, que não conheceu pecado, foi batizado para \"cumprir toda a justiça\", nós, como pecadores, devemos fazer o mesmo. O exemplo de Jesus e o ensino da Bíblia realçam a importância do batismo.",
+      "questions": [
+        {
+          "question": "Quantas espécies de batismo são reconhecidas na Bíblia?",
+          "options": [
+            {
+              "text": "Uma só — a imersão",
+              "isCorrect": true,
+              "explanation": "Alguns tipos de batismo são praticados pelas igrejas cristãs, como aspergir ou derramar água, mas a Bíblia reconhece apenas uma forma, a imersão. Batizar significa mergulhar ou imergir. Nos tempos bíblicos as pessoas eram batizadas com suas roupas, significando a morte. Ensino, compreensão e prática da verdade devem preceder o batismo."
+            },
+            {
+              "text": "Duas: aspersão para crianças e imersão para adultos",
+              "isCorrect": false,
+              "explanation": "Efésios 4:5 fala em 'um só batismo'. A Bíblia reconhece apenas a imersão. O batismo infantil por aspersão não tem base bíblica — o batismo bíblico pressupõe crença e arrependimento pessoais."
+            },
+            {
+              "text": "Três: aspersão, derramamento e imersão, todos válidos",
+              "isCorrect": false,
+              "explanation": "A Bíblia reconhece apenas a imersão. A palavra grega 'baptizo' significa 'mergulhar, imergir, afundar'. O batismo de Jesus (Mc 1:9-10), saindo da água, confirma a imersão como a única forma bíblica."
+            }
+          ],
+          "verse": "Efésios 4:5",
+          "verseText": "\"Há um só Senhor, uma só fé, um só batismo.\" — Efésios 4:5"
+        },
+        {
+          "question": "Qual o significado do batismo na Bíblia?",
+          "options": [
+            {
+              "text": "Morte, sepultamento e ressurreição",
+              "isCorrect": true,
+              "explanation": "A palavra batismo (do grego baptizo) significa 'mergulhar, imergir, afundar'. O batismo é uma demonstração pública de uma relação espiritual anterior entre o crente e Cristo, num vínculo tão estreito que a vida do crente e a vida de Cristo chegam a ser uma unidade espiritual. A morte do crente para o pecado é tão real quanto a morte e ressurreição de Cristo."
+            },
+            {
+              "text": "Purificação externa e remoção dos pecados pela água",
+              "isCorrect": false,
+              "explanation": "A água do batismo não remove pecados mecanicamente. A remoção dos pecados é obra do sangue de Cristo (1Jo 1:7). O batismo é o símbolo público de uma transformação espiritual já ocorrida, não o meio de salvação em si."
+            },
+            {
+              "text": "Ingresso na comunidade religiosa e aceitação social como crente",
+              "isCorrect": false,
+              "explanation": "O significado bíblico do batismo vai muito além de um rito social de ingresso. Romanos 6:3-4 mostra que é morte para o pecado, sepultamento do velho homem e ressurreição para uma nova vida em Cristo."
+            }
+          ],
+          "verse": "Romanos 6:3-4; Colossenses 2:12",
+          "verseText": "\"Fomos sepultados com ele pelo batismo na morte, para que, como Cristo ressuscitou... assim também nós andemos em novidade de vida.\" — Romanos 6:4"
+        },
+        {
+          "question": "De que forma Cristo foi batizado por João?",
+          "options": [
+            {
+              "text": "Por imersão",
+              "isCorrect": true,
+              "explanation": "Jesus não precisava ser batizado pois não tinha pecado; porém, deu a Seus seguidores um exemplo a ser seguido. Note que Ele saiu da água, indicando que entrara na água para ser batizado por imersão. Por ocasião do batismo de Jesus vemos a Trindade divina se manifestando: o Pai diz 'Este é Meu Filho Amado', Jesus é batizado por João e o Espírito Santo desce como pomba (Mt 3:16-17)."
+            },
+            {
+              "text": "Por aspersão, pois o rio Jordão era muito frio",
+              "isCorrect": false,
+              "explanation": "Marcos 1:9-10 descreve Jesus 'saindo da água', indicando imersão. A temperatura do rio não é mencionada como fator. Jesus escolheu a imersão como forma de batismo, estabelecendo o padrão para todos os Seus seguidores."
+            },
+            {
+              "text": "Não foi batizado; apenas abençoou João ao encontrá-lo no Jordão",
+              "isCorrect": false,
+              "explanation": "Mateus 3:13-15 registra claramente que Jesus 'foi batizado' por João no Jordão. Jesus pediu a João para realizar o batismo porque assim convinha 'cumprir toda a justiça'."
+            }
+          ],
+          "verse": "Marcos 1:9-10",
+          "verseText": "\"E logo, subindo da água, viu os céus rasgarem-se e o Espírito, como pomba, descendo sobre ele.\" — Marcos 1:10"
+        },
+        {
+          "question": "Que razão Jesus apresentou para ser batizado?",
+          "options": [
+            {
+              "text": "Para dar o exemplo e para cumprir toda a justiça",
+              "isCorrect": true,
+              "explanation": "João batizava pessoas para o arrependimento. Diante do pedido de Jesus, João indagou: 'Eu é que preciso ser batizado por ti, e tu vens a mim?' João entendia que Cristo era perfeito. No entanto, Jesus disse: 'Assim, nos convém cumprir toda a justiça.' Jesus não foi batizado para o arrependimento, mas para cumprir o plano de Deus."
+            },
+            {
+              "text": "Porque era pecador e precisava de arrependimento como todos os homens",
+              "isCorrect": false,
+              "explanation": "Hebreus 4:15 declara que Jesus 'foi tentado em tudo como nós, mas sem pecado.' O próprio João reconheceu que não era Jesus quem precisava ser batizado, mas ele. Jesus foi batizado para cumprir a justiça, não por necessidade de arrependimento."
+            },
+            {
+              "text": "Para tornar-se membro oficial da comunidade religiosa de João",
+              "isCorrect": false,
+              "explanation": "Jesus não precisava de filiação religiosa. Seu batismo tinha propósito teológico: cumprir toda a justiça e dar o exemplo perfeito a todos os Seus seguidores."
+            }
+          ],
+          "verse": "Mateus 3:13-15",
+          "verseText": "\"Deixa por enquanto, porque assim nos convém cumprir toda a justiça.\" — Mateus 3:15"
+        },
+        {
+          "question": "Quão essencial é que a pessoa seja batizada nas águas?",
+          "options": [
+            {
+              "text": "Essencial; quem não nascer da água e do Espírito não pode entrar no reino de Deus",
+              "isCorrect": true,
+              "explanation": "O batismo nas águas é a demonstração pública de arrependimento, morte para o eu e novo nascimento por meio do Espírito Santo (Rm 6:3-4). É a confirmação de que o crente aceitou a salvação em Cristo Jesus. O batismo não salva, mas é um sinal de que a pessoa está salva e que nasceu novamente."
+            },
+            {
+              "text": "Não é essencial; é apenas um símbolo opcional para quem quiser",
+              "isCorrect": false,
+              "explanation": "João 3:5 e Marcos 16:16 apresentam o batismo como parte integral da experiência da salvação. Jesus ordenou o batismo antes de ascender ao céu (Mt 28:19). A essencialidade do batismo é clara no ensino de Jesus e dos apóstolos."
+            },
+            {
+              "text": "Apenas necessário para entrar em uma denominação específica",
+              "isCorrect": false,
+              "explanation": "O batismo tem significado espiritual profundo — morte, sepultamento e ressurreição com Cristo (Rm 6:3-4) — que transcende a filiação denominacional. É uma obediência ao mandato de Cristo (Mt 28:19)."
+            }
+          ],
+          "verse": "João 3:5; Marcos 16:16",
+          "verseText": "\"Quem crer e for batizado será salvo; mas quem não crer será condenado.\" — Marcos 16:16"
+        },
+        {
+          "question": "Quando devo tomar a decisão de entregar-me a Deus através do batismo?",
+          "options": [
+            {
+              "text": "Hoje; essa decisão não deve ser adiada",
+              "isCorrect": true,
+              "explanation": "Assim que compreender que o amor de Deus cobriu meus pecados e for compelido a abandoná-los e iniciar uma nova vida como seguidor de Cristo. Mateus 28:20 ensina que antes do batismo a pessoa precisa ser ensinada sobre as verdades bíblicas, aceitá-las e praticá-las. A urgência de Paulo em Atos 22:16 ilustra bem: 'E agora, porque demoras? Levanta-te, recebe o batismo.'"
+            },
+            {
+              "text": "Quando sentir que atingiu um nível espiritual suficiente",
+              "isCorrect": false,
+              "explanation": "Não existe nível espiritual 'suficiente' exigido antes do batismo. 2 Coríntios 6:2 diz: 'Eis agora o tempo aceito; eis agora o dia da salvação.' O batismo é o início da vida cristã, não seu resultado após anos de amadurecimento."
+            },
+            {
+              "text": "Quando a família ou o pastor sugerirem o momento certo",
+              "isCorrect": false,
+              "explanation": "A decisão pelo batismo é individual e pessoal, não dependente de sugestão familiar ou pastoral. O Espírito Santo convida cada pessoa diretamente. Hebreus 3:15 alerta: 'se ouvirdes hoje a sua voz, não endureçais os vossos corações.'"
+            }
+          ],
+          "verse": "Hebreus 3:15; 2 Coríntios 6:2",
+          "verseText": "\"E agora, porque demoras? Levanta-te, recebe o batismo, e lava os teus pecados.\" — Atos 22:16"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "title": "Princípios de Vida Cristã",
+      "subtitle": "O cristão como nova criatura no mundo",
+      "thumbnailImage": "assets/images/chapters/fe.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "O cristão é uma \"nova criatura\". Em sua vida, \"as coisas antigas já passaram; eis que se fizeram novas\" (2Co 5:17). Embora esteja no mundo, não tem compromisso com interesses mundanos. É cidadão e embaixador do reino celestial.\n\nPor preceito e exemplo, deve influenciar outras pessoas, oferecendo-lhes um estilo de vida melhor. Não faz isso com extremismo, afetação ou ar de superioridade, mas porque tem Cristo no coração e espalha Seu amor. A Bíblia ensina como tal experiência é vista no dia-a-dia do cristão.",
+      "questions": [
+        {
+          "question": "Que práticas frequentes contribuem para a manutenção e fortalecimento da fé?",
+          "options": [
+            {
+              "text": "Estudar a Bíblia todos os dias; ter vida de oração; frequentar os cultos da igreja; pregar o evangelho",
+              "isCorrect": true,
+              "explanation": "A) Examinar constantemente a Bíblia buscando compreender como funciona na prática a graça e a misericórdia de Deus. B) A oração aproxima a mente humana da mente divina, revirgorando pensamentos e acalmando emoções. C) Paulo incentivou a presença nas reuniões para comunhão e exortação mútua na fé. D) Compartilhar continuamente como Deus tem cuidado, ensinado, protegido e aconselhado você."
+            },
+            {
+              "text": "Participar de eventos religiosos apenas nas datas festivas; orar quando em apuros; visitar a igreja mensalmente",
+              "isCorrect": false,
+              "explanation": "A Bíblia enfatiza práticas diárias e regulares: estudo bíblico diário (Jo 5:39), oração constante (Cl 4:2) e não abandonar as reuniões (Hb 10:25). A fé esporádica não produz crescimento espiritual sólido."
+            },
+            {
+              "text": "Praticar meditação transcendental; buscar experiências místicas; aguardar revelações especiais",
+              "isCorrect": false,
+              "explanation": "As práticas bíblicas para crescimento espiritual são: estudo da Palavra, oração, comunhão com a igreja e testemunho. Meditações e buscas de experiências sobrenaturais fora do contexto bíblico não são recomendadas nas Escrituras."
+            }
+          ],
+          "verse": "João 5:39; Colossenses 4:2; Hebreus 10:25; Marcos 5:18-20",
+          "verseText": "\"E não deixemos de congregar-nos, como é costume de alguns, antes, admoestando-nos uns aos outros.\" — Hebreus 10:25"
+        },
+        {
+          "question": "Como devemos viver as horas do sábado?",
+          "options": [
+            {
+              "text": "Adorando a Deus e servindo ao nosso próximo; do pôr-do-sol de sexta ao pôr-do-sol do sábado",
+              "isCorrect": true,
+              "explanation": "O exemplo de Cristo nos ensina que o sábado não é um dia para não se fazer nada, mas um dia de adoração, comunhão e serviço desinteressado ao semelhante. A Igreja Adventista considera o sábado como o Dia Mundial da Alegria. Nele devemos descansar, refletir sobre o plano da salvação, ajudar ao próximo e nos reunir com os irmãos."
+            },
+            {
+              "text": "Apenas descansando fisicamente, sem nenhuma atividade",
+              "isCorrect": false,
+              "explanation": "O sábado bíblico não é de ociosidade absoluta. Jesus realizava obras de misericórdia aos sábados (Lc 13:10-17; Jo 9:14). O dia é de adoração ativa, serviço ao próximo e comunhão com Deus e com os irmãos."
+            },
+            {
+              "text": "Sem nenhuma restrição; cada cristão decide como usar o dia",
+              "isCorrect": false,
+              "explanation": "Isaías 58:13-14 orienta a não fazer 'o que bem te agrada' no sábado. O dia é sagrado e tem orientações específicas: dedicar-se à adoração, ao estudo da Palavra, ao serviço ao próximo e à comunhão fraterna."
+            }
+          ],
+          "verse": "Isaías 58:13-14; Lucas 4:16, 31",
+          "verseText": "\"Se no sábado retiveres o teu pé... então te deleitarás no Senhor.\" — Isaías 58:13-14"
+        },
+        {
+          "question": "Que princípios a Bíblia estabelece para o vestuário cristão?",
+          "options": [
+            {
+              "text": "As mulheres devem se vestir com modéstia e bom senso, evitando extravagância e sensualismo",
+              "isCorrect": true,
+              "explanation": "A mulher cristã não deve fazer do vestuário um ídolo, nem vestir-se para chamar atenção para si. A orientação bíblica é que se evite a extravagância, a ostentação e o sensualismo. O adorno exterior é o padrão do mundo. O adorno interior é o padrão para os seguidores de Cristo."
+            },
+            {
+              "text": "Podem se vestir de qualquer forma, pois Deus olha para o coração, não para o exterior",
+              "isCorrect": false,
+              "explanation": "Embora Deus valorize o interior, 1 Pedro 3:3-4 e 1 Timóteo 2:9 dão orientações específicas sobre o vestuário. O exterior reflete o interior: a modéstia no vestir é expressão da transformação interior pelo Espírito Santo."
+            },
+            {
+              "text": "Devem seguir as modas do momento para ter bom testemunho perante a sociedade",
+              "isCorrect": false,
+              "explanation": "Romanos 12:2 alerta: 'não vos conformeis com este século.' O cristão não deve ser moldado pelas modas do mundo, mas pela renovação da mente segundo os princípios bíblicos de modéstia, bom senso e simplicidade."
+            }
+          ],
+          "verse": "1 Pedro 3:3-4; 1 Timóteo 2:9",
+          "verseText": "\"O vosso adorno não seja o exterior... mas o homem oculto do coração.\" — 1 Pedro 3:3-4"
+        },
+        {
+          "question": "Qual é a atitude do cristão para com o casamento?",
+          "options": [
+            {
+              "text": "Honrar o casamento, pois Deus reprova o adultério e o divórcio",
+              "isCorrect": true,
+              "explanation": "O casamento é uma instituição tão antiga quanto a criação do mundo (Gn 2:18-25). Deus o criou para que fosse o desfrutar do amor entre um homem e uma mulher. A fidelidade é indispensável ao casamento. Embora o mundo distorça as bases do casamento, o casamento baseado na palavra e na vontade de Deus é o caminho para a plena felicidade."
+            },
+            {
+              "text": "O divórcio é permitido quando há incompatibilidade de gênios",
+              "isCorrect": false,
+              "explanation": "Mateus 19:8-9 mostra que Deus permitiu o divórcio por causa da dureza do coração humano, não porque o aprova. A única exceção mencionada por Jesus é a infidelidade conjugal. O princípio divino é a permanência e fidelidade no casamento."
+            },
+            {
+              "text": "O casamento é opcional; o celibato espiritual é mais nobre e recomendado",
+              "isCorrect": false,
+              "explanation": "Hebreus 13:4 declara: 'honroso seja o matrimônio em todos.' O casamento foi instituído por Deus na criação como bênção. Paulo menciona o celibato como um dom específico para alguns, não como norma superior."
+            }
+          ],
+          "verse": "1 Coríntios 7:10-14; Mateus 19:8-9; Hebreus 13:4",
+          "verseText": "\"Honroso seja o matrimônio em todos, e o leito sem mácula; porque Deus julgará os impuros e adúlteros.\" — Hebreus 13:4"
+        },
+        {
+          "question": "Que diz a Bíblia sobre costumes e diversões mundanos?",
+          "options": [
+            {
+              "text": "Não amar o mundo nem as coisas que há no mundo; tudo o que é verdadeiro, honesto, justo e puro deve guiar nossas escolhas",
+              "isCorrect": true,
+              "explanation": "Costumes e diversões que colocam os assuntos espirituais em segundo plano tendem a afastar o ser humano de Deus e devem ser evitados. As Escrituras apresentam o critério para escolher qualquer tipo de divertimento: 'tudo o que é verdadeiro, tudo o que é honesto... nisso pensai' (Fp 4:8). Não é possível desfrutar de alguns tipos de diversão deste mundo e ao mesmo tempo manter uma amizade com Deus."
+            },
+            {
+              "text": "O cristão pode participar de qualquer diversão desde que seja moderado",
+              "isCorrect": false,
+              "explanation": "1 João 2:15 é claro: 'não ameis o mundo nem as coisas que há no mundo.' O critério não é apenas moderação, mas conformidade com os princípios de Filipenses 4:8. Diversões que contradizem esses princípios devem ser evitadas."
+            },
+            {
+              "text": "A Bíblia não trata de entretenimento; é uma questão cultural e pessoal",
+              "isCorrect": false,
+              "explanation": "A Bíblia dá orientações claras sobre as escolhas de entretenimento (Fp 4:8; 1Jo 2:15-17; Tg 4:4). Não é possível desfrutar de certos tipos de diversão deste mundo e manter amizade com Deus."
+            }
+          ],
+          "verse": "1 João 2:15-17; Tiago 4:4",
+          "verseText": "\"Não ameis o mundo nem as coisas que há no mundo.\" — 1 João 2:15"
+        },
+        {
+          "question": "Que cerimônias foram instituídas por Jesus para os cristãos?",
+          "options": [
+            {
+              "text": "A Santa Ceia (em memória da morte de Jesus) e o lava-pés (cerimônia da humildade)",
+              "isCorrect": true,
+              "explanation": "Santa Ceia: comemora a morte de Jesus e nossa morte para o pecado. O pão representa o corpo de Jesus sacrificado por nós; o suco da uva simboliza o sangue de Cristo vertido pelos nossos pecados. Lava-pés: cerimônia da humildade. Mostra que todos somos iguais perante Deus e necessitamos igualmente dEle para a salvação."
+            },
+            {
+              "text": "Apenas a Santa Ceia; o lava-pés foi um costume cultural da época de Jesus",
+              "isCorrect": false,
+              "explanation": "João 13:15 registra que Jesus instituiu o lava-pés com palavras claras: 'porque eu vos dei o exemplo, para que, como eu vos fiz, vós também façais.' Não foi apenas um costume cultural, mas uma cerimônia estabelecida pelo próprio Jesus."
+            },
+            {
+              "text": "A Santa Ceia, o batismo e a unção dos enfermos como sacramentos obrigatórios",
+              "isCorrect": false,
+              "explanation": "O PDF menciona especificamente a Santa Ceia e o lava-pés como cerimônias instituídas por Jesus (Jo 13:4-5,15; 1Co 11:23-28). O batismo é uma ordenança separada, não listada no contexto desta questão sobre cerimônias de adoração regular."
+            }
+          ],
+          "verse": "João 13:4-5, 15; 1 Coríntios 11:23-28",
+          "verseText": "\"Fazei isto em memória de mim.\" — 1 Coríntios 11:25"
+        }
+      ]
+    },
+    ,
+    {
+      "id": "l25",
+      "title": "Educação Cristã",
+      "subtitle": "O mestre dos mestres e a verdadeira educação",
+      "thumbnailImage": "assets/images/chapters/bibliaSagrada.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Educar é desenvolver as faculdades físicas, mentais e espirituais do ser humano. Por esse mesmo caminho, vai a redenção. As duas têm como objetivo a restauração do ser humano ao plano originalmente estabelecido por Deus: a semelhança com Ele.\n\nPortanto, não se pode isolar a educação da redenção. As Escrituras têm normas que ajudam a orientar a busca e aquisição da educação verdadeira, cujos benefícios são eternos.",
+      "questions": [
+        {
+          "question": "Por que é importante seguir os conselhos de Deus a respeito da educação de nossos filhos?",
+          "options": [
+            {
+              "text": "Porque Ele é o Mestre dos mestres",
+              "isCorrect": true,
+              "explanation": "A verdadeira educação está empenhada no desenvolvimento integral do ser humano. Para alcançar esse objetivo as orientações divinas precisam ser seguidas. Se colocada em prática, a filosofia de educação bíblica conduzirá à prosperidade e se negligenciada levará à adversidade."
+            },
+            {
+              "text": "Porque os professores humanos não possuem conhecimento suficiente",
+              "isCorrect": false,
+              "explanation": "A razão não é a incompetência humana, mas a excelência divina. Deus é o Mestre dos mestres — a fonte de toda sabedoria e conhecimento verdadeiro (Jó 36:22). Sua perspectiva de educação abrange o desenvolvimento integral eterno do ser humano."
+            },
+            {
+              "text": "Porque a escola secular é proibida para os filhos de cristãos",
+              "isCorrect": false,
+              "explanation": "A Bíblia não proíbe a educação secular, mas orienta os pais a fundamentarem a educação dos filhos na Palavra de Deus. O objetivo é complementar o conhecimento secular com a formação moral, ética e espiritual."
+            }
+          ],
+          "verse": "Jó 36:22",
+          "verseText": "\"Eis que Deus é exaltado no seu poder; qual mestre se lhe assemelha?\" — Jó 36:22"
+        },
+        {
+          "question": "Qual foi o método original de ensino utilizado por Deus?",
+          "options": [
+            {
+              "text": "Deus transmitia Seus ensinos face a face e ensinava através da natureza",
+              "isCorrect": true,
+              "explanation": "Desde o princípio o método de ensino bíblico está baseado na família. Antes da entrada do pecado, Deus instruía Adão no final de cada tarde. Nos dias dos patriarcas a educação familiar ainda prevalecia. Os pais aprendiam de Deus na natureza, na tradição oral (ensino bíblico passado oralmente de geração em geração) e transmitiam esse conhecimento aos seus filhos."
+            },
+            {
+              "text": "Deus usava textos escritos entregues diretamente aos filhos",
+              "isCorrect": false,
+              "explanation": "O método original não era a escrita, mas a instrução face a face e por meio da natureza. A transmissão oral do conhecimento de geração em geração, fundamentada na família, era o modelo divino antes e durante o período patriarcal."
+            },
+            {
+              "text": "Deus delegava o ensino exclusivamente aos sacerdotes e profetas",
+              "isCorrect": false,
+              "explanation": "O método original era centrado na família, não no clero. Deus instruía diretamente Adão, e os patriarcas transmitiam esse conhecimento aos filhos. A responsabilidade educacional era dos pais, não de uma classe religiosa especializada."
+            }
+          ],
+          "verse": "Gênesis 2:15-17; 3:8-10",
+          "verseText": "\"E ouviram a voz do Senhor Deus, que passeava no jardim... e chamou o Senhor Deus ao homem.\" — Gênesis 3:8-9"
+        },
+        {
+          "question": "Qual foi o antecedente bíblico para as modernas escolas cristãs?",
+          "options": [
+            {
+              "text": "A Escola dos Profetas",
+              "isCorrect": true,
+              "explanation": "A Escola dos Profetas foi um dos protótipos daquilo que conhecemos como os internatos cristãos. Ali eles aprendiam música, liam as Escrituras, trabalhavam e viviam em comunidade. Eliseu, profeta de Deus, era o professor."
+            },
+            {
+              "text": "As sinagogas judaicas do período pós-exílico",
+              "isCorrect": false,
+              "explanation": "Embora as sinagogas tenham cumprido papel educativo, o antecedente bíblico específico para as modernas escolas cristãs é a Escola dos Profetas (2Rs 6:1-7), onde os estudantes viviam em comunidade, aprendiam as Escrituras, música e trabalhavam juntos."
+            },
+            {
+              "text": "As academias filosóficas gregas adaptadas ao contexto hebraico",
+              "isCorrect": false,
+              "explanation": "A Escola dos Profetas não era uma adaptação de modelos gregos, mas uma instituição genuinamente bíblica, centrada nas Escrituras, na adoração e no trabalho comunitário, sob liderança de profetas como Eliseu."
+            }
+          ],
+          "verse": "2 Reis 6:1-7",
+          "verseText": "\"Os filhos dos profetas disseram a Eliseu: O lugar onde habitamos contigo é muito pequeno para nós.\" — 2 Reis 6:1"
+        },
+        {
+          "question": "De que modo funcionava a escola que Cristo dirigiu durante Seu ministério terrestre?",
+          "options": [
+            {
+              "text": "Ensinamentos através da observação e convivência com o Mestre",
+              "isCorrect": true,
+              "explanation": "Cristo chamou discípulos e os levou consigo, ministrando-lhes ensinamentos, enquanto eles O observavam curar, pregar, ensinar e relacionar-Se com as pessoas. Jesus é considerado o maior Mestre, pois conseguiu, através de Seus alunos, revolucionar o mundo. Seus conselhos foram e ainda são totalmente atuais."
+            },
+            {
+              "text": "Aulas expositivas em salas fechadas com avaliações periódicas",
+              "isCorrect": false,
+              "explanation": "O método de Jesus era o oposto: ensino em movimento, na prática, ao ar livre, em contato com as pessoas. Os discípulos aprendiam observando e convivendo com o Mestre em situações reais da vida."
+            },
+            {
+              "text": "Memorização de textos sagrados e debates teológicos formais",
+              "isCorrect": false,
+              "explanation": "Embora Jesus conhecesse profundamente as Escrituras, Seu método de ensino era prático e relacional — baseado na convivência, observação e participação ativa dos discípulos nas situações reais do ministério."
+            }
+          ],
+          "verse": "Mateus 4:18-25",
+          "verseText": "\"Segui-me, e eu vos farei pescadores de homens.\" — Mateus 4:19"
+        },
+        {
+          "question": "Que diferença existe entre a educação cristã e a educação secular?",
+          "options": [
+            {
+              "text": "A secular forma cidadãos produtivos para a sociedade; a cristã forma cidadãos para o céu, desenvolvendo o ser humano integralmente e moldando-o à semelhança de Cristo",
+              "isCorrect": true,
+              "explanation": "A sabedoria deste mundo é loucura diante de Deus. De maneira simples e objetiva, a educação secular forma cidadãos produtivos para a sociedade. A educação cristã forma cidadãos para o céu, e entre seus objetivos estão o desenvolvimento integral do ser humano (físico, mental, social, espiritual, intelectual) e moldar o estudante à semelhança com Cristo."
+            },
+            {
+              "text": "A cristã proíbe todo conhecimento científico e tecnológico",
+              "isCorrect": false,
+              "explanation": "A educação cristã não é contra o conhecimento científico. Ela integra a excelência acadêmica com a formação moral, ética e espiritual, buscando desenvolver integralmente o ser humano — físico, mental e espiritual."
+            },
+            {
+              "text": "Não há diferença real; ambas levam ao mesmo resultado",
+              "isCorrect": false,
+              "explanation": "Há diferença fundamental em seus objetivos. A secular foca a produtividade social; a cristã visa restaurar o ser humano à semelhança com Cristo, preparando-o tanto para esta vida quanto para a eternidade (1Co 2:12; 3:19)."
+            }
+          ],
+          "verse": "1 Coríntios 2:12; 3:19",
+          "verseText": "\"A sabedoria deste mundo é loucura diante de Deus.\" — 1 Coríntios 3:19"
+        },
+        {
+          "question": "Qual é o conselho que a Bíblia dá aos pais com respeito à educação dos filhos?",
+          "options": [
+            {
+              "text": "Ensinar a Palavra de Deus aos filhos a todo instante, ao se levantar, ao deitar e ao andar; criá-los na disciplina e admoestação do Senhor",
+              "isCorrect": true,
+              "explanation": "A educação deve ser contínua, visando a formação de um caráter semelhante ao de Cristo, enquanto desenvolve as habilidades físicas, intelectuais, emocionais, sociais e espirituais."
+            },
+            {
+              "text": "Delegar completamente a educação dos filhos à escola cristã e à igreja",
+              "isCorrect": false,
+              "explanation": "Deuteronômio 6:5-9 coloca a responsabilidade educacional primariamente sobre os pais, não sobre instituições. A escola e a igreja são parceiras, mas os pais são os primeiros e principais educadores dos filhos."
+            },
+            {
+              "text": "Proteger os filhos de toda influência externa até a maioridade",
+              "isCorrect": false,
+              "explanation": "A Bíblia não orienta o isolamento total, mas o ensino ativo e constante da Palavra de Deus, para que os filhos estejam preparados para enfrentar o mundo com discernimento e fé (Ef 6:4; Dt 6:5-9)."
+            }
+          ],
+          "verse": "Deuteronômio 6:5-9; Efésios 6:4",
+          "verseText": "\"E ensina-as a teus filhos, e delas falarás assentado em tua casa, e andando pelo caminho, e ao deitar-te, e ao levantar-te.\" — Deuteronômio 6:7"
+        },
+        {
+          "question": "Qual é o resultado da educação ministrada aos filhos segundo os caminhos do Senhor?",
+          "options": [
+            {
+              "text": "Ainda quando for velho não se desviará do caminho em que foi educado",
+              "isCorrect": true,
+              "explanation": "A Igreja Adventista do Sétimo Dia mantém uma rede educacional desde o ensino fundamental ao superior. Busca-se a excelência na formação acadêmica, mas, sobretudo, preza-se pela formação moral, ética e espiritual. Caráter inabalável, pessoas pensantes e altruístas que utilizam seus dons em benefício da causa de Deus."
+            },
+            {
+              "text": "Garantirá sempre sucesso financeiro e profissional na vida adulta",
+              "isCorrect": false,
+              "explanation": "A promessa de Provérbios 22:6 é sobre a fidelidade ao caminho aprendido, não sobre sucesso material. O resultado mais precioso da educação cristã é o caráter formado segundo os princípios de Cristo, que permanece mesmo na velhice."
+            },
+            {
+              "text": "O filho nunca questionará a fé recebida dos pais",
+              "isCorrect": false,
+              "explanation": "A educação cristã não visa produzir obediência cega, mas um caráter formado que, mesmo após questionamentos e escolhas próprias, permanecerá firme no caminho correto. Proverbios 22:6 fala de permanência, não de automatismo."
+            }
+          ],
+          "verse": "Provérbios 22:6",
+          "verseText": "\"Ensina a criança no caminho em que deve andar, e, ainda quando for velha, não se desviará dele.\" — Provérbios 22:6"
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "title": "A Vida no Espírito",
+      "subtitle": "O Espírito Santo como agente transformador",
+      "thumbnailImage": "assets/images/chapters/fe.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Somente através do Espírito Santo o cristianismo se torna um poder vivificante e transformador na vida dos filhos de Deus. Como Paulo afirmou, \"ninguém pode dizer: Senhor Jesus!, senão pelo Espírito Santo\" (1Co 12:3). Sem o Espírito, nossa religião jamais será uma experiência viva.\n\nAs Escrituras Sagradas nos informam como esse Agente divino nos conduz à plenitude dessa experiência com Jesus.",
+      "questions": [
+        {
+          "question": "Que promessa Jesus fez aos discípulos antes de Sua ascensão?",
+          "options": [
+            {
+              "text": "\"Eu rogarei ao Pai e Ele vos dará outro Consolador\"",
+              "isCorrect": true,
+              "explanation": "Na Trindade divina, o Espírito Santo — já presente desde a criação do mundo — desempenha a função de representante de Cristo. O Espírito Santo, o Consolador, nos guia em toda a verdade, nos orienta e nos faz lembrar de todas as coisas que Cristo ensinou e ordenou (Mt 28:20). Concede poder e dons para o serviço cristão (Ef 4:1-14)."
+            },
+            {
+              "text": "\"Não vos deixarei órfãos; voltarei em poucos dias\"",
+              "isCorrect": false,
+              "explanation": "Embora Jesus tenha prometido voltar, a promessa específica de João 14:16 é a do envio do Consolador — o Espírito Santo — como representante permanente de Cristo junto à Igreja até Sua segunda vinda."
+            },
+            {
+              "text": "\"Escolherei entre vós um líder que vos guiará em Meu nome\"",
+              "isCorrect": false,
+              "explanation": "Jesus não prometeu um líder humano como Seu substituto, mas o Espírito Santo — a terceira Pessoa da Trindade — como Consolador, Guia e Representante permanente junto aos Seus discípulos."
+            }
+          ],
+          "verse": "João 14:16; Lucas 24:49",
+          "verseText": "\"E eu rogarei ao Pai, e ele vos dará outro Consolador, para que fique convosco para sempre.\" — João 14:16"
+        },
+        {
+          "question": "O que os discípulos fizeram após a ascensão de Cristo?",
+          "options": [
+            {
+              "text": "Perseveraram unânimes, oraram e esperaram",
+              "isCorrect": true,
+              "explanation": "A orientação que Jesus deixou foi seguida. O mesmo deve acontecer conosco hoje. A promessa do Espírito foi dada; agora devemos nos preparar e esperar em oração até recebermos as bênçãos e a plenitude do Espírito Santo. Só estaremos devidamente preparados no fim dos tempos se assim procedermos."
+            },
+            {
+              "text": "Se separaram e voltaram às suas vidas anteriores",
+              "isCorrect": false,
+              "explanation": "Atos 1:12-14 mostra o oposto: os discípulos ficaram reunidos de forma unânime, perseverando em oração e aguardando o cumprimento da promessa de Jesus. Nenhum se separou do grupo."
+            },
+            {
+              "text": "Saíram imediatamente para pregar em todas as nações",
+              "isCorrect": false,
+              "explanation": "Jesus ordenou que esperassem em Jerusalém pela promessa do Pai antes de saírem (At 1:4). A precipitação de sair sem o poder do Espírito Santo teria comprometido o ministério. A espera em oração era condição para a eficácia do testemunho."
+            }
+          ],
+          "verse": "Atos 1:4; 12-14",
+          "verseText": "\"Todos estes perseveravam unanimes em oração e súplica.\" — Atos 1:14"
+        },
+        {
+          "question": "Quando se cumpriu a promessa do Espírito Santo?",
+          "options": [
+            {
+              "text": "No dia de Pentecostes",
+              "isCorrect": true,
+              "explanation": "A promessa de Jesus se cumpriu em parte no Pentecostes quando o Espírito Santo se manifestou aos que O buscavam, concedendo poder por meio dos dons espirituais. Esse episódio é compreendido como a 'chuva temporã' — poder para semear o evangelho. No final dos tempos se cumprirá a segunda parte: a 'chuva serôdia', para a colheita final das almas."
+            },
+            {
+              "text": "No momento da ressurreição de Cristo",
+              "isCorrect": false,
+              "explanation": "Embora Jesus tenha soprado sobre os discípulos após a ressurreição (Jo 20:22), o cumprimento pleno da promessa de João 14:16 ocorreu no Pentecostes (At 2:1-4), quando o Espírito foi derramado com poder sobre toda a comunidade reunida."
+            },
+            {
+              "text": "Individualmente, no momento do batismo de cada crente",
+              "isCorrect": false,
+              "explanation": "O cumprimento histórico da promessa foi no Pentecostes, como evento coletivo e fundador. O batismo nas águas está associado ao batismo do Espírito, mas o cumprimento original da promessa foi o dia de Pentecostes (At 2:1-4)."
+            }
+          ],
+          "verse": "Atos 2:1-4",
+          "verseText": "\"E foram todos cheios do Espírito Santo e começaram a falar noutras línguas, conforme o Espírito Santo lhes concedia que falassem.\" — Atos 2:4"
+        },
+        {
+          "question": "Como o Espírito Santo é apresentado na Bíblia?",
+          "options": [
+            {
+              "text": "Ente divino — a terceira Pessoa da Trindade",
+              "isCorrect": true,
+              "explanation": "O Espírito Santo é Deus (At 5:1-4). É a terceira Pessoa da Trindade (Mt 28:19; 2Co 13:13), sendo Eterno (Hb 9:14), Onisciente (1Co 2:10-11), Onipresente (Sl 139:7-12) e Criador (Gn 1:2; Jó 33:4). Possui todas as características de uma pessoa: inteligência (1Co 2:10-11), ensino (Jo 14:26), emoção (Ef 4:30) e fala (At 13:2)."
+            },
+            {
+              "text": "Uma força impessoal e energética emanada de Deus",
+              "isCorrect": false,
+              "explanation": "A Bíblia apresenta o Espírito Santo como uma Pessoa, não uma força. Ele ensina (Jo 14:26), possui emoção que pode ser contristada (Ef 4:30), fala (At 13:2) e possui inteligência (1Co 2:10-11). Forças impessoais não possuem essas características."
+            },
+            {
+              "text": "Um anjo especial designado por Deus para habitar nos cristãos",
+              "isCorrect": false,
+              "explanation": "O Espírito Santo não é um anjo, mas a terceira Pessoa da Trindade divina. Atos 5:3-4 equipara mentir ao Espírito Santo com mentir a Deus, demonstrando Sua plena divindade. Ele é Deus no mais pleno sentido."
+            }
+          ],
+          "verse": "Atos 5:3-4; Mateus 28:19",
+          "verseText": "\"Batizando-os em nome do Pai, e do Filho, e do Espírito Santo.\" — Mateus 28:19"
+        },
+        {
+          "question": "Quais são as funções desempenhadas pelo Espírito Santo?",
+          "options": [
+            {
+              "text": "Guiar em toda a verdade; convencer do pecado, da justiça e do juízo; mudar a natureza humana",
+              "isCorrect": true,
+              "explanation": "São várias as funções do Espírito Santo: confirmar as verdades bíblicas; originar a revelação; guiar, proteger, acalmar e dar esperança. Por meio de Seu poder somos santificados e capacitados para exercer um ministério de impacto."
+            },
+            {
+              "text": "Apenas revelar visões e sonhos proféticos aos escolhidos",
+              "isCorrect": false,
+              "explanation": "O ministério do Espírito vai muito além da revelação profética. João 16:8-13 descreve funções abrangentes: convencer do pecado, guiar em toda a verdade e glorificar a Cristo. Ele também transforma a natureza humana (1Sm 10:6)."
+            },
+            {
+              "text": "Somente ensinar algumas coisas específicas da lei de Deus",
+              "isCorrect": false,
+              "explanation": "Jesus prometeu que o Espírito guiaria em toda a verdade (Jo 16:13), não apenas em algumas coisas. Suas funções são amplas e abrangentes: ensinar, convencer, guiar, transformar e capacitar para o serviço."
+            }
+          ],
+          "verse": "João 14:26; 16:8-13; 1 Samuel 10:6",
+          "verseText": "\"Mas o Consolador, o Espírito Santo... vos ensinará todas as coisas e vos fará lembrar de tudo o que vos tenho dito.\" — João 14:26"
+        },
+        {
+          "question": "Quando uma pessoa é batizada com o Espírito Santo?",
+          "options": [
+            {
+              "text": "Quando é batizada nas águas; e essa deve ser uma experiência renovada diariamente",
+              "isCorrect": true,
+              "explanation": "A Bíblia associa o batismo do Espírito Santo ao batismo nas águas, mas essa deve ser uma experiência renovada diariamente na vida daqueles que se entregaram a Deus. Em suma, batizar com o Espírito Santo é se dispor a ser usado por Deus plenamente por meio do poder que Ele nos concede através dos dons espirituais."
+            },
+            {
+              "text": "Apenas quando falar em línguas estranhas como sinal visível",
+              "isCorrect": false,
+              "explanation": "A Bíblia não limita o batismo do Espírito ao falar em línguas. O critério bíblico é a obediência a Deus e o fruto do Espírito (Gl 5:22-23), não um fenômeno específico. Gálatas 5 descreve o fruto — amor, alegria, paz — como evidência da vida no Espírito."
+            },
+            {
+              "text": "Uma única vez, em momento especial de crise espiritual",
+              "isCorrect": false,
+              "explanation": "O batismo do Espírito Santo deve ser uma experiência diária, não um evento único de crise. Essa experiência está associada a três atividades contínuas: estudo da Bíblia, oração e testemunho aos que ainda não conhecem Jesus."
+            }
+          ],
+          "verse": "João 3:5; Mateus 3:16",
+          "verseText": "\"Jesus respondeu: Em verdade, em verdade te digo que aquele que não nascer da água e do Espírito não pode entrar no reino de Deus.\" — João 3:5"
+        },
+        {
+          "question": "Como podemos saber se o crente possui o Espírito Santo?",
+          "options": [
+            {
+              "text": "Quando ama a Deus, obedece aos Seus mandamentos e sua vida apresenta o fruto do Espírito",
+              "isCorrect": true,
+              "explanation": "Do mesmo jeito que conhecemos os falsos profetas, podemos reconhecer se uma pessoa possui o Espírito Santo: 'Quem permanece em mim, e eu, nele, esse dá muito fruto; porque sem mim nada podeis fazer' (Jo 15:5). Devemos avaliar se a manifestação do Espírito está de acordo com os princípios bíblicos."
+            },
+            {
+              "text": "Apenas quando realiza milagres visíveis e expulsa demônios",
+              "isCorrect": false,
+              "explanation": "A Bíblia alerta que não se prova o Espírito Santo somente através de expulsão de demônios ou previsão do futuro. O critério principal é o fruto do Espírito (Gl 5:22-23) e a obediência aos mandamentos de Deus (Jo 14:15)."
+            },
+            {
+              "text": "Apenas quando fala em línguas como sinal incontestável",
+              "isCorrect": false,
+              "explanation": "Falar em línguas é um dos dons do Espírito, mas não é o único sinal nem o principal. O critério mais abrangente é o fruto do Espírito (Gl 5:22-23) e a vida de obediência. Nem todos os que recebem o Espírito falam em línguas (1Co 12:30)."
+            }
+          ],
+          "verse": "Atos 5:32; Gálatas 5:22-23",
+          "verseText": "\"O fruto do Espírito, porém, é: amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade, mansidão, temperança.\" — Gálatas 5:22-23"
+        },
+        {
+          "question": "O que devemos pedir hoje a Jesus?",
+          "options": [
+            {
+              "text": "O Espírito Santo; seu batismo deve ser uma experiência diária associada ao estudo da Bíblia, oração e testemunho",
+              "isCorrect": true,
+              "explanation": "O batismo do Espírito Santo deve ser uma experiência diária na vida dos filhos de Deus. Essa experiência está associada a três atividades: 1) Estudo da Bíblia, com disposição para obedecer; 2) Oração e 3) Testemunho aos que ainda não conhecem Jesus."
+            },
+            {
+              "text": "Apenas prosperidade material e proteção física",
+              "isCorrect": false,
+              "explanation": "Lucas 11:13 apresenta o Espírito Santo como o maior presente que Deus pode dar a Seus filhos. Bênçãos materiais são secundárias em comparação ao dom do Espírito, que transforma a vida e capacita para o serviço eterno."
+            },
+            {
+              "text": "Nada; já recebemos tudo no momento da conversão",
+              "isCorrect": false,
+              "explanation": "A Bíblia nos encoraja a pedir continuamente o Espírito Santo (Lc 11:13) como experiência renovada diariamente. A conversão é o início, não o destino. O crescimento espiritual requer a busca constante pela plenitude do Espírito."
+            }
+          ],
+          "verse": "Lucas 11:13",
+          "verseText": "\"Quanto mais o Pai celestial dará o Espírito Santo àqueles que lho pedirem!\" — Lucas 11:13"
+        }
+      ]
+    },
+    {
+      "id": "l27",
+      "title": "Um Ministério para Todos",
+      "subtitle": "O cristão como sal da terra e luz do mundo",
+      "thumbnailImage": "assets/images/chapters/fe.jpg",
+      "type": "textWithQuestions",
+      "bodyText": "Todo cristão verdadeiro nasce no reino de Deus como missionário, ou seja, toda pessoa que foi salva tem como seu primeiro impulso ou desejo o de salvar alguém. Na verdade, Deus nos chamou também para a tarefa de trabalhar lado a lado com Ele na salvação dos nossos semelhantes.\n\nNão só os pastores devem fazer isso. O Espírito Santo capacita todo crente a fim de que, segundo os dons recebidos, possa cumprir sua parte no projeto missionário de Deus. Esse é o ensino da Bíblia.",
+      "questions": [
+        {
+          "question": "O que, de acordo com a afirmação de Jesus, devemos ser?",
+          "options": [
+            {
+              "text": "Sal da terra e luz do mundo",
+              "isCorrect": true,
+              "explanation": "O sal nos tempos bíblicos era valioso, servia como moeda. A ilustração do sal fala do nosso caráter; a luz fala do nosso testemunho. Todo crente convertido é convidado por Jesus a atuar como 'sal da terra' e 'luz do mundo', para fazer a diferença nesse mundo de pecado."
+            },
+            {
+              "text": "Juízes e governantes das nações do mundo",
+              "isCorrect": false,
+              "explanation": "A missão descrita por Jesus em Mateus 5:13-14 é de influência espiritual e moral — ser sal e luz — não de poder político ou judicial. O cristão influencia o mundo pelo caráter e pelo testemunho, não pelo domínio."
+            },
+            {
+              "text": "Isolados do mundo para preservar a pureza espiritual",
+              "isCorrect": false,
+              "explanation": "Jesus não pediu isolamento, mas presença transformadora no mundo. O sal que fica no saleiro não cumpre sua função. O cristão deve estar no mundo, sendo sal e luz, não recluído longe das pessoas que precisam de Cristo."
+            }
+          ],
+          "verse": "Mateus 5:13-14",
+          "verseText": "\"Vós sois o sal da terra... vós sois a luz do mundo.\" — Mateus 5:13-14"
+        },
+        {
+          "question": "Quando é que o crente se torna luz no mundo?",
+          "options": [
+            {
+              "text": "Quando recebe poder ao descer sobre ele o Espírito Santo, tornando-se testemunha de Cristo",
+              "isCorrect": true,
+              "explanation": "Todo crente foi comissionado por Cristo para pregar o evangelho. Atos 1:8 relaciona o testemunho motivado pela presença do Espírito Santo. É interessante notar que Jesus não prometeu que o crente seria um grande pregador ou operador de milagres, e sim que seria, simplesmente, Sua testemunha perante o mundo."
+            },
+            {
+              "text": "Quando conclui um curso de evangelismo formal na igreja",
+              "isCorrect": false,
+              "explanation": "Atos 1:8 não condicionou o testemunho a cursos ou formação formal, mas à presença do Espírito Santo. Todo crente que recebe o Espírito é habilitado para o testemunho, independentemente de sua formação educacional."
+            },
+            {
+              "text": "Somente após anos de vida cristã e maturidade espiritual comprovada",
+              "isCorrect": false,
+              "explanation": "Os discípulos do Pentecostes não tinham anos de maturidade acumulados; tinham o Espírito Santo. É o Espírito quem capacita, não o tempo de cristão. Todo convertido recém-batizado já é comissionado como testemunha de Cristo."
+            }
+          ],
+          "verse": "Atos 1:8",
+          "verseText": "\"Mas recebereis poder, ao descer sobre vós o Espírito Santo, e sereis minhas testemunhas.\" — Atos 1:8"
+        },
+        {
+          "question": "Qual é a dádiva do Espírito Santo àqueles que O aceitam?",
+          "options": [
+            {
+              "text": "Fruto e dons espirituais",
+              "isCorrect": true,
+              "explanation": "Os dons espirituais são habilidades distribuídas pelo Espírito Santo a cada cristão, desde os tempos do Antigo Testamento. São ferramentas que Deus concede à Igreja para fazer avançar a Sua obra, para edificação espiritual do crente, para o crescimento do corpo de Cristo e a glória de Deus. Os dons tornam relevante o testemunho pessoal e capacitam a igreja a evangelizar o mundo."
+            },
+            {
+              "text": "Apenas fala em línguas como sinal único e definitivo",
+              "isCorrect": false,
+              "explanation": "1 Coríntios 12:7-11 lista uma grande variedade de dons espirituais, sendo línguas apenas um deles. O Espírito distribui diferentes dons a diferentes pessoas 'como quer' (1Co 12:11), não limitando Sua dádiva a um único dom."
+            },
+            {
+              "text": "Riqueza material e saúde perfeita garantidas",
+              "isCorrect": false,
+              "explanation": "As dádivas do Espírito são espirituais — fruto e dons — para edificação da Igreja e testemunho do evangelho. Gálatas 5:22-23 e 1 Coríntios 12:7-11 descrevem virtudes e habilidades espirituais, não prosperidade material automática."
+            }
+          ],
+          "verse": "Gálatas 5:22-23; 1 Coríntios 12:7-11",
+          "verseText": "\"A cada um é dada a manifestação do Espírito para o bem comum.\" — 1 Coríntios 12:7"
+        },
+        {
+          "question": "Quais são os dons de capacitação na igreja e qual o seu objetivo?",
+          "options": [
+            {
+              "text": "Apóstolos, profetas, evangelistas, pastores e mestres; objetivo: aperfeiçoar os santos para o serviço e edificar o corpo de Cristo",
+              "isCorrect": true,
+              "explanation": "Paulo destaca os dons ministeriais que capacitam os membros do corpo de Cristo a exercer um ministério específico. As Escrituras declaram que 'há diversidade de ministérios, mas o Senhor é o mesmo' (1Co 12:5)."
+            },
+            {
+              "text": "Apenas pastores e diáconos ordenados; objetivo: administrar a estrutura eclesiástica",
+              "isCorrect": false,
+              "explanation": "Efésios 4:11-12 lista cinco dons ministeriais, não apenas pastores e diáconos. O objetivo não é a administração institucional, mas o aperfeiçoamento dos santos para que cada membro exerça seu ministério pessoal."
+            },
+            {
+              "text": "Curandeiros, exorcistas e videntes; objetivo: impressionar e atrair multidões",
+              "isCorrect": false,
+              "explanation": "Os dons de capacitação listados em Efésios 4:11 são: apóstolos, profetas, evangelistas, pastores e mestres. Seu objetivo é o aperfeiçoamento dos santos — não espetáculo ou entretenimento religioso."
+            }
+          ],
+          "verse": "Efésios 4:11-15",
+          "verseText": "\"Para o aperfeiçoamento dos santos, visando o desempenho dos seus serviços, para a edificação do corpo de Cristo.\" — Efésios 4:12"
+        },
+        {
+          "question": "Qual o dom que Deus considera mais importante?",
+          "options": [
+            {
+              "text": "O dom do amor",
+              "isCorrect": true,
+              "explanation": "O amor retratado pelo apóstolo Paulo em 1 Coríntios 13 está acima dos valores humanos. Encontramos ali um amor que tudo sofre, tudo crê, tudo espera, tudo suporta. O verdadeiro amor não age em interesse próprio e está acima do egoísmo. Somente quem verdadeiramente ama é capaz de renunciar seus próprios interesses para priorizar a necessidade do próximo."
+            },
+            {
+              "text": "O dom de curar, pois demonstra poder sobrenatural",
+              "isCorrect": false,
+              "explanation": "1 Coríntios 13:1-3 é explícito: mesmo que alguém realizasse todos os milagres possíveis, sem amor, não seria nada. O amor é o maior dom porque é o fundamento de toda a ação cristã genuína."
+            },
+            {
+              "text": "O dom de línguas, como sinal da presença do Espírito",
+              "isCorrect": false,
+              "explanation": "Paulo compara línguas e amor em 1 Coríntios 13:1: mesmo falar em todas as línguas dos homens e dos anjos, sem amor, seria como bronze que soa. O amor supera todos os dons de manifestação espiritual."
+            }
+          ],
+          "verse": "1 Coríntios 13:1-3, 13",
+          "verseText": "\"Ainda que eu fale as línguas dos homens e dos anjos, e não tenha amor, serei como o bronze que soa.\" — 1 Coríntios 13:1"
+        },
+        {
+          "question": "O que Deus espera de mim quando descubro meus dons?",
+          "options": [
+            {
+              "text": "Que não seja negligente com o dom que há em mim; que o use fielmente",
+              "isCorrect": true,
+              "explanation": "A descoberta e utilização dos dons espirituais promove o fortalecimento espiritual, traz alegria e paz, mantém o crente preparado para a volta de Cristo e protege contra os ataques do inimigo. Ao conhecê-los, temos o compromisso de colocá-los em prática (1Pe 4:10). O crente convertido usa a influência pessoal, os dons, o tempo e os recursos para expandir o reino de Deus."
+            },
+            {
+              "text": "Que guarde os dons em segredo para evitar a vaidade",
+              "isCorrect": false,
+              "explanation": "1 Timóteo 4:14 orienta exatamente o contrário: 'não te faças negligente para com o dom que há em ti.' Os dons são dados para uso, não para ocultamento. Guardá-los em segredo seria negligência condenada pela Palavra."
+            },
+            {
+              "text": "Que espere o pastor indicar quando e como usar os dons",
+              "isCorrect": false,
+              "explanation": "A responsabilidade de usar os dons é pessoal, não delegada ao pastor. 1 Pedro 4:10 orienta: 'cada um administre aos outros o dom que recebeu.' Deus deu o dom a cada crente individualmente e espera que cada um o use ativamente."
+            }
+          ],
+          "verse": "1 Timóteo 4:14",
+          "verseText": "\"Não te faças negligente para com o dom que há em ti.\" — 1 Timóteo 4:14"
+        },
+        {
+          "question": "O que a Bíblia diz que somos após o batismo?",
+          "options": [
+            {
+              "text": "Ministros ou sacerdotes de Deus — não membros passivos",
+              "isCorrect": true,
+              "explanation": "No contexto do Tempo do Fim, cada crente é convidado a desempenhar um ministério de impacto, tendo em vista edificar o corpo de Cristo e glorificar a Deus. Todos são convidados a atuar como Seus ministros, dedicando dons, talentos, recursos e influência pessoal para o avanço da obra do Senhor (1Pe 2:5, 9)."
+            },
+            {
+              "text": "Membros passivos que apoiam financeiramente os ministros ordenados",
+              "isCorrect": false,
+              "explanation": "1 Pedro 2:9 declara que todo o povo de Deus é 'real sacerdócio'. O batismo é a ordenação do crente ao ministério. A Reforma Protestante restaurou o conceito do sacerdócio universal dos crentes, e a Igreja Adventista nasceu com a visão de devolver o ministério a todos os membros."
+            },
+            {
+              "text": "Observadores do trabalho dos líderes religiosos profissionais",
+              "isCorrect": false,
+              "explanation": "A Igreja Romana a partir do terceiro século centralizou o ministério no clero. Mas a Bíblia ensina o sacerdócio de todos os crentes (1Pe 2:9). O movimento adventista nasceu com a visão bíblica de restaurar essa doutrina."
+            }
+          ],
+          "verse": "1 Pedro 2:9",
+          "verseText": "\"Mas vós sois a geração eleita, o sacerdócio real, a nação santa, o povo adquirido por Deus.\" — 1 Pedro 2:9"
+        },
+        {
+          "question": "Qual é a missão que recebemos de Jesus hoje?",
+          "options": [
+            {
+              "text": "Fazer discípulos de todas as nações, batizando-os e ensinando-os a guardar tudo o que Jesus ordenou",
+              "isCorrect": true,
+              "explanation": "Nesse texto Jesus expõe aos discípulos a prioridade de Seu ministério: 'o discipulado'. A ordem é seguida por uma promessa maravilhosa: Ele estaria conosco todos os dias da nossa vida até a Sua volta. Evangelizar é um ato de obediência e amor a Deus. Para crescer espiritualmente, todo crente deve estudar a Bíblia, orar e trabalhar para levar pessoas a Cristo."
+            },
+            {
+              "text": "Construir templos bonitos e programas atrativos em cada cidade",
+              "isCorrect": false,
+              "explanation": "A Grande Comissão de Mateus 28:19-20 é sobre fazer discípulos, não construir estruturas físicas. O foco é relacional e missionário: ir, baptizar e ensinar — não institucional."
+            },
+            {
+              "text": "Aguardar passivamente a volta de Cristo sem interferir no mundo",
+              "isCorrect": false,
+              "explanation": "Jesus ordenou 'ide' — ação, não espera passiva. Mateus 24:14 conecta a pregação do evangelho a todas as nações com o fim: 'então virá o fim.' A espera ativa inclui pregar, testemunhar e fazer discípulos enquanto aguardamos a volta de Cristo."
+            }
+          ],
+          "verse": "Mateus 28:19-20",
+          "verseText": "\"Ide, portanto, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo.\" — Mateus 28:19"
         }
       ]
     }
