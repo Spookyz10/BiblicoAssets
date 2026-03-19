@@ -48,7 +48,7 @@
       { "id": "adol_2026_t1_l13", "number": 13, "title": "Uma Minoria Impopular",           "textKey": "At 19:11, 12","dateRange": "21 a 27 de março de 2026" }
     ]
   },
-  {
+   {
     "id": "adu_2026_t1",
     "number": 1,
     "title": "Cristo em Filipenses e Colossenses",
@@ -56,6 +56,7 @@
     "pdfUrl": "https://drive.google.com/file/d/1o5oOt3WBEVoUHbRticf39Aof_01JJBQe/view?usp=sharing",
     "category": "adultos",
     "year": 2026,
+    "lessonCount": 13,
     "file": "adultos_2026_t1.json",
     "lessons": [
       { "id": "adu_2026_t1_l1", "number": 1, "title": "Perseguidos, mas não abandonados",         "textKey": "Fp 4:4",           "dateRange": "27 de Dezembro a 2 de Janeiro" },
