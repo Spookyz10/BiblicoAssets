@@ -271,8 +271,6 @@
       ]
     },
     {
-  "lessons": [
-    {
       "id": "adult_2026_t1_l5",
       "number": 5,
       "title": "Brilhando como estrelas na noite",
@@ -535,11 +533,7 @@
           "verseText": null
         }
       ]
-    }
-  ]
-},
-    {
-  "lessons": [
+    },
     {
       "id": "adult_2026_t1_l9",
       "number": 9,
@@ -870,8 +864,5 @@
         }
       ]
     }
-  ]
-}
-    
   ]
 }
