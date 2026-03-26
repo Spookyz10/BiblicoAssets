@@ -73,5 +73,31 @@
       { "id": "adultos_2026_t1_l12","number": 12,"title": "Convivendo com os outros",                "textKey": "Cl 4:6",                                                  "dateRange": "14 a 20 de Março" },
       { "id": "adultos_2026_t1_l13","number": 13,"title": "Permanecendo na vontade de Deus",                     "textKey": "1Ts 5:18",                                                    "dateRange": "21 a 27 de Março" }
     ]
+  },
+  {
+    "id": "adultos_2026_t2",
+    "number": 2,
+    "title": "Cristo em Filipenses e Colossenses",
+    "coverImage": "assets/images/lessons/adultos/2026_t1_capa.png",
+    "pdfUrl": "https://drive.google.com/file/d/1o5oOt3WBEVoUHbRticf39Aof_01JJBQe/view?usp=sharing",
+    "category": "adultos",
+    "year": 2026,
+    "lessonCount": 13,
+    "file": "adultos_2026_t2.json",
+    "lessons": [
+      { "id": "adultos_2026_t1_l1", "number": 1, "title": "Perseguidos, mas não abandonados",         "textKey": "Fp 4:4",           "dateRange": "27 de Dezembro a 2 de Janeiro" },
+      { "id": "adultos_2026_t1_l2", "number": 2, "title": "Razões para ação de graças e oração",      "textKey": "Fp 1:1-6",       "dateRange": "3 a 9 de Janeiro" },
+      { "id": "adultos_2026_t1_l3", "number": 3, "title": "Vida e morte",                             "textKey": "Fp 1:21",   "dateRange": "10 a 16 de Janeiro" },
+      { "id": "adultos_2026_t1_l4", "number": 4, "title": "Unidade por meio da humildade",            "textKey": "Fp 2:2",    "dateRange": "17 a 23 de Janeiro" },
+      { "id": "adultos_2026_t1_l5", "number": 5, "title": "Brilhando como estrelas na noite",         "textKey": "Fp 2:14, 15",                                                  "dateRange": "24 a 30 de Janeiro" },
+      { "id": "adultos_2026_t1_l6", "number": 6, "title": "Confiança somente em Cristo",              "textKey": "Fp 3:10, 11",                                                  "dateRange": "31 de Janeiro a 6 de Fevereiro" },
+      { "id": "adultos_2026_t1_l7", "number": 7, "title": "Cidadania celestial",                      "textKey": "Fp 4:6",                                                       "dateRange": "7 a 13 de Fevereiro" },
+      { "id": "adultos_2026_t1_l8", "number": 8, "title": "A supremacia de Cristo",                   "textKey": "Cl 1:15-17",                                                   "dateRange": "14 a 20 de Fevereiro" },
+      { "id": "adultos_2026_t1_l9", "number": 9, "title": "Reconciliação e esperança",              "textKey": "2Co 5:21",                                                   "dateRange": "21 a 27 de Fevereiro" },
+      { "id": "adultos_2026_t1_l10","number": 10,"title": "Completos em Cristo",                          "textKey": "Cl 2:16, 17",                                                    "dateRange": "28 de Fevereiro a 6 de Março" },
+      { "id": "adultos_2026_t1_l11","number": 11,"title": "Viver com Cristo",                      "textKey": "Cl 3:14",                                                    "dateRange": "7 a 13 de Março" },
+      { "id": "adultos_2026_t1_l12","number": 12,"title": "Convivendo com os outros",                "textKey": "Cl 4:6",                                                  "dateRange": "14 a 20 de Março" },
+      { "id": "adultos_2026_t1_l13","number": 13,"title": "Permanecendo na vontade de Deus",                     "textKey": "1Ts 5:18",                                                    "dateRange": "21 a 27 de Março" }
+    ]
   }
 ]
